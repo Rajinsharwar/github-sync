@@ -1,0 +1,2384 @@
+[INFO]-[2022/10/14 13:11:38] Cloning: 1665753098543's clone job's data is not in database, generating data
+[INFO]-[2022/10/14 13:11:39] DB Copy: Creating table wpstg0_actionscheduler_actions
+[INFO]-[2022/10/14 13:11:39] DB Copy: Table wp_actionscheduler_actions contains 139 rows 
+[INFO]-[2022/10/14 13:11:39] DB Copy: Copy data from wp_actionscheduler_actions to wpstg0_actionscheduler_actions - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:40] DB Copy: Creating table wpstg0_actionscheduler_claims
+[INFO]-[2022/10/14 13:11:40] DB Copy: Table wp_actionscheduler_claims contains 0 rows 
+[INFO]-[2022/10/14 13:11:40] DB Copy: Creating table wpstg0_actionscheduler_groups
+[INFO]-[2022/10/14 13:11:40] DB Copy: Table wp_actionscheduler_groups contains 7 rows 
+[INFO]-[2022/10/14 13:11:40] DB Copy: Copy data from wp_actionscheduler_groups to wpstg0_actionscheduler_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:40] DB Copy: Creating table wpstg0_actionscheduler_logs
+[INFO]-[2022/10/14 13:11:40] DB Copy: Table wp_actionscheduler_logs contains 409 rows 
+[INFO]-[2022/10/14 13:11:40] DB Copy: Copy data from wp_actionscheduler_logs to wpstg0_actionscheduler_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:41] DB Copy: Creating table wpstg0_aioseo_cache
+[INFO]-[2022/10/14 13:11:41] DB Copy: Table wp_aioseo_cache contains 2 rows 
+[INFO]-[2022/10/14 13:11:41] DB Copy: Copy data from wp_aioseo_cache to wpstg0_aioseo_cache - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:41] DB Copy: Creating table wpstg0_aioseo_notifications
+[INFO]-[2022/10/14 13:11:41] DB Copy: Table wp_aioseo_notifications contains 2 rows 
+[INFO]-[2022/10/14 13:11:41] DB Copy: Copy data from wp_aioseo_notifications to wpstg0_aioseo_notifications - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:41] DB Copy: Creating table wpstg0_aioseo_posts
+[INFO]-[2022/10/14 13:11:42] DB Copy: Table wp_aioseo_posts contains 293 rows 
+[INFO]-[2022/10/14 13:11:42] DB Copy: Copy data from wp_aioseo_posts to wpstg0_aioseo_posts - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:42] DB Copy: Creating table wpstg0_aiowps_debug_log
+[INFO]-[2022/10/14 13:11:42] DB Copy: Table wp_aiowps_debug_log contains 0 rows 
+[INFO]-[2022/10/14 13:11:42] DB Copy: Creating table wpstg0_aiowps_events
+[INFO]-[2022/10/14 13:11:42] DB Copy: Table wp_aiowps_events contains 0 rows 
+[INFO]-[2022/10/14 13:11:43] DB Copy: Creating table wpstg0_aiowps_failed_logins
+[INFO]-[2022/10/14 13:11:43] DB Copy: Table wp_aiowps_failed_logins contains 2 rows 
+[INFO]-[2022/10/14 13:11:43] DB Copy: Copy data from wp_aiowps_failed_logins to wpstg0_aiowps_failed_logins - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:43] DB Copy: Creating table wpstg0_aiowps_global_meta
+[INFO]-[2022/10/14 13:11:43] DB Copy: Table wp_aiowps_global_meta contains 0 rows 
+[INFO]-[2022/10/14 13:11:43] DB Copy: Creating table wpstg0_aiowps_login_activity
+[INFO]-[2022/10/14 13:11:43] DB Copy: Table wp_aiowps_login_activity contains 0 rows 
+[INFO]-[2022/10/14 13:11:44] DB Copy: Creating table wpstg0_aiowps_login_lockdown
+[INFO]-[2022/10/14 13:11:44] DB Copy: Table wp_aiowps_login_lockdown contains 0 rows 
+[INFO]-[2022/10/14 13:11:44] DB Copy: Creating table wpstg0_aiowps_permanent_block
+[INFO]-[2022/10/14 13:11:44] DB Copy: Table wp_aiowps_permanent_block contains 0 rows 
+[INFO]-[2022/10/14 13:11:44] DB Copy: Creating table wpstg0_as3cf_items
+[INFO]-[2022/10/14 13:11:44] DB Copy: Table wp_as3cf_items contains 0 rows 
+[INFO]-[2022/10/14 13:11:45] DB Copy: Creating table wpstg0_badgeos_achievements
+[INFO]-[2022/10/14 13:11:45] DB Copy: Table wp_badgeos_achievements contains 0 rows 
+[INFO]-[2022/10/14 13:11:45] DB Copy: Creating table wpstg0_badgeos_points
+[INFO]-[2022/10/14 13:11:45] DB Copy: Table wp_badgeos_points contains 0 rows 
+[INFO]-[2022/10/14 13:11:45] DB Copy: Creating table wpstg0_badgeos_ranks
+[INFO]-[2022/10/14 13:11:45] DB Copy: Table wp_badgeos_ranks contains 0 rows 
+[INFO]-[2022/10/14 13:11:46] DB Copy: Creating table wpstg0_bb_access_group_tmp_items
+[INFO]-[2022/10/14 13:11:46] DB Copy: Table wp_bb_access_group_tmp_items contains 0 rows 
+[INFO]-[2022/10/14 13:11:46] DB Copy: Creating table wpstg0_bb_access_groups
+[INFO]-[2022/10/14 13:11:46] DB Copy: Table wp_bb_access_groups contains 4 rows 
+[INFO]-[2022/10/14 13:11:46] DB Copy: Copy data from wp_bb_access_groups to wpstg0_bb_access_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:46] DB Copy: Creating table wpstg0_bb_access_groups_members
+[INFO]-[2022/10/14 13:11:46] DB Copy: Table wp_bb_access_groups_members contains 8 rows 
+[INFO]-[2022/10/14 13:11:46] DB Copy: Copy data from wp_bb_access_groups_members to wpstg0_bb_access_groups_members - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:47] DB Copy: Creating table wpstg0_bb_access_rules
+[INFO]-[2022/10/14 13:11:47] DB Copy: Table wp_bb_access_rules contains 2 rows 
+[INFO]-[2022/10/14 13:11:47] DB Copy: Copy data from wp_bb_access_rules to wpstg0_bb_access_rules - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:47] DB Copy: Creating table wpstg0_bb_access_rules_groups
+[INFO]-[2022/10/14 13:11:47] DB Copy: Table wp_bb_access_rules_groups contains 1 rows 
+[INFO]-[2022/10/14 13:11:47] DB Copy: Copy data from wp_bb_access_rules_groups to wpstg0_bb_access_rules_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:47] DB Copy: Creating table wpstg0_bb_email_queue
+[INFO]-[2022/10/14 13:11:47] DB Copy: Table wp_bb_email_queue contains 0 rows 
+[INFO]-[2022/10/14 13:11:48] DB Copy: Creating table wpstg0_bb_performance_cache
+[INFO]-[2022/10/14 13:11:48] DB Copy: Table wp_bb_performance_cache contains 23 rows 
+[INFO]-[2022/10/14 13:11:48] DB Copy: Copy data from wp_bb_performance_cache to wpstg0_bb_performance_cache - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:48] DB Copy: Creating table wpstg0_bbapp_iap_ordermeta
+[INFO]-[2022/10/14 13:11:48] DB Copy: Table wp_bbapp_iap_ordermeta contains 150 rows 
+[INFO]-[2022/10/14 13:11:48] DB Copy: Copy data from wp_bbapp_iap_ordermeta to wpstg0_bbapp_iap_ordermeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:48] DB Copy: Creating table wpstg0_bbapp_iap_orders
+[INFO]-[2022/10/14 13:11:48] DB Copy: Table wp_bbapp_iap_orders contains 6 rows 
+[INFO]-[2022/10/14 13:11:48] DB Copy: Copy data from wp_bbapp_iap_orders to wpstg0_bbapp_iap_orders - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:49] DB Copy: Creating table wpstg0_bbapp_iap_productmeta
+[INFO]-[2022/10/14 13:11:49] DB Copy: Table wp_bbapp_iap_productmeta contains 12 rows 
+[INFO]-[2022/10/14 13:11:49] DB Copy: Copy data from wp_bbapp_iap_productmeta to wpstg0_bbapp_iap_productmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:49] DB Copy: Creating table wpstg0_bbapp_iap_products
+[INFO]-[2022/10/14 13:11:49] DB Copy: Table wp_bbapp_iap_products contains 12 rows 
+[INFO]-[2022/10/14 13:11:49] DB Copy: Copy data from wp_bbapp_iap_products to wpstg0_bbapp_iap_products - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:49] DB Copy: Creating table wpstg0_bbapp_itemmeta
+[INFO]-[2022/10/14 13:11:49] DB Copy: Table wp_bbapp_itemmeta contains 124 rows 
+[INFO]-[2022/10/14 13:11:49] DB Copy: Copy data from wp_bbapp_itemmeta to wpstg0_bbapp_itemmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:49] DB Copy: Creating table wpstg0_bbapp_logs
+[INFO]-[2022/10/14 13:11:50] DB Copy: Table wp_bbapp_logs contains 33200 rows 
+[INFO]-[2022/10/14 13:11:50] DB Copy: Copy data from wp_bbapp_logs to wpstg0_bbapp_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:50] DB Copy: Copy data from wp_bbapp_logs to wpstg0_bbapp_logs - 10000 to 20000 records
+[INFO]-[2022/10/14 13:11:50] DB Copy: Copy data from wp_bbapp_logs to wpstg0_bbapp_logs - 20000 to 30000 records
+[INFO]-[2022/10/14 13:11:51] DB Copy: Copy data from wp_bbapp_logs to wpstg0_bbapp_logs - 30000 to 40000 records
+[INFO]-[2022/10/14 13:11:51] DB Copy: Creating table wpstg0_bbapp_notifications
+[INFO]-[2022/10/14 13:11:51] DB Copy: Table wp_bbapp_notifications contains 0 rows 
+[INFO]-[2022/10/14 13:11:52] DB Copy: Creating table wpstg0_bbapp_push_notifications
+[INFO]-[2022/10/14 13:11:52] DB Copy: Table wp_bbapp_push_notifications contains 17 rows 
+[INFO]-[2022/10/14 13:11:52] DB Copy: Copy data from wp_bbapp_push_notifications to wpstg0_bbapp_push_notifications - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:52] DB Copy: Creating table wpstg0_bbapp_push_notifications_history
+[INFO]-[2022/10/14 13:11:52] DB Copy: Table wp_bbapp_push_notifications_history contains 4403 rows 
+[INFO]-[2022/10/14 13:11:52] DB Copy: Copy data from wp_bbapp_push_notifications_history to wpstg0_bbapp_push_notifications_history - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:52] DB Copy: Creating table wpstg0_bbapp_push_notifications_meta
+[INFO]-[2022/10/14 13:11:52] DB Copy: Table wp_bbapp_push_notifications_meta contains 1 rows 
+[INFO]-[2022/10/14 13:11:52] DB Copy: Copy data from wp_bbapp_push_notifications_meta to wpstg0_bbapp_push_notifications_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:53] DB Copy: Creating table wpstg0_bbapp_push_queue
+[INFO]-[2022/10/14 13:11:53] DB Copy: Table wp_bbapp_push_queue contains 4409 rows 
+[INFO]-[2022/10/14 13:11:53] DB Copy: Copy data from wp_bbapp_push_queue to wpstg0_bbapp_push_queue - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:53] DB Copy: Creating table wpstg0_bbapp_queue
+[INFO]-[2022/10/14 13:11:53] DB Copy: Table wp_bbapp_queue contains 0 rows 
+[INFO]-[2022/10/14 13:11:54] DB Copy: Creating table wpstg0_bbapp_user_devices
+[INFO]-[2022/10/14 13:11:54] DB Copy: Table wp_bbapp_user_devices contains 3 rows 
+[INFO]-[2022/10/14 13:11:54] DB Copy: Copy data from wp_bbapp_user_devices to wpstg0_bbapp_user_devices - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:54] DB Copy: Creating table wpstg0_bbapp_user_segment
+[INFO]-[2022/10/14 13:11:54] DB Copy: Table wp_bbapp_user_segment contains 0 rows 
+[INFO]-[2022/10/14 13:11:54] DB Copy: Creating table wpstg0_bp_activity
+[INFO]-[2022/10/14 13:11:54] DB Copy: Table wp_bp_activity contains 1131 rows 
+[INFO]-[2022/10/14 13:11:54] DB Copy: Copy data from wp_bp_activity to wpstg0_bp_activity - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:55] DB Copy: Creating table wpstg0_bp_activity_meta
+[INFO]-[2022/10/14 13:11:55] DB Copy: Table wp_bp_activity_meta contains 2714 rows 
+[INFO]-[2022/10/14 13:11:55] DB Copy: Copy data from wp_bp_activity_meta to wpstg0_bp_activity_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:55] DB Copy: Creating table wpstg0_bp_document
+[INFO]-[2022/10/14 13:11:55] DB Copy: Table wp_bp_document contains 27 rows 
+[INFO]-[2022/10/14 13:11:55] DB Copy: Copy data from wp_bp_document to wpstg0_bp_document - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:55] DB Copy: Creating table wpstg0_bp_document_folder
+[INFO]-[2022/10/14 13:11:55] DB Copy: Table wp_bp_document_folder contains 11 rows 
+[INFO]-[2022/10/14 13:11:55] DB Copy: Copy data from wp_bp_document_folder to wpstg0_bp_document_folder - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:56] DB Copy: Creating table wpstg0_bp_document_folder_meta
+[INFO]-[2022/10/14 13:11:56] DB Copy: Table wp_bp_document_folder_meta contains 0 rows 
+[INFO]-[2022/10/14 13:11:56] DB Copy: Creating table wpstg0_bp_document_meta
+[INFO]-[2022/10/14 13:11:56] DB Copy: Table wp_bp_document_meta contains 56 rows 
+[INFO]-[2022/10/14 13:11:56] DB Copy: Copy data from wp_bp_document_meta to wpstg0_bp_document_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:56] DB Copy: Creating table wpstg0_bp_follow
+[INFO]-[2022/10/14 13:11:56] DB Copy: Table wp_bp_follow contains 2 rows 
+[INFO]-[2022/10/14 13:11:56] DB Copy: Copy data from wp_bp_follow to wpstg0_bp_follow - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:57] DB Copy: Creating table wpstg0_bp_friends
+[INFO]-[2022/10/14 13:11:57] DB Copy: Table wp_bp_friends contains 71 rows 
+[INFO]-[2022/10/14 13:11:57] DB Copy: Copy data from wp_bp_friends to wpstg0_bp_friends - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:57] DB Copy: Creating table wpstg0_bp_groups
+[INFO]-[2022/10/14 13:11:57] DB Copy: Table wp_bp_groups contains 47 rows 
+[INFO]-[2022/10/14 13:11:57] DB Copy: Copy data from wp_bp_groups to wpstg0_bp_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:57] DB Copy: Creating table wpstg0_bp_groups_groupmeta
+[INFO]-[2022/10/14 13:11:57] DB Copy: Table wp_bp_groups_groupmeta contains 430 rows 
+[INFO]-[2022/10/14 13:11:57] DB Copy: Copy data from wp_bp_groups_groupmeta to wpstg0_bp_groups_groupmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:58] DB Copy: Creating table wpstg0_bp_groups_members
+[INFO]-[2022/10/14 13:11:58] DB Copy: Table wp_bp_groups_members contains 137 rows 
+[INFO]-[2022/10/14 13:11:58] DB Copy: Copy data from wp_bp_groups_members to wpstg0_bp_groups_members - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:58] DB Copy: Creating table wpstg0_bp_invitations
+[INFO]-[2022/10/14 13:11:58] DB Copy: Table wp_bp_invitations contains 20 rows 
+[INFO]-[2022/10/14 13:11:58] DB Copy: Copy data from wp_bp_invitations to wpstg0_bp_invitations - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:58] DB Copy: Creating table wpstg0_bp_media
+[INFO]-[2022/10/14 13:11:58] DB Copy: Table wp_bp_media contains 83 rows 
+[INFO]-[2022/10/14 13:11:58] DB Copy: Copy data from wp_bp_media to wpstg0_bp_media - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:58] DB Copy: Creating table wpstg0_bp_media_albums
+[INFO]-[2022/10/14 13:11:58] DB Copy: Table wp_bp_media_albums contains 3 rows 
+[INFO]-[2022/10/14 13:11:58] DB Copy: Copy data from wp_bp_media_albums to wpstg0_bp_media_albums - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:59] DB Copy: Creating table wpstg0_bp_messages_messages
+[INFO]-[2022/10/14 13:11:59] DB Copy: Table wp_bp_messages_messages contains 260 rows 
+[INFO]-[2022/10/14 13:11:59] DB Copy: Copy data from wp_bp_messages_messages to wpstg0_bp_messages_messages - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:59] DB Copy: Creating table wpstg0_bp_messages_meta
+[INFO]-[2022/10/14 13:11:59] DB Copy: Table wp_bp_messages_meta contains 365 rows 
+[INFO]-[2022/10/14 13:11:59] DB Copy: Copy data from wp_bp_messages_meta to wpstg0_bp_messages_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:11:59] DB Copy: Creating table wpstg0_bp_messages_notices
+[INFO]-[2022/10/14 13:12:00] DB Copy: Table wp_bp_messages_notices contains 1 rows 
+[INFO]-[2022/10/14 13:12:00] DB Copy: Copy data from wp_bp_messages_notices to wpstg0_bp_messages_notices - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:00] DB Copy: Creating table wpstg0_bp_messages_recipients
+[INFO]-[2022/10/14 13:12:00] DB Copy: Table wp_bp_messages_recipients contains 141 rows 
+[INFO]-[2022/10/14 13:12:00] DB Copy: Copy data from wp_bp_messages_recipients to wpstg0_bp_messages_recipients - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:00] DB Copy: Creating table wpstg0_bp_moderation
+[INFO]-[2022/10/14 13:12:00] DB Copy: Table wp_bp_moderation contains 3 rows 
+[INFO]-[2022/10/14 13:12:00] DB Copy: Copy data from wp_bp_moderation to wpstg0_bp_moderation - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:00] DB Copy: Creating table wpstg0_bp_moderation_meta
+[INFO]-[2022/10/14 13:12:00] DB Copy: Table wp_bp_moderation_meta contains 4 rows 
+[INFO]-[2022/10/14 13:12:00] DB Copy: Copy data from wp_bp_moderation_meta to wpstg0_bp_moderation_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:01] DB Copy: Creating table wpstg0_bp_notifications
+[INFO]-[2022/10/14 13:12:01] DB Copy: Table wp_bp_notifications contains 1051 rows 
+[INFO]-[2022/10/14 13:12:01] DB Copy: Copy data from wp_bp_notifications to wpstg0_bp_notifications - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:01] DB Copy: Creating table wpstg0_bp_notifications_meta
+[INFO]-[2022/10/14 13:12:01] DB Copy: Table wp_bp_notifications_meta contains 821 rows 
+[INFO]-[2022/10/14 13:12:01] DB Copy: Copy data from wp_bp_notifications_meta to wpstg0_bp_notifications_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:01] DB Copy: Creating table wpstg0_bp_suspend
+[INFO]-[2022/10/14 13:12:01] DB Copy: Table wp_bp_suspend contains 848 rows 
+[INFO]-[2022/10/14 13:12:01] DB Copy: Copy data from wp_bp_suspend to wpstg0_bp_suspend - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:02] DB Copy: Creating table wpstg0_bp_suspend_details
+[INFO]-[2022/10/14 13:12:02] DB Copy: Table wp_bp_suspend_details contains 167 rows 
+[INFO]-[2022/10/14 13:12:02] DB Copy: Copy data from wp_bp_suspend_details to wpstg0_bp_suspend_details - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:02] DB Copy: Creating table wpstg0_bp_user_blogs
+[INFO]-[2022/10/14 13:12:02] DB Copy: Table wp_bp_user_blogs contains 19 rows 
+[INFO]-[2022/10/14 13:12:02] DB Copy: Copy data from wp_bp_user_blogs to wpstg0_bp_user_blogs - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:03] DB Copy: Creating table wpstg0_bp_user_blogs_blogmeta
+[INFO]-[2022/10/14 13:12:03] DB Copy: Table wp_bp_user_blogs_blogmeta contains 10 rows 
+[INFO]-[2022/10/14 13:12:03] DB Copy: Copy data from wp_bp_user_blogs_blogmeta to wpstg0_bp_user_blogs_blogmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:03] DB Copy: Creating table wpstg0_bp_xprofile_data
+[INFO]-[2022/10/14 13:12:03] DB Copy: Table wp_bp_xprofile_data contains 398 rows 
+[INFO]-[2022/10/14 13:12:03] DB Copy: Copy data from wp_bp_xprofile_data to wpstg0_bp_xprofile_data - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:03] DB Copy: Creating table wpstg0_bp_xprofile_fields
+[INFO]-[2022/10/14 13:12:03] DB Copy: Table wp_bp_xprofile_fields contains 13 rows 
+[INFO]-[2022/10/14 13:12:03] DB Copy: Copy data from wp_bp_xprofile_fields to wpstg0_bp_xprofile_fields - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:03] DB Copy: Creating table wpstg0_bp_xprofile_groups
+[INFO]-[2022/10/14 13:12:04] DB Copy: Table wp_bp_xprofile_groups contains 3 rows 
+[INFO]-[2022/10/14 13:12:04] DB Copy: Copy data from wp_bp_xprofile_groups to wpstg0_bp_xprofile_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:04] DB Copy: Creating table wpstg0_bp_xprofile_meta
+[INFO]-[2022/10/14 13:12:04] DB Copy: Table wp_bp_xprofile_meta contains 47 rows 
+[INFO]-[2022/10/14 13:12:04] DB Copy: Copy data from wp_bp_xprofile_meta to wpstg0_bp_xprofile_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:04] DB Copy: Creating table wpstg0_bp_zoom_meeting_meta
+[INFO]-[2022/10/14 13:12:04] DB Copy: Table wp_bp_zoom_meeting_meta contains 58 rows 
+[INFO]-[2022/10/14 13:12:04] DB Copy: Copy data from wp_bp_zoom_meeting_meta to wpstg0_bp_zoom_meeting_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:04] DB Copy: Creating table wpstg0_bp_zoom_meetings
+[INFO]-[2022/10/14 13:12:05] DB Copy: Table wp_bp_zoom_meetings contains 13 rows 
+[INFO]-[2022/10/14 13:12:05] DB Copy: Copy data from wp_bp_zoom_meetings to wpstg0_bp_zoom_meetings - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:05] DB Copy: Creating table wpstg0_bp_zoom_recordings
+[INFO]-[2022/10/14 13:12:05] DB Copy: Table wp_bp_zoom_recordings contains 0 rows 
+[INFO]-[2022/10/14 13:12:05] DB Copy: Creating table wpstg0_bp_zoom_webinar_meta
+[INFO]-[2022/10/14 13:12:05] DB Copy: Table wp_bp_zoom_webinar_meta contains 0 rows 
+[INFO]-[2022/10/14 13:12:06] DB Copy: Creating table wpstg0_bp_zoom_webinar_recordings
+[INFO]-[2022/10/14 13:12:06] DB Copy: Table wp_bp_zoom_webinar_recordings contains 0 rows 
+[INFO]-[2022/10/14 13:12:06] DB Copy: Creating table wpstg0_bp_zoom_webinars
+[INFO]-[2022/10/14 13:12:06] DB Copy: Table wp_bp_zoom_webinars contains 0 rows 
+[INFO]-[2022/10/14 13:12:06] DB Copy: Creating table wpstg0_bpges_queued_items
+[INFO]-[2022/10/14 13:12:06] DB Copy: Table wp_bpges_queued_items contains 0 rows 
+[INFO]-[2022/10/14 13:12:07] DB Copy: Creating table wpstg0_bpges_subscriptions
+[INFO]-[2022/10/14 13:12:07] DB Copy: Table wp_bpges_subscriptions contains 1 rows 
+[INFO]-[2022/10/14 13:12:07] DB Copy: Copy data from wp_bpges_subscriptions to wpstg0_bpges_subscriptions - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:07] DB Copy: Creating table wpstg0_cerber_files
+[INFO]-[2022/10/14 13:12:07] DB Copy: Table wp_cerber_files contains 60893 rows 
+[INFO]-[2022/10/14 13:12:07] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:08] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 10000 to 20000 records
+[INFO]-[2022/10/14 13:12:08] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 20000 to 30000 records
+[INFO]-[2022/10/14 13:12:08] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 30000 to 40000 records
+[INFO]-[2022/10/14 13:12:09] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 40000 to 50000 records
+[INFO]-[2022/10/14 13:12:09] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 50000 to 60000 records
+[INFO]-[2022/10/14 13:12:10] DB Copy: Copy data from wp_cerber_files to wpstg0_cerber_files - 60000 to 70000 records
+[INFO]-[2022/10/14 13:12:10] DB Copy: Creating table wpstg0_cerber_sets
+[INFO]-[2022/10/14 13:12:10] DB Copy: Table wp_cerber_sets contains 20 rows 
+[INFO]-[2022/10/14 13:12:10] DB Copy: Copy data from wp_cerber_sets to wpstg0_cerber_sets - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:10] DB Copy: Creating table wpstg0_cerber_uss
+[INFO]-[2022/10/14 13:12:10] DB Copy: Table wp_cerber_uss contains 10 rows 
+[INFO]-[2022/10/14 13:12:10] DB Copy: Copy data from wp_cerber_uss to wpstg0_cerber_uss - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:11] DB Copy: Creating table wpstg0_cl_sent_mail_log
+[INFO]-[2022/10/14 13:12:11] DB Copy: Table wp_cl_sent_mail_log contains 0 rows 
+[INFO]-[2022/10/14 13:12:11] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2022/10/14 13:12:11] DB Copy: Table wp_commentmeta contains 15 rows 
+[INFO]-[2022/10/14 13:12:11] DB Copy: Copy data from wp_commentmeta to wpstg0_commentmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:11] DB Copy: Creating table wpstg0_comments
+[INFO]-[2022/10/14 13:12:11] DB Copy: Table wp_comments contains 29 rows 
+[INFO]-[2022/10/14 13:12:11] DB Copy: Copy data from wp_comments to wpstg0_comments - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:12] DB Copy: Creating table wpstg0_contact_list_log
+[INFO]-[2022/10/14 13:12:12] DB Copy: Table wp_contact_list_log contains 4 rows 
+[INFO]-[2022/10/14 13:12:12] DB Copy: Copy data from wp_contact_list_log to wpstg0_contact_list_log - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:12] DB Copy: Creating table wpstg0_countries
+[INFO]-[2022/10/14 13:12:12] DB Copy: Table wp_countries contains 250 rows 
+[INFO]-[2022/10/14 13:12:12] DB Copy: Copy data from wp_countries to wpstg0_countries - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:12] DB Copy: Creating table wpstg0_e_events
+[INFO]-[2022/10/14 13:12:12] DB Copy: Table wp_e_events contains 0 rows 
+[INFO]-[2022/10/14 13:12:13] DB Copy: Creating table wpstg0_e_notes
+[INFO]-[2022/10/14 13:12:13] DB Copy: Table wp_e_notes contains 0 rows 
+[INFO]-[2022/10/14 13:12:13] DB Copy: Creating table wpstg0_e_notes_users_relations
+[INFO]-[2022/10/14 13:12:13] DB Copy: Table wp_e_notes_users_relations contains 0 rows 
+[INFO]-[2022/10/14 13:12:13] DB Copy: Creating table wpstg0_e_submissions
+[INFO]-[2022/10/14 13:12:13] DB Copy: Table wp_e_submissions contains 0 rows 
+[INFO]-[2022/10/14 13:12:14] DB Copy: Creating table wpstg0_e_submissions_actions_log
+[INFO]-[2022/10/14 13:12:14] DB Copy: Table wp_e_submissions_actions_log contains 0 rows 
+[INFO]-[2022/10/14 13:12:14] DB Copy: Creating table wpstg0_e_submissions_values
+[INFO]-[2022/10/14 13:12:14] DB Copy: Table wp_e_submissions_values contains 0 rows 
+[INFO]-[2022/10/14 13:12:15] DB Copy: Creating table wpstg0_email_log
+[INFO]-[2022/10/14 13:12:15] DB Copy: Table wp_email_log contains 267 rows 
+[INFO]-[2022/10/14 13:12:15] DB Copy: Copy data from wp_email_log to wpstg0_email_log - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:16] DB Copy: Creating table wpstg0_ff_scheduled_actions
+[INFO]-[2022/10/14 13:12:16] DB Copy: Table wp_ff_scheduled_actions contains 0 rows 
+[INFO]-[2022/10/14 13:12:16] DB Copy: Creating table wpstg0_fluentform_draft_submissions
+[INFO]-[2022/10/14 13:12:16] DB Copy: Table wp_fluentform_draft_submissions contains 0 rows 
+[INFO]-[2022/10/14 13:12:16] DB Copy: Creating table wpstg0_fluentform_entry_details
+[INFO]-[2022/10/14 13:12:17] DB Copy: Table wp_fluentform_entry_details contains 3 rows 
+[INFO]-[2022/10/14 13:12:17] DB Copy: Copy data from wp_fluentform_entry_details to wpstg0_fluentform_entry_details - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:17] DB Copy: Creating table wpstg0_fluentform_form_analytics
+[INFO]-[2022/10/14 13:12:17] DB Copy: Table wp_fluentform_form_analytics contains 1 rows 
+[INFO]-[2022/10/14 13:12:17] DB Copy: Copy data from wp_fluentform_form_analytics to wpstg0_fluentform_form_analytics - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:18] DB Copy: Creating table wpstg0_fluentform_form_meta
+[INFO]-[2022/10/14 13:12:18] DB Copy: Table wp_fluentform_form_meta contains 18 rows 
+[INFO]-[2022/10/14 13:12:18] DB Copy: Copy data from wp_fluentform_form_meta to wpstg0_fluentform_form_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:18] DB Copy: Creating table wpstg0_fluentform_forms
+[INFO]-[2022/10/14 13:12:18] DB Copy: Table wp_fluentform_forms contains 4 rows 
+[INFO]-[2022/10/14 13:12:18] DB Copy: Copy data from wp_fluentform_forms to wpstg0_fluentform_forms - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:19] DB Copy: Creating table wpstg0_fluentform_logs
+[INFO]-[2022/10/14 13:12:19] DB Copy: Table wp_fluentform_logs contains 0 rows 
+[INFO]-[2022/10/14 13:12:19] DB Copy: Creating table wpstg0_fluentform_order_items
+[INFO]-[2022/10/14 13:12:19] DB Copy: Table wp_fluentform_order_items contains 0 rows 
+[INFO]-[2022/10/14 13:12:20] DB Copy: Creating table wpstg0_fluentform_submission_meta
+[INFO]-[2022/10/14 13:12:20] DB Copy: Table wp_fluentform_submission_meta contains 2 rows 
+[INFO]-[2022/10/14 13:12:20] DB Copy: Copy data from wp_fluentform_submission_meta to wpstg0_fluentform_submission_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:20] DB Copy: Creating table wpstg0_fluentform_submissions
+[INFO]-[2022/10/14 13:12:21] DB Copy: Table wp_fluentform_submissions contains 1 rows 
+[INFO]-[2022/10/14 13:12:21] DB Copy: Copy data from wp_fluentform_submissions to wpstg0_fluentform_submissions - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:21] DB Copy: Creating table wpstg0_fluentform_subscriptions
+[INFO]-[2022/10/14 13:12:21] DB Copy: Table wp_fluentform_subscriptions contains 0 rows 
+[INFO]-[2022/10/14 13:12:22] DB Copy: Creating table wpstg0_fluentform_transactions
+[INFO]-[2022/10/14 13:12:22] DB Copy: Table wp_fluentform_transactions contains 0 rows 
+[INFO]-[2022/10/14 13:12:22] DB Copy: Creating table wpstg0_gamipress_logs
+[INFO]-[2022/10/14 13:12:22] DB Copy: Table wp_gamipress_logs contains 525 rows 
+[INFO]-[2022/10/14 13:12:22] DB Copy: Copy data from wp_gamipress_logs to wpstg0_gamipress_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:23] DB Copy: Creating table wpstg0_gamipress_logs_meta
+[INFO]-[2022/10/14 13:12:23] DB Copy: Table wp_gamipress_logs_meta contains 1575 rows 
+[INFO]-[2022/10/14 13:12:23] DB Copy: Copy data from wp_gamipress_logs_meta to wpstg0_gamipress_logs_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:24] DB Copy: Creating table wpstg0_gamipress_user_earnings
+[INFO]-[2022/10/14 13:12:24] DB Copy: Table wp_gamipress_user_earnings contains 184 rows 
+[INFO]-[2022/10/14 13:12:24] DB Copy: Copy data from wp_gamipress_user_earnings to wpstg0_gamipress_user_earnings - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:25] DB Copy: Creating table wpstg0_gamipress_user_earnings_meta
+[INFO]-[2022/10/14 13:12:25] DB Copy: Table wp_gamipress_user_earnings_meta contains 72 rows 
+[INFO]-[2022/10/14 13:12:25] DB Copy: Copy data from wp_gamipress_user_earnings_meta to wpstg0_gamipress_user_earnings_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:25] DB Copy: Creating table wpstg0_geodir_api_keys
+[INFO]-[2022/10/14 13:12:25] DB Copy: Table wp_geodir_api_keys contains 0 rows 
+[INFO]-[2022/10/14 13:12:26] DB Copy: Creating table wpstg0_geodir_attachments
+[INFO]-[2022/10/14 13:12:26] DB Copy: Table wp_geodir_attachments contains 0 rows 
+[INFO]-[2022/10/14 13:12:26] DB Copy: Creating table wpstg0_geodir_custom_fields
+[INFO]-[2022/10/14 13:12:26] DB Copy: Table wp_geodir_custom_fields contains 6 rows 
+[INFO]-[2022/10/14 13:12:26] DB Copy: Copy data from wp_geodir_custom_fields to wpstg0_geodir_custom_fields - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:27] DB Copy: Creating table wpstg0_geodir_custom_sort_fields
+[INFO]-[2022/10/14 13:12:27] DB Copy: Table wp_geodir_custom_sort_fields contains 0 rows 
+[INFO]-[2022/10/14 13:12:27] DB Copy: Creating table wpstg0_geodir_gd_place_detail
+[INFO]-[2022/10/14 13:12:27] DB Copy: Table wp_geodir_gd_place_detail contains 1 rows 
+[INFO]-[2022/10/14 13:12:27] DB Copy: Copy data from wp_geodir_gd_place_detail to wpstg0_geodir_gd_place_detail - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:28] DB Copy: Creating table wpstg0_geodir_post_reports
+[INFO]-[2022/10/14 13:12:28] DB Copy: Table wp_geodir_post_reports contains 0 rows 
+[INFO]-[2022/10/14 13:12:28] DB Copy: Creating table wpstg0_geodir_post_review
+[INFO]-[2022/10/14 13:12:28] DB Copy: Table wp_geodir_post_review contains 1 rows 
+[INFO]-[2022/10/14 13:12:28] DB Copy: Copy data from wp_geodir_post_review to wpstg0_geodir_post_review - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:29] DB Copy: Creating table wpstg0_geodir_tabs_layout
+[INFO]-[2022/10/14 13:12:29] DB Copy: Table wp_geodir_tabs_layout contains 4 rows 
+[INFO]-[2022/10/14 13:12:29] DB Copy: Copy data from wp_geodir_tabs_layout to wpstg0_geodir_tabs_layout - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:29] DB Copy: Creating table wpstg0_gf_addon_feed
+[INFO]-[2022/10/14 13:12:29] DB Copy: Table wp_gf_addon_feed contains 2 rows 
+[INFO]-[2022/10/14 13:12:29] DB Copy: Copy data from wp_gf_addon_feed to wpstg0_gf_addon_feed - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:30] DB Copy: Creating table wpstg0_gf_draft_submissions
+[INFO]-[2022/10/14 13:12:30] DB Copy: Table wp_gf_draft_submissions contains 0 rows 
+[INFO]-[2022/10/14 13:12:30] DB Copy: Creating table wpstg0_gf_entry
+[INFO]-[2022/10/14 13:12:30] DB Copy: Table wp_gf_entry contains 4 rows 
+[INFO]-[2022/10/14 13:12:30] DB Copy: Copy data from wp_gf_entry to wpstg0_gf_entry - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:31] DB Copy: Creating table wpstg0_gf_entry_meta
+[INFO]-[2022/10/14 13:12:31] DB Copy: Table wp_gf_entry_meta contains 32 rows 
+[INFO]-[2022/10/14 13:12:31] DB Copy: Copy data from wp_gf_entry_meta to wpstg0_gf_entry_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:31] DB Copy: Creating table wpstg0_gf_entry_notes
+[INFO]-[2022/10/14 13:12:31] DB Copy: Table wp_gf_entry_notes contains 3 rows 
+[INFO]-[2022/10/14 13:12:31] DB Copy: Copy data from wp_gf_entry_notes to wpstg0_gf_entry_notes - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:32] DB Copy: Creating table wpstg0_gf_form
+[INFO]-[2022/10/14 13:12:32] DB Copy: Table wp_gf_form contains 5 rows 
+[INFO]-[2022/10/14 13:12:32] DB Copy: Copy data from wp_gf_form to wpstg0_gf_form - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:32] DB Copy: Creating table wpstg0_gf_form_meta
+[INFO]-[2022/10/14 13:12:32] DB Copy: Table wp_gf_form_meta contains 5 rows 
+[INFO]-[2022/10/14 13:12:32] DB Copy: Copy data from wp_gf_form_meta to wpstg0_gf_form_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:33] DB Copy: Creating table wpstg0_gf_form_revisions
+[INFO]-[2022/10/14 13:12:33] DB Copy: Table wp_gf_form_revisions contains 0 rows 
+[INFO]-[2022/10/14 13:12:33] DB Copy: Creating table wpstg0_gf_form_view
+[INFO]-[2022/10/14 13:12:33] DB Copy: Table wp_gf_form_view contains 4 rows 
+[INFO]-[2022/10/14 13:12:33] DB Copy: Copy data from wp_gf_form_view to wpstg0_gf_form_view - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:35] DB Copy: Creating table wpstg0_gf_rest_api_keys
+[INFO]-[2022/10/14 13:12:35] DB Copy: Table wp_gf_rest_api_keys contains 0 rows 
+[INFO]-[2022/10/14 13:12:35] DB Copy: Creating table wpstg0_h5p_contents
+[INFO]-[2022/10/14 13:12:35] DB Copy: Table wp_h5p_contents contains 4 rows 
+[INFO]-[2022/10/14 13:12:35] DB Copy: Copy data from wp_h5p_contents to wpstg0_h5p_contents - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:36] DB Copy: Creating table wpstg0_h5p_contents_libraries
+[INFO]-[2022/10/14 13:12:36] DB Copy: Table wp_h5p_contents_libraries contains 215 rows 
+[INFO]-[2022/10/14 13:12:36] DB Copy: Copy data from wp_h5p_contents_libraries to wpstg0_h5p_contents_libraries - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:36] DB Copy: Creating table wpstg0_h5p_contents_tags
+[INFO]-[2022/10/14 13:12:36] DB Copy: Table wp_h5p_contents_tags contains 0 rows 
+[INFO]-[2022/10/14 13:12:37] DB Copy: Creating table wpstg0_h5p_contents_user_data
+[INFO]-[2022/10/14 13:12:37] DB Copy: Table wp_h5p_contents_user_data contains 3 rows 
+[INFO]-[2022/10/14 13:12:37] DB Copy: Copy data from wp_h5p_contents_user_data to wpstg0_h5p_contents_user_data - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:38] DB Copy: Creating table wpstg0_h5p_counters
+[INFO]-[2022/10/14 13:12:38] DB Copy: Table wp_h5p_counters contains 81 rows 
+[INFO]-[2022/10/14 13:12:38] DB Copy: Copy data from wp_h5p_counters to wpstg0_h5p_counters - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:38] DB Copy: Creating table wpstg0_h5p_events
+[INFO]-[2022/10/14 13:12:38] DB Copy: Table wp_h5p_events contains 65 rows 
+[INFO]-[2022/10/14 13:12:38] DB Copy: Copy data from wp_h5p_events to wpstg0_h5p_events - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:39] DB Copy: Creating table wpstg0_h5p_libraries
+[INFO]-[2022/10/14 13:12:39] DB Copy: Table wp_h5p_libraries contains 70 rows 
+[INFO]-[2022/10/14 13:12:39] DB Copy: Copy data from wp_h5p_libraries to wpstg0_h5p_libraries - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:39] DB Copy: Creating table wpstg0_h5p_libraries_cachedassets
+[INFO]-[2022/10/14 13:12:39] DB Copy: Table wp_h5p_libraries_cachedassets contains 26 rows 
+[INFO]-[2022/10/14 13:12:39] DB Copy: Copy data from wp_h5p_libraries_cachedassets to wpstg0_h5p_libraries_cachedassets - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:40] DB Copy: Creating table wpstg0_h5p_libraries_hub_cache
+[INFO]-[2022/10/14 13:12:40] DB Copy: Table wp_h5p_libraries_hub_cache contains 51 rows 
+[INFO]-[2022/10/14 13:12:40] DB Copy: Copy data from wp_h5p_libraries_hub_cache to wpstg0_h5p_libraries_hub_cache - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:40] DB Copy: Creating table wpstg0_h5p_libraries_languages
+[INFO]-[2022/10/14 13:12:40] DB Copy: Table wp_h5p_libraries_languages contains 1508 rows 
+[INFO]-[2022/10/14 13:12:40] DB Copy: Copy data from wp_h5p_libraries_languages to wpstg0_h5p_libraries_languages - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:41] DB Copy: Creating table wpstg0_h5p_libraries_libraries
+[INFO]-[2022/10/14 13:12:41] DB Copy: Table wp_h5p_libraries_libraries contains 172 rows 
+[INFO]-[2022/10/14 13:12:41] DB Copy: Copy data from wp_h5p_libraries_libraries to wpstg0_h5p_libraries_libraries - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:42] DB Copy: Creating table wpstg0_h5p_results
+[INFO]-[2022/10/14 13:12:42] DB Copy: Table wp_h5p_results contains 0 rows 
+[INFO]-[2022/10/14 13:12:42] DB Copy: Creating table wpstg0_h5p_tags
+[INFO]-[2022/10/14 13:12:42] DB Copy: Table wp_h5p_tags contains 0 rows 
+[INFO]-[2022/10/14 13:12:43] DB Copy: Creating table wpstg0_h5p_tmpfiles
+[INFO]-[2022/10/14 13:12:43] DB Copy: Table wp_h5p_tmpfiles contains 0 rows 
+[INFO]-[2022/10/14 13:12:43] DB Copy: Creating table wpstg0_icwp_wpsf_at_logs
+[INFO]-[2022/10/14 13:12:43] DB Copy: Table wp_icwp_wpsf_at_logs contains 208 rows 
+[INFO]-[2022/10/14 13:12:43] DB Copy: Copy data from wp_icwp_wpsf_at_logs to wpstg0_icwp_wpsf_at_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:44] DB Copy: Creating table wpstg0_icwp_wpsf_at_meta
+[INFO]-[2022/10/14 13:12:44] DB Copy: Table wp_icwp_wpsf_at_meta contains 227 rows 
+[INFO]-[2022/10/14 13:12:44] DB Copy: Copy data from wp_icwp_wpsf_at_meta to wpstg0_icwp_wpsf_at_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:44] DB Copy: Creating table wpstg0_icwp_wpsf_botsignal
+[INFO]-[2022/10/14 13:12:44] DB Copy: Table wp_icwp_wpsf_botsignal contains 75 rows 
+[INFO]-[2022/10/14 13:12:44] DB Copy: Copy data from wp_icwp_wpsf_botsignal to wpstg0_icwp_wpsf_botsignal - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:45] DB Copy: Creating table wpstg0_icwp_wpsf_events
+[INFO]-[2022/10/14 13:12:45] DB Copy: Table wp_icwp_wpsf_events contains 48 rows 
+[INFO]-[2022/10/14 13:12:45] DB Copy: Copy data from wp_icwp_wpsf_events to wpstg0_icwp_wpsf_events - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:45] DB Copy: Creating table wpstg0_icwp_wpsf_ip_lists
+[INFO]-[2022/10/14 13:12:45] DB Copy: Table wp_icwp_wpsf_ip_lists contains 2 rows 
+[INFO]-[2022/10/14 13:12:45] DB Copy: Copy data from wp_icwp_wpsf_ip_lists to wpstg0_icwp_wpsf_ip_lists - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:46] DB Copy: Creating table wpstg0_icwp_wpsf_ips
+[INFO]-[2022/10/14 13:12:46] DB Copy: Table wp_icwp_wpsf_ips contains 76 rows 
+[INFO]-[2022/10/14 13:12:46] DB Copy: Copy data from wp_icwp_wpsf_ips to wpstg0_icwp_wpsf_ips - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:46] DB Copy: Creating table wpstg0_icwp_wpsf_notes
+[INFO]-[2022/10/14 13:12:46] DB Copy: Table wp_icwp_wpsf_notes contains 0 rows 
+[INFO]-[2022/10/14 13:12:47] DB Copy: Creating table wpstg0_icwp_wpsf_reports
+[INFO]-[2022/10/14 13:12:47] DB Copy: Table wp_icwp_wpsf_reports contains 0 rows 
+[INFO]-[2022/10/14 13:12:47] DB Copy: Creating table wpstg0_icwp_wpsf_req_logs
+[INFO]-[2022/10/14 13:12:48] DB Copy: Table wp_icwp_wpsf_req_logs contains 310 rows 
+[INFO]-[2022/10/14 13:12:48] DB Copy: Copy data from wp_icwp_wpsf_req_logs to wpstg0_icwp_wpsf_req_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:48] DB Copy: Creating table wpstg0_icwp_wpsf_resultitem_meta
+[INFO]-[2022/10/14 13:12:48] DB Copy: Table wp_icwp_wpsf_resultitem_meta contains 19 rows 
+[INFO]-[2022/10/14 13:12:48] DB Copy: Copy data from wp_icwp_wpsf_resultitem_meta to wpstg0_icwp_wpsf_resultitem_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:49] DB Copy: Creating table wpstg0_icwp_wpsf_resultitems
+[INFO]-[2022/10/14 13:12:49] DB Copy: Table wp_icwp_wpsf_resultitems contains 7 rows 
+[INFO]-[2022/10/14 13:12:49] DB Copy: Copy data from wp_icwp_wpsf_resultitems to wpstg0_icwp_wpsf_resultitems - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:49] DB Copy: Creating table wpstg0_icwp_wpsf_scans
+[INFO]-[2022/10/14 13:12:49] DB Copy: Table wp_icwp_wpsf_scans contains 2 rows 
+[INFO]-[2022/10/14 13:12:49] DB Copy: Copy data from wp_icwp_wpsf_scans to wpstg0_icwp_wpsf_scans - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:50] DB Copy: Creating table wpstg0_icwp_wpsf_user_meta
+[INFO]-[2022/10/14 13:12:50] DB Copy: Table wp_icwp_wpsf_user_meta contains 57 rows 
+[INFO]-[2022/10/14 13:12:50] DB Copy: Copy data from wp_icwp_wpsf_user_meta to wpstg0_icwp_wpsf_user_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:50] DB Copy: Creating table wpstg0_ifso_daily_sessions
+[INFO]-[2022/10/14 13:12:50] DB Copy: Table wp_ifso_daily_sessions contains 0 rows 
+[INFO]-[2022/10/14 13:12:51] DB Copy: Creating table wpstg0_ifso_local_user
+[INFO]-[2022/10/14 13:12:51] DB Copy: Table wp_ifso_local_user contains 1 rows 
+[INFO]-[2022/10/14 13:12:51] DB Copy: Copy data from wp_ifso_local_user to wpstg0_ifso_local_user - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:51] DB Copy: Creating table wpstg0_ir_paypal_payouts_transactions
+[INFO]-[2022/10/14 13:12:51] DB Copy: Table wp_ir_paypal_payouts_transactions contains 0 rows 
+[INFO]-[2022/10/14 13:12:52] DB Copy: Creating table wpstg0_itsec_bans
+[INFO]-[2022/10/14 13:12:52] DB Copy: Table wp_itsec_bans contains 0 rows 
+[INFO]-[2022/10/14 13:12:52] DB Copy: Creating table wpstg0_itsec_dashboard_events
+[INFO]-[2022/10/14 13:12:52] DB Copy: Table wp_itsec_dashboard_events contains 4 rows 
+[INFO]-[2022/10/14 13:12:52] DB Copy: Copy data from wp_itsec_dashboard_events to wpstg0_itsec_dashboard_events - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:53] DB Copy: Creating table wpstg0_itsec_distributed_storage
+[INFO]-[2022/10/14 13:12:53] DB Copy: Table wp_itsec_distributed_storage contains 0 rows 
+[INFO]-[2022/10/14 13:12:53] DB Copy: Creating table wpstg0_itsec_fingerprints
+[INFO]-[2022/10/14 13:12:53] DB Copy: Table wp_itsec_fingerprints contains 0 rows 
+[INFO]-[2022/10/14 13:12:54] DB Copy: Creating table wpstg0_itsec_geolocation_cache
+[INFO]-[2022/10/14 13:12:54] DB Copy: Table wp_itsec_geolocation_cache contains 0 rows 
+[INFO]-[2022/10/14 13:12:55] DB Copy: Creating table wpstg0_itsec_lockouts
+[INFO]-[2022/10/14 13:12:55] DB Copy: Table wp_itsec_lockouts contains 0 rows 
+[INFO]-[2022/10/14 13:12:55] DB Copy: Creating table wpstg0_itsec_logs
+[INFO]-[2022/10/14 13:12:55] DB Copy: Table wp_itsec_logs contains 42 rows 
+[INFO]-[2022/10/14 13:12:55] DB Copy: Copy data from wp_itsec_logs to wpstg0_itsec_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:56] DB Copy: Creating table wpstg0_itsec_mutexes
+[INFO]-[2022/10/14 13:12:56] DB Copy: Table wp_itsec_mutexes contains 0 rows 
+[INFO]-[2022/10/14 13:12:56] DB Copy: Creating table wpstg0_itsec_opaque_tokens
+[INFO]-[2022/10/14 13:12:57] DB Copy: Table wp_itsec_opaque_tokens contains 0 rows 
+[INFO]-[2022/10/14 13:12:57] DB Copy: Creating table wpstg0_itsec_temp
+[INFO]-[2022/10/14 13:12:57] DB Copy: Table wp_itsec_temp contains 34 rows 
+[INFO]-[2022/10/14 13:12:57] DB Copy: Copy data from wp_itsec_temp to wpstg0_itsec_temp - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:57] DB Copy: Creating table wpstg0_itsec_user_groups
+[INFO]-[2022/10/14 13:12:58] DB Copy: Table wp_itsec_user_groups contains 5 rows 
+[INFO]-[2022/10/14 13:12:58] DB Copy: Copy data from wp_itsec_user_groups to wpstg0_itsec_user_groups - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:58] DB Copy: Creating table wpstg0_jet_post_types
+[INFO]-[2022/10/14 13:12:58] DB Copy: Table wp_jet_post_types contains 2 rows 
+[INFO]-[2022/10/14 13:12:58] DB Copy: Copy data from wp_jet_post_types to wpstg0_jet_post_types - 0 to 10000 records
+[INFO]-[2022/10/14 13:12:59] DB Copy: Creating table wpstg0_jet_taxonomies
+[INFO]-[2022/10/14 13:12:59] DB Copy: Table wp_jet_taxonomies contains 0 rows 
+[INFO]-[2022/10/14 13:12:59] DB Copy: Creating table wpstg0_jetpack_waf_blocklog
+[INFO]-[2022/10/14 13:12:59] DB Copy: Table wp_jetpack_waf_blocklog contains 0 rows 
+[INFO]-[2022/10/14 13:13:00] DB Copy: Creating table wpstg0_learndash_pro_quiz_category
+[INFO]-[2022/10/14 13:13:00] DB Copy: Table wp_learndash_pro_quiz_category contains 0 rows 
+[INFO]-[2022/10/14 13:13:00] DB Copy: Creating table wpstg0_learndash_pro_quiz_form
+[INFO]-[2022/10/14 13:13:00] DB Copy: Table wp_learndash_pro_quiz_form contains 0 rows 
+[INFO]-[2022/10/14 13:13:01] DB Copy: Creating table wpstg0_learndash_pro_quiz_lock
+[INFO]-[2022/10/14 13:13:01] DB Copy: Table wp_learndash_pro_quiz_lock contains 3 rows 
+[INFO]-[2022/10/14 13:13:01] DB Copy: Copy data from wp_learndash_pro_quiz_lock to wpstg0_learndash_pro_quiz_lock - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:01] DB Copy: Creating table wpstg0_learndash_pro_quiz_master
+[INFO]-[2022/10/14 13:13:01] DB Copy: Table wp_learndash_pro_quiz_master contains 15 rows 
+[INFO]-[2022/10/14 13:13:01] DB Copy: Copy data from wp_learndash_pro_quiz_master to wpstg0_learndash_pro_quiz_master - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:02] DB Copy: Creating table wpstg0_learndash_pro_quiz_prerequisite
+[INFO]-[2022/10/14 13:13:02] DB Copy: Table wp_learndash_pro_quiz_prerequisite contains 0 rows 
+[INFO]-[2022/10/14 13:13:02] DB Copy: Creating table wpstg0_learndash_pro_quiz_question
+[INFO]-[2022/10/14 13:13:03] DB Copy: Table wp_learndash_pro_quiz_question contains 35 rows 
+[INFO]-[2022/10/14 13:13:03] DB Copy: Copy data from wp_learndash_pro_quiz_question to wpstg0_learndash_pro_quiz_question - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:03] DB Copy: Creating table wpstg0_learndash_pro_quiz_statistic
+[INFO]-[2022/10/14 13:13:03] DB Copy: Table wp_learndash_pro_quiz_statistic contains 103 rows 
+[INFO]-[2022/10/14 13:13:03] DB Copy: Copy data from wp_learndash_pro_quiz_statistic to wpstg0_learndash_pro_quiz_statistic - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:04] DB Copy: Creating table wpstg0_learndash_pro_quiz_statistic_ref
+[INFO]-[2022/10/14 13:13:04] DB Copy: Table wp_learndash_pro_quiz_statistic_ref contains 35 rows 
+[INFO]-[2022/10/14 13:13:04] DB Copy: Copy data from wp_learndash_pro_quiz_statistic_ref to wpstg0_learndash_pro_quiz_statistic_ref - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:04] DB Copy: Creating table wpstg0_learndash_pro_quiz_template
+[INFO]-[2022/10/14 13:13:04] DB Copy: Table wp_learndash_pro_quiz_template contains 0 rows 
+[INFO]-[2022/10/14 13:13:05] DB Copy: Creating table wpstg0_learndash_pro_quiz_toplist
+[INFO]-[2022/10/14 13:13:05] DB Copy: Table wp_learndash_pro_quiz_toplist contains 0 rows 
+[INFO]-[2022/10/14 13:13:05] DB Copy: Creating table wpstg0_learndash_user_activity
+[INFO]-[2022/10/14 13:13:06] DB Copy: Table wp_learndash_user_activity contains 260 rows 
+[INFO]-[2022/10/14 13:13:06] DB Copy: Copy data from wp_learndash_user_activity to wpstg0_learndash_user_activity - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:06] DB Copy: Creating table wpstg0_learndash_user_activity_meta
+[INFO]-[2022/10/14 13:13:06] DB Copy: Table wp_learndash_user_activity_meta contains 980 rows 
+[INFO]-[2022/10/14 13:13:06] DB Copy: Copy data from wp_learndash_user_activity_meta to wpstg0_learndash_user_activity_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:07] DB Copy: Creating table wpstg0_lifterlms_api_keys
+[INFO]-[2022/10/14 13:13:07] DB Copy: Table wp_lifterlms_api_keys contains 0 rows 
+[INFO]-[2022/10/14 13:13:07] DB Copy: Creating table wpstg0_lifterlms_events
+[INFO]-[2022/10/14 13:13:07] DB Copy: Table wp_lifterlms_events contains 84 rows 
+[INFO]-[2022/10/14 13:13:07] DB Copy: Copy data from wp_lifterlms_events to wpstg0_lifterlms_events - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:08] DB Copy: Creating table wpstg0_lifterlms_events_open_sessions
+[INFO]-[2022/10/14 13:13:08] DB Copy: Table wp_lifterlms_events_open_sessions contains 0 rows 
+[INFO]-[2022/10/14 13:13:08] DB Copy: Creating table wpstg0_lifterlms_notifications
+[INFO]-[2022/10/14 13:13:08] DB Copy: Table wp_lifterlms_notifications contains 12 rows 
+[INFO]-[2022/10/14 13:13:08] DB Copy: Copy data from wp_lifterlms_notifications to wpstg0_lifterlms_notifications - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:09] DB Copy: Creating table wpstg0_lifterlms_product_to_voucher
+[INFO]-[2022/10/14 13:13:09] DB Copy: Table wp_lifterlms_product_to_voucher contains 0 rows 
+[INFO]-[2022/10/14 13:13:09] DB Copy: Creating table wpstg0_lifterlms_quiz_attempts
+[INFO]-[2022/10/14 13:13:09] DB Copy: Table wp_lifterlms_quiz_attempts contains 0 rows 
+[INFO]-[2022/10/14 13:13:10] DB Copy: Creating table wpstg0_lifterlms_sessions
+[INFO]-[2022/10/14 13:13:10] DB Copy: Table wp_lifterlms_sessions contains 207 rows 
+[INFO]-[2022/10/14 13:13:10] DB Copy: Copy data from wp_lifterlms_sessions to wpstg0_lifterlms_sessions - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:10] DB Copy: Creating table wpstg0_lifterlms_user_postmeta
+[INFO]-[2022/10/14 13:13:11] DB Copy: Table wp_lifterlms_user_postmeta contains 26 rows 
+[INFO]-[2022/10/14 13:13:11] DB Copy: Copy data from wp_lifterlms_user_postmeta to wpstg0_lifterlms_user_postmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:11] DB Copy: Creating table wpstg0_lifterlms_voucher_code_redemptions
+[INFO]-[2022/10/14 13:13:11] DB Copy: Table wp_lifterlms_voucher_code_redemptions contains 0 rows 
+[INFO]-[2022/10/14 13:13:11] DB Copy: Creating table wpstg0_lifterlms_vouchers_codes
+[INFO]-[2022/10/14 13:13:11] DB Copy: Table wp_lifterlms_vouchers_codes contains 0 rows 
+[INFO]-[2022/10/14 13:13:12] DB Copy: Creating table wpstg0_lifterlms_webhooks
+[INFO]-[2022/10/14 13:13:12] DB Copy: Table wp_lifterlms_webhooks contains 0 rows 
+[INFO]-[2022/10/14 13:13:12] DB Copy: Creating table wpstg0_links
+[INFO]-[2022/10/14 13:13:12] DB Copy: Table wp_links contains 0 rows 
+[INFO]-[2022/10/14 13:13:12] DB Copy: Creating table wpstg0_litespeed_img_optm
+[INFO]-[2022/10/14 13:13:12] DB Copy: Table wp_litespeed_img_optm contains 1001 rows 
+[INFO]-[2022/10/14 13:13:12] DB Copy: Copy data from wp_litespeed_img_optm to wpstg0_litespeed_img_optm - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:13] DB Copy: Creating table wpstg0_litespeed_img_optming
+[INFO]-[2022/10/14 13:13:13] DB Copy: Table wp_litespeed_img_optming contains 2 rows 
+[INFO]-[2022/10/14 13:13:13] DB Copy: Copy data from wp_litespeed_img_optming to wpstg0_litespeed_img_optming - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:13] DB Copy: Creating table wpstg0_litespeed_url
+[INFO]-[2022/10/14 13:13:13] DB Copy: Table wp_litespeed_url contains 25 rows 
+[INFO]-[2022/10/14 13:13:13] DB Copy: Copy data from wp_litespeed_url to wpstg0_litespeed_url - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:13] DB Copy: Creating table wpstg0_litespeed_url_file
+[INFO]-[2022/10/14 13:13:13] DB Copy: Table wp_litespeed_url_file contains 18 rows 
+[INFO]-[2022/10/14 13:13:13] DB Copy: Copy data from wp_litespeed_url_file to wpstg0_litespeed_url_file - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:14] DB Copy: Creating table wpstg0_mailpoet_custom_fields
+[INFO]-[2022/10/14 13:13:14] DB Copy: Table wp_mailpoet_custom_fields contains 0 rows 
+[INFO]-[2022/10/14 13:13:14] DB Copy: Creating table wpstg0_mailpoet_dynamic_segment_filters
+[INFO]-[2022/10/14 13:13:14] DB Copy: Table wp_mailpoet_dynamic_segment_filters contains 0 rows 
+[INFO]-[2022/10/14 13:13:14] DB Copy: Creating table wpstg0_mailpoet_feature_flags
+[INFO]-[2022/10/14 13:13:14] DB Copy: Table wp_mailpoet_feature_flags contains 0 rows 
+[INFO]-[2022/10/14 13:13:15] DB Copy: Creating table wpstg0_mailpoet_forms
+[INFO]-[2022/10/14 13:13:15] DB Copy: Table wp_mailpoet_forms contains 0 rows 
+[INFO]-[2022/10/14 13:13:15] DB Copy: Creating table wpstg0_mailpoet_log
+[INFO]-[2022/10/14 13:13:15] DB Copy: Table wp_mailpoet_log contains 0 rows 
+[INFO]-[2022/10/14 13:13:15] DB Copy: Creating table wpstg0_mailpoet_mapping_to_external_entities
+[INFO]-[2022/10/14 13:13:15] DB Copy: Table wp_mailpoet_mapping_to_external_entities contains 0 rows 
+[INFO]-[2022/10/14 13:13:16] DB Copy: Creating table wpstg0_mailpoet_newsletter_links
+[INFO]-[2022/10/14 13:13:16] DB Copy: Table wp_mailpoet_newsletter_links contains 0 rows 
+[INFO]-[2022/10/14 13:13:16] DB Copy: Creating table wpstg0_mailpoet_newsletter_option
+[INFO]-[2022/10/14 13:13:16] DB Copy: Table wp_mailpoet_newsletter_option contains 6 rows 
+[INFO]-[2022/10/14 13:13:16] DB Copy: Copy data from wp_mailpoet_newsletter_option to wpstg0_mailpoet_newsletter_option - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:16] DB Copy: Creating table wpstg0_mailpoet_newsletter_option_fields
+[INFO]-[2022/10/14 13:13:16] DB Copy: Table wp_mailpoet_newsletter_option_fields contains 22 rows 
+[INFO]-[2022/10/14 13:13:16] DB Copy: Copy data from wp_mailpoet_newsletter_option_fields to wpstg0_mailpoet_newsletter_option_fields - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:17] DB Copy: Creating table wpstg0_mailpoet_newsletter_posts
+[INFO]-[2022/10/14 13:13:17] DB Copy: Table wp_mailpoet_newsletter_posts contains 0 rows 
+[INFO]-[2022/10/14 13:13:17] DB Copy: Creating table wpstg0_mailpoet_newsletter_segment
+[INFO]-[2022/10/14 13:13:17] DB Copy: Table wp_mailpoet_newsletter_segment contains 1 rows 
+[INFO]-[2022/10/14 13:13:17] DB Copy: Copy data from wp_mailpoet_newsletter_segment to wpstg0_mailpoet_newsletter_segment - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:17] DB Copy: Creating table wpstg0_mailpoet_newsletter_templates
+[INFO]-[2022/10/14 13:13:18] DB Copy: Table wp_mailpoet_newsletter_templates contains 77 rows 
+[INFO]-[2022/10/14 13:13:18] DB Copy: Copy data from wp_mailpoet_newsletter_templates to wpstg0_mailpoet_newsletter_templates - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:18] DB Copy: Creating table wpstg0_mailpoet_newsletters
+[INFO]-[2022/10/14 13:13:18] DB Copy: Table wp_mailpoet_newsletters contains 2 rows 
+[INFO]-[2022/10/14 13:13:18] DB Copy: Copy data from wp_mailpoet_newsletters to wpstg0_mailpoet_newsletters - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:18] DB Copy: Creating table wpstg0_mailpoet_scheduled_task_subscribers
+[INFO]-[2022/10/14 13:13:18] DB Copy: Table wp_mailpoet_scheduled_task_subscribers contains 0 rows 
+[INFO]-[2022/10/14 13:13:19] DB Copy: Creating table wpstg0_mailpoet_scheduled_tasks
+[INFO]-[2022/10/14 13:13:19] DB Copy: Table wp_mailpoet_scheduled_tasks contains 18 rows 
+[INFO]-[2022/10/14 13:13:19] DB Copy: Copy data from wp_mailpoet_scheduled_tasks to wpstg0_mailpoet_scheduled_tasks - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:19] DB Copy: Creating table wpstg0_mailpoet_segments
+[INFO]-[2022/10/14 13:13:19] DB Copy: Table wp_mailpoet_segments contains 4 rows 
+[INFO]-[2022/10/14 13:13:19] DB Copy: Copy data from wp_mailpoet_segments to wpstg0_mailpoet_segments - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:20] DB Copy: Creating table wpstg0_mailpoet_sending_queues
+[INFO]-[2022/10/14 13:13:20] DB Copy: Table wp_mailpoet_sending_queues contains 1 rows 
+[INFO]-[2022/10/14 13:13:20] DB Copy: Copy data from wp_mailpoet_sending_queues to wpstg0_mailpoet_sending_queues - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:20] DB Copy: Creating table wpstg0_mailpoet_settings
+[INFO]-[2022/10/14 13:13:20] DB Copy: Table wp_mailpoet_settings contains 20 rows 
+[INFO]-[2022/10/14 13:13:20] DB Copy: Copy data from wp_mailpoet_settings to wpstg0_mailpoet_settings - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:21] DB Copy: Creating table wpstg0_mailpoet_statistics_bounces
+[INFO]-[2022/10/14 13:13:21] DB Copy: Table wp_mailpoet_statistics_bounces contains 0 rows 
+[INFO]-[2022/10/14 13:13:21] DB Copy: Creating table wpstg0_mailpoet_statistics_clicks
+[INFO]-[2022/10/14 13:13:21] DB Copy: Table wp_mailpoet_statistics_clicks contains 0 rows 
+[INFO]-[2022/10/14 13:13:21] DB Copy: Creating table wpstg0_mailpoet_statistics_forms
+[INFO]-[2022/10/14 13:13:21] DB Copy: Table wp_mailpoet_statistics_forms contains 0 rows 
+[INFO]-[2022/10/14 13:13:22] DB Copy: Creating table wpstg0_mailpoet_statistics_newsletters
+[INFO]-[2022/10/14 13:13:22] DB Copy: Table wp_mailpoet_statistics_newsletters contains 0 rows 
+[INFO]-[2022/10/14 13:13:22] DB Copy: Creating table wpstg0_mailpoet_statistics_opens
+[INFO]-[2022/10/14 13:13:22] DB Copy: Table wp_mailpoet_statistics_opens contains 0 rows 
+[INFO]-[2022/10/14 13:13:22] DB Copy: Creating table wpstg0_mailpoet_statistics_unsubscribes
+[INFO]-[2022/10/14 13:13:23] DB Copy: Table wp_mailpoet_statistics_unsubscribes contains 0 rows 
+[INFO]-[2022/10/14 13:13:23] DB Copy: Creating table wpstg0_mailpoet_statistics_woocommerce_purchases
+[INFO]-[2022/10/14 13:13:23] DB Copy: Table wp_mailpoet_statistics_woocommerce_purchases contains 0 rows 
+[INFO]-[2022/10/14 13:13:23] DB Copy: Creating table wpstg0_mailpoet_stats_notifications
+[INFO]-[2022/10/14 13:13:23] DB Copy: Table wp_mailpoet_stats_notifications contains 0 rows 
+[INFO]-[2022/10/14 13:13:24] DB Copy: Creating table wpstg0_mailpoet_subscriber_custom_field
+[INFO]-[2022/10/14 13:13:24] DB Copy: Table wp_mailpoet_subscriber_custom_field contains 0 rows 
+[INFO]-[2022/10/14 13:13:24] DB Copy: Creating table wpstg0_mailpoet_subscriber_ips
+[INFO]-[2022/10/14 13:13:24] DB Copy: Table wp_mailpoet_subscriber_ips contains 0 rows 
+[INFO]-[2022/10/14 13:13:24] DB Copy: Creating table wpstg0_mailpoet_subscriber_segment
+[INFO]-[2022/10/14 13:13:25] DB Copy: Table wp_mailpoet_subscriber_segment contains 42 rows 
+[INFO]-[2022/10/14 13:13:25] DB Copy: Copy data from wp_mailpoet_subscriber_segment to wpstg0_mailpoet_subscriber_segment - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:25] DB Copy: Creating table wpstg0_mailpoet_subscribers
+[INFO]-[2022/10/14 13:13:25] DB Copy: Table wp_mailpoet_subscribers contains 42 rows 
+[INFO]-[2022/10/14 13:13:25] DB Copy: Copy data from wp_mailpoet_subscribers to wpstg0_mailpoet_subscribers - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:25] DB Copy: Creating table wpstg0_mailpoet_user_agents
+[INFO]-[2022/10/14 13:13:26] DB Copy: Table wp_mailpoet_user_agents contains 0 rows 
+[INFO]-[2022/10/14 13:13:26] DB Copy: Creating table wpstg0_mailpoet_user_flags
+[INFO]-[2022/10/14 13:13:26] DB Copy: Table wp_mailpoet_user_flags contains 1 rows 
+[INFO]-[2022/10/14 13:13:26] DB Copy: Copy data from wp_mailpoet_user_flags to wpstg0_mailpoet_user_flags - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:26] DB Copy: Creating table wpstg0_memberium_sessions
+[INFO]-[2022/10/14 13:13:26] DB Copy: Table wp_memberium_sessions contains 0 rows 
+[INFO]-[2022/10/14 13:13:27] DB Copy: Creating table wpstg0_memberium_words
+[INFO]-[2022/10/14 13:13:27] DB Copy: Table wp_memberium_words contains 7776 rows 
+[INFO]-[2022/10/14 13:13:27] DB Copy: Copy data from wp_memberium_words to wpstg0_memberium_words - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:27] DB Copy: Creating table wpstg0_mepr_events
+[INFO]-[2022/10/14 13:13:28] DB Copy: Table wp_mepr_events contains 68 rows 
+[INFO]-[2022/10/14 13:13:28] DB Copy: Copy data from wp_mepr_events to wpstg0_mepr_events - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:28] DB Copy: Creating table wpstg0_mepr_jobs
+[INFO]-[2022/10/14 13:13:28] DB Copy: Table wp_mepr_jobs contains 0 rows 
+[INFO]-[2022/10/14 13:13:28] DB Copy: Creating table wpstg0_mepr_members
+[INFO]-[2022/10/14 13:13:28] DB Copy: Table wp_mepr_members contains 92 rows 
+[INFO]-[2022/10/14 13:13:28] DB Copy: Copy data from wp_mepr_members to wpstg0_mepr_members - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:29] DB Copy: Creating table wpstg0_mepr_rule_access_conditions
+[INFO]-[2022/10/14 13:13:29] DB Copy: Table wp_mepr_rule_access_conditions contains 2 rows 
+[INFO]-[2022/10/14 13:13:29] DB Copy: Copy data from wp_mepr_rule_access_conditions to wpstg0_mepr_rule_access_conditions - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:29] DB Copy: Creating table wpstg0_mepr_subscription_meta
+[INFO]-[2022/10/14 13:13:29] DB Copy: Table wp_mepr_subscription_meta contains 0 rows 
+[INFO]-[2022/10/14 13:13:29] DB Copy: Creating table wpstg0_mepr_subscriptions
+[INFO]-[2022/10/14 13:13:29] DB Copy: Table wp_mepr_subscriptions contains 0 rows 
+[INFO]-[2022/10/14 13:13:30] DB Copy: Creating table wpstg0_mepr_tax_rate_locations
+[INFO]-[2022/10/14 13:13:30] DB Copy: Table wp_mepr_tax_rate_locations contains 0 rows 
+[INFO]-[2022/10/14 13:13:30] DB Copy: Creating table wpstg0_mepr_tax_rates
+[INFO]-[2022/10/14 13:13:30] DB Copy: Table wp_mepr_tax_rates contains 0 rows 
+[INFO]-[2022/10/14 13:13:30] DB Copy: Creating table wpstg0_mepr_transaction_meta
+[INFO]-[2022/10/14 13:13:31] DB Copy: Table wp_mepr_transaction_meta contains 0 rows 
+[INFO]-[2022/10/14 13:13:31] DB Copy: Creating table wpstg0_mepr_transactions
+[INFO]-[2022/10/14 13:13:31] DB Copy: Table wp_mepr_transactions contains 5 rows 
+[INFO]-[2022/10/14 13:13:31] DB Copy: Copy data from wp_mepr_transactions to wpstg0_mepr_transactions - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:31] DB Copy: Creating table wpstg0_myCRED_log
+[INFO]-[2022/10/14 13:13:31] DB Copy: Table wp_myCRED_log contains 3 rows 
+[INFO]-[2022/10/14 13:13:31] DB Copy: Copy data from wp_myCRED_log to wpstg0_myCRED_log - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:31] DB Copy: Creating table wpstg0_options
+[INFO]-[2022/10/14 13:13:32] DB Copy: Table wp_options contains 2387 rows 
+[INFO]-[2022/10/14 13:13:32] DB Copy: Copy data from wp_options to wpstg0_options - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:32] DB Copy: Creating table wpstg0_p2p
+[INFO]-[2022/10/14 13:13:32] DB Copy: Table wp_p2p contains 0 rows 
+[INFO]-[2022/10/14 13:13:32] DB Copy: Creating table wpstg0_p2pmeta
+[INFO]-[2022/10/14 13:13:32] DB Copy: Table wp_p2pmeta contains 0 rows 
+[INFO]-[2022/10/14 13:13:33] DB Copy: Creating table wpstg0_pmpro_discount_codes
+[INFO]-[2022/10/14 13:13:33] DB Copy: Table wp_pmpro_discount_codes contains 0 rows 
+[INFO]-[2022/10/14 13:13:33] DB Copy: Creating table wpstg0_pmpro_discount_codes_levels
+[INFO]-[2022/10/14 13:13:33] DB Copy: Table wp_pmpro_discount_codes_levels contains 0 rows 
+[INFO]-[2022/10/14 13:13:33] DB Copy: Creating table wpstg0_pmpro_discount_codes_uses
+[INFO]-[2022/10/14 13:13:33] DB Copy: Table wp_pmpro_discount_codes_uses contains 0 rows 
+[INFO]-[2022/10/14 13:13:34] DB Copy: Creating table wpstg0_pmpro_membership_levelmeta
+[INFO]-[2022/10/14 13:13:34] DB Copy: Table wp_pmpro_membership_levelmeta contains 7 rows 
+[INFO]-[2022/10/14 13:13:34] DB Copy: Copy data from wp_pmpro_membership_levelmeta to wpstg0_pmpro_membership_levelmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:34] DB Copy: Creating table wpstg0_pmpro_membership_levels
+[INFO]-[2022/10/14 13:13:34] DB Copy: Table wp_pmpro_membership_levels contains 2 rows 
+[INFO]-[2022/10/14 13:13:34] DB Copy: Copy data from wp_pmpro_membership_levels to wpstg0_pmpro_membership_levels - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:34] DB Copy: Creating table wpstg0_pmpro_membership_ordermeta
+[INFO]-[2022/10/14 13:13:34] DB Copy: Table wp_pmpro_membership_ordermeta contains 0 rows 
+[INFO]-[2022/10/14 13:13:35] DB Copy: Creating table wpstg0_pmpro_membership_orders
+[INFO]-[2022/10/14 13:13:35] DB Copy: Table wp_pmpro_membership_orders contains 1 rows 
+[INFO]-[2022/10/14 13:13:35] DB Copy: Copy data from wp_pmpro_membership_orders to wpstg0_pmpro_membership_orders - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:35] DB Copy: Creating table wpstg0_pmpro_memberships_categories
+[INFO]-[2022/10/14 13:13:35] DB Copy: Table wp_pmpro_memberships_categories contains 0 rows 
+[INFO]-[2022/10/14 13:13:35] DB Copy: Creating table wpstg0_pmpro_memberships_pages
+[INFO]-[2022/10/14 13:13:36] DB Copy: Table wp_pmpro_memberships_pages contains 6 rows 
+[INFO]-[2022/10/14 13:13:36] DB Copy: Copy data from wp_pmpro_memberships_pages to wpstg0_pmpro_memberships_pages - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:36] DB Copy: Creating table wpstg0_pmpro_memberships_users
+[INFO]-[2022/10/14 13:13:36] DB Copy: Table wp_pmpro_memberships_users contains 6 rows 
+[INFO]-[2022/10/14 13:13:36] DB Copy: Copy data from wp_pmpro_memberships_users to wpstg0_pmpro_memberships_users - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:36] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2022/10/14 13:13:36] DB Copy: Table wp_postmeta contains 13082 rows 
+[INFO]-[2022/10/14 13:13:36] DB Copy: Copy data from wp_postmeta to wpstg0_postmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:37] DB Copy: Copy data from wp_postmeta to wpstg0_postmeta - 10000 to 20000 records
+[INFO]-[2022/10/14 13:13:37] DB Copy: Creating table wpstg0_posts
+[INFO]-[2022/10/14 13:13:37] DB Copy: Table wp_posts contains 2369 rows 
+[INFO]-[2022/10/14 13:13:37] DB Copy: Copy data from wp_posts to wpstg0_posts - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:38] DB Copy: Creating table wpstg0_presto_player_audio_presets
+[INFO]-[2022/10/14 13:13:38] DB Copy: Table wp_presto_player_audio_presets contains 4 rows 
+[INFO]-[2022/10/14 13:13:38] DB Copy: Copy data from wp_presto_player_audio_presets to wpstg0_presto_player_audio_presets - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:38] DB Copy: Creating table wpstg0_presto_player_email_collection
+[INFO]-[2022/10/14 13:13:38] DB Copy: Table wp_presto_player_email_collection contains 0 rows 
+[INFO]-[2022/10/14 13:13:39] DB Copy: Creating table wpstg0_presto_player_presets
+[INFO]-[2022/10/14 13:13:39] DB Copy: Table wp_presto_player_presets contains 5 rows 
+[INFO]-[2022/10/14 13:13:39] DB Copy: Copy data from wp_presto_player_presets to wpstg0_presto_player_presets - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:39] DB Copy: Creating table wpstg0_presto_player_videos
+[INFO]-[2022/10/14 13:13:39] DB Copy: Table wp_presto_player_videos contains 0 rows 
+[INFO]-[2022/10/14 13:13:39] DB Copy: Creating table wpstg0_presto_player_visits
+[INFO]-[2022/10/14 13:13:40] DB Copy: Table wp_presto_player_visits contains 0 rows 
+[INFO]-[2022/10/14 13:13:40] DB Copy: Creating table wpstg0_shortpixel_queue
+[INFO]-[2022/10/14 13:13:40] DB Copy: Table wp_shortpixel_queue contains 0 rows 
+[INFO]-[2022/10/14 13:13:40] DB Copy: Creating table wpstg0_signups
+[INFO]-[2022/10/14 13:13:40] DB Copy: Table wp_signups contains 44 rows 
+[INFO]-[2022/10/14 13:13:40] DB Copy: Copy data from wp_signups to wpstg0_signups - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:41] DB Copy: Creating table wpstg0_spbc_auth_logs
+[INFO]-[2022/10/14 13:13:41] DB Copy: Table wp_spbc_auth_logs contains 8 rows 
+[INFO]-[2022/10/14 13:13:41] DB Copy: Copy data from wp_spbc_auth_logs to wpstg0_spbc_auth_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:41] DB Copy: Creating table wpstg0_spbc_backuped_files
+[INFO]-[2022/10/14 13:13:41] DB Copy: Table wp_spbc_backuped_files contains 7 rows 
+[INFO]-[2022/10/14 13:13:41] DB Copy: Copy data from wp_spbc_backuped_files to wpstg0_spbc_backuped_files - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:41] DB Copy: Creating table wpstg0_spbc_backups
+[INFO]-[2022/10/14 13:13:41] DB Copy: Table wp_spbc_backups contains 1 rows 
+[INFO]-[2022/10/14 13:13:41] DB Copy: Copy data from wp_spbc_backups to wpstg0_spbc_backups - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:42] DB Copy: Creating table wpstg0_spbc_bfp_blocked
+[INFO]-[2022/10/14 13:13:42] DB Copy: Table wp_spbc_bfp_blocked contains 0 rows 
+[INFO]-[2022/10/14 13:13:42] DB Copy: Creating table wpstg0_spbc_firewall__personal_countries
+[INFO]-[2022/10/14 13:13:42] DB Copy: Table wp_spbc_firewall__personal_countries contains 0 rows 
+[INFO]-[2022/10/14 13:13:42] DB Copy: Creating table wpstg0_spbc_firewall__personal_ips
+[INFO]-[2022/10/14 13:13:42] DB Copy: Table wp_spbc_firewall__personal_ips contains 4 rows 
+[INFO]-[2022/10/14 13:13:42] DB Copy: Copy data from wp_spbc_firewall__personal_ips to wpstg0_spbc_firewall__personal_ips - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:43] DB Copy: Creating table wpstg0_spbc_firewall_data
+[INFO]-[2022/10/14 13:13:43] DB Copy: Table wp_spbc_firewall_data contains 24034 rows 
+[INFO]-[2022/10/14 13:13:43] DB Copy: Copy data from wp_spbc_firewall_data to wpstg0_spbc_firewall_data - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:43] DB Copy: Copy data from wp_spbc_firewall_data to wpstg0_spbc_firewall_data - 10000 to 20000 records
+[INFO]-[2022/10/14 13:13:44] DB Copy: Copy data from wp_spbc_firewall_data to wpstg0_spbc_firewall_data - 20000 to 30000 records
+[INFO]-[2022/10/14 13:13:44] DB Copy: Creating table wpstg0_spbc_firewall_logs
+[INFO]-[2022/10/14 13:13:44] DB Copy: Table wp_spbc_firewall_logs contains 13 rows 
+[INFO]-[2022/10/14 13:13:44] DB Copy: Copy data from wp_spbc_firewall_logs to wpstg0_spbc_firewall_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:45] DB Copy: Creating table wpstg0_spbc_monitoring_users
+[INFO]-[2022/10/14 13:13:45] DB Copy: Table wp_spbc_monitoring_users contains 1 rows 
+[INFO]-[2022/10/14 13:13:45] DB Copy: Copy data from wp_spbc_monitoring_users to wpstg0_spbc_monitoring_users - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:45] DB Copy: Creating table wpstg0_spbc_scan_frontend
+[INFO]-[2022/10/14 13:13:45] DB Copy: Table wp_spbc_scan_frontend contains 10 rows 
+[INFO]-[2022/10/14 13:13:45] DB Copy: Copy data from wp_spbc_scan_frontend to wpstg0_spbc_scan_frontend - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:45] DB Copy: Creating table wpstg0_spbc_scan_links_logs
+[INFO]-[2022/10/14 13:13:45] DB Copy: Table wp_spbc_scan_links_logs contains 0 rows 
+[INFO]-[2022/10/14 13:13:46] DB Copy: Creating table wpstg0_spbc_scan_results
+[INFO]-[2022/10/14 13:13:46] DB Copy: Table wp_spbc_scan_results contains 928 rows 
+[INFO]-[2022/10/14 13:13:46] DB Copy: Copy data from wp_spbc_scan_results to wpstg0_spbc_scan_results - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:46] DB Copy: Creating table wpstg0_spbc_scan_signatures
+[INFO]-[2022/10/14 13:13:46] DB Copy: Table wp_spbc_scan_signatures contains 551 rows 
+[INFO]-[2022/10/14 13:13:46] DB Copy: Copy data from wp_spbc_scan_signatures to wpstg0_spbc_scan_signatures - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:46] DB Copy: Creating table wpstg0_spbc_sessions
+[INFO]-[2022/10/14 13:13:46] DB Copy: Table wp_spbc_sessions contains 0 rows 
+[INFO]-[2022/10/14 13:13:47] DB Copy: Creating table wpstg0_spbc_traffic_control_logs
+[INFO]-[2022/10/14 13:13:47] DB Copy: Table wp_spbc_traffic_control_logs contains 11 rows 
+[INFO]-[2022/10/14 13:13:47] DB Copy: Copy data from wp_spbc_traffic_control_logs to wpstg0_spbc_traffic_control_logs - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:47] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2022/10/14 13:13:47] DB Copy: Table wp_term_relationships contains 562 rows 
+[INFO]-[2022/10/14 13:13:47] DB Copy: Copy data from wp_term_relationships to wpstg0_term_relationships - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:47] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2022/10/14 13:13:48] DB Copy: Table wp_term_taxonomy contains 132 rows 
+[INFO]-[2022/10/14 13:13:48] DB Copy: Copy data from wp_term_taxonomy to wpstg0_term_taxonomy - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:48] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2022/10/14 13:13:48] DB Copy: Table wp_termmeta contains 91 rows 
+[INFO]-[2022/10/14 13:13:48] DB Copy: Copy data from wp_termmeta to wpstg0_termmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:48] DB Copy: Creating table wpstg0_terms
+[INFO]-[2022/10/14 13:13:48] DB Copy: Table wp_terms contains 132 rows 
+[INFO]-[2022/10/14 13:13:48] DB Copy: Copy data from wp_terms to wpstg0_terms - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:48] DB Copy: Creating table wpstg0_totalcontest_log
+[INFO]-[2022/10/14 13:13:49] DB Copy: Table wp_totalcontest_log contains 0 rows 
+[INFO]-[2022/10/14 13:13:49] DB Copy: Creating table wpstg0_totalcontest_votes
+[INFO]-[2022/10/14 13:13:49] DB Copy: Table wp_totalcontest_votes contains 0 rows 
+[INFO]-[2022/10/14 13:13:49] DB Copy: Creating table wpstg0_trp_gettext_en_us
+[INFO]-[2022/10/14 13:13:50] DB Copy: Table wp_trp_gettext_en_us contains 843 rows 
+[INFO]-[2022/10/14 13:13:50] DB Copy: Copy data from wp_trp_gettext_en_us to wpstg0_trp_gettext_en_us - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:51] DB Copy: Creating table wpstg0_tutor_earnings
+[INFO]-[2022/10/14 13:13:51] DB Copy: Table wp_tutor_earnings contains 0 rows 
+[INFO]-[2022/10/14 13:13:51] DB Copy: Creating table wpstg0_tutor_quiz_attempt_answers
+[INFO]-[2022/10/14 13:13:51] DB Copy: Table wp_tutor_quiz_attempt_answers contains 0 rows 
+[INFO]-[2022/10/14 13:13:52] DB Copy: Creating table wpstg0_tutor_quiz_attempts
+[INFO]-[2022/10/14 13:13:52] DB Copy: Table wp_tutor_quiz_attempts contains 0 rows 
+[INFO]-[2022/10/14 13:13:52] DB Copy: Creating table wpstg0_tutor_quiz_question_answers
+[INFO]-[2022/10/14 13:13:52] DB Copy: Table wp_tutor_quiz_question_answers contains 0 rows 
+[INFO]-[2022/10/14 13:13:53] DB Copy: Creating table wpstg0_tutor_quiz_questions
+[INFO]-[2022/10/14 13:13:53] DB Copy: Table wp_tutor_quiz_questions contains 0 rows 
+[INFO]-[2022/10/14 13:13:53] DB Copy: Creating table wpstg0_tutor_withdraws
+[INFO]-[2022/10/14 13:13:53] DB Copy: Table wp_tutor_withdraws contains 0 rows 
+[INFO]-[2022/10/14 13:13:54] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2022/10/14 13:13:54] DB Copy: Table wp_usermeta contains 5927 rows 
+[INFO]-[2022/10/14 13:13:54] DB Copy: Copy data from wp_usermeta to wpstg0_usermeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:54] DB Copy: Creating table wpstg0_users
+[INFO]-[2022/10/14 13:13:54] DB Copy: Table wp_users contains 100 rows 
+[INFO]-[2022/10/14 13:13:54] DB Copy: Copy data from wp_users to wpstg0_users - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:55] DB Copy: Creating table wpstg0_wc_admin_note_actions
+[INFO]-[2022/10/14 13:13:55] DB Copy: Table wp_wc_admin_note_actions contains 91 rows 
+[INFO]-[2022/10/14 13:13:55] DB Copy: Copy data from wp_wc_admin_note_actions to wpstg0_wc_admin_note_actions - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:55] DB Copy: Creating table wpstg0_wc_admin_notes
+[INFO]-[2022/10/14 13:13:55] DB Copy: Table wp_wc_admin_notes contains 82 rows 
+[INFO]-[2022/10/14 13:13:55] DB Copy: Copy data from wp_wc_admin_notes to wpstg0_wc_admin_notes - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:56] DB Copy: Creating table wpstg0_wc_category_lookup
+[INFO]-[2022/10/14 13:13:56] DB Copy: Table wp_wc_category_lookup contains 10 rows 
+[INFO]-[2022/10/14 13:13:56] DB Copy: Copy data from wp_wc_category_lookup to wpstg0_wc_category_lookup - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:56] DB Copy: Creating table wpstg0_wc_customer_lookup
+[INFO]-[2022/10/14 13:13:56] DB Copy: Table wp_wc_customer_lookup contains 3 rows 
+[INFO]-[2022/10/14 13:13:56] DB Copy: Copy data from wp_wc_customer_lookup to wpstg0_wc_customer_lookup - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:57] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2022/10/14 13:13:57] DB Copy: Table wp_wc_download_log contains 0 rows 
+[INFO]-[2022/10/14 13:13:57] DB Copy: Creating table wpstg0_wc_order_coupon_lookup
+[INFO]-[2022/10/14 13:13:57] DB Copy: Table wp_wc_order_coupon_lookup contains 0 rows 
+[INFO]-[2022/10/14 13:13:58] DB Copy: Creating table wpstg0_wc_order_product_lookup
+[INFO]-[2022/10/14 13:13:58] DB Copy: Table wp_wc_order_product_lookup contains 5 rows 
+[INFO]-[2022/10/14 13:13:58] DB Copy: Copy data from wp_wc_order_product_lookup to wpstg0_wc_order_product_lookup - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:58] DB Copy: Creating table wpstg0_wc_order_stats
+[INFO]-[2022/10/14 13:13:58] DB Copy: Table wp_wc_order_stats contains 4 rows 
+[INFO]-[2022/10/14 13:13:58] DB Copy: Copy data from wp_wc_order_stats to wpstg0_wc_order_stats - 0 to 10000 records
+[INFO]-[2022/10/14 13:13:59] DB Copy: Creating table wpstg0_wc_order_tax_lookup
+[INFO]-[2022/10/14 13:13:59] DB Copy: Table wp_wc_order_tax_lookup contains 0 rows 
+[INFO]-[2022/10/14 13:13:59] DB Copy: Creating table wpstg0_wc_product_attributes_lookup
+[INFO]-[2022/10/14 13:13:59] DB Copy: Table wp_wc_product_attributes_lookup contains 27 rows 
+[INFO]-[2022/10/14 13:13:59] DB Copy: Copy data from wp_wc_product_attributes_lookup to wpstg0_wc_product_attributes_lookup - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:00] DB Copy: Creating table wpstg0_wc_product_download_directories
+[INFO]-[2022/10/14 13:14:00] DB Copy: Table wp_wc_product_download_directories contains 2 rows 
+[INFO]-[2022/10/14 13:14:00] DB Copy: Copy data from wp_wc_product_download_directories to wpstg0_wc_product_download_directories - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:00] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2022/10/14 13:14:00] DB Copy: Table wp_wc_product_meta_lookup contains 43 rows 
+[INFO]-[2022/10/14 13:14:00] DB Copy: Copy data from wp_wc_product_meta_lookup to wpstg0_wc_product_meta_lookup - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:01] DB Copy: Creating table wpstg0_wc_rate_limits
+[INFO]-[2022/10/14 13:14:01] DB Copy: Table wp_wc_rate_limits contains 0 rows 
+[INFO]-[2022/10/14 13:14:01] DB Copy: Creating table wpstg0_wc_reserved_stock
+[INFO]-[2022/10/14 13:14:02] DB Copy: Table wp_wc_reserved_stock contains 0 rows 
+[INFO]-[2022/10/14 13:14:02] DB Copy: Creating table wpstg0_wc_tax_rate_classes
+[INFO]-[2022/10/14 13:14:02] DB Copy: Table wp_wc_tax_rate_classes contains 2 rows 
+[INFO]-[2022/10/14 13:14:02] DB Copy: Copy data from wp_wc_tax_rate_classes to wpstg0_wc_tax_rate_classes - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:03] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2022/10/14 13:14:03] DB Copy: Table wp_wc_webhooks contains 0 rows 
+[INFO]-[2022/10/14 13:14:03] DB Copy: Creating table wpstg0_wcs_payment_retries
+[INFO]-[2022/10/14 13:14:03] DB Copy: Table wp_wcs_payment_retries contains 0 rows 
+[INFO]-[2022/10/14 13:14:04] DB Copy: Creating table wpstg0_wdm_instructor_commission
+[INFO]-[2022/10/14 13:14:04] DB Copy: Table wp_wdm_instructor_commission contains 0 rows 
+[INFO]-[2022/10/14 13:14:04] DB Copy: Creating table wpstg0_wfblockediplog
+[INFO]-[2022/10/14 13:14:04] DB Copy: Table wp_wfblockediplog contains 258 rows 
+[INFO]-[2022/10/14 13:14:04] DB Copy: Copy data from wp_wfblockediplog to wpstg0_wfblockediplog - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:05] DB Copy: Creating table wpstg0_wfblocks7
+[INFO]-[2022/10/14 13:14:05] DB Copy: Table wp_wfblocks7 contains 441 rows 
+[INFO]-[2022/10/14 13:14:05] DB Copy: Copy data from wp_wfblocks7 to wpstg0_wfblocks7 - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:05] DB Copy: Creating table wpstg0_wfconfig
+[INFO]-[2022/10/14 13:14:05] DB Copy: Table wp_wfconfig contains 276 rows 
+[INFO]-[2022/10/14 13:14:05] DB Copy: Copy data from wp_wfconfig to wpstg0_wfconfig - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:06] DB Copy: Creating table wpstg0_wfcrawlers
+[INFO]-[2022/10/14 13:14:06] DB Copy: Table wp_wfcrawlers contains 37 rows 
+[INFO]-[2022/10/14 13:14:06] DB Copy: Copy data from wp_wfcrawlers to wpstg0_wfcrawlers - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:06] DB Copy: Creating table wpstg0_wffilechanges
+[INFO]-[2022/10/14 13:14:08] DB Copy: Table wp_wffilechanges contains 0 rows 
+[INFO]-[2022/10/14 13:14:09] DB Copy: Creating table wpstg0_wffilemods
+[INFO]-[2022/10/14 13:14:12] DB Copy: Table wp_wffilemods contains 15851 rows 
+[INFO]-[2022/10/14 13:14:12] DB Copy: Copy data from wp_wffilemods to wpstg0_wffilemods - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:13] DB Copy: Copy data from wp_wffilemods to wpstg0_wffilemods - 10000 to 20000 records
+[INFO]-[2022/10/14 13:14:13] DB Copy: Creating table wpstg0_wfhits
+[INFO]-[2022/10/14 13:14:13] DB Copy: Table wp_wfhits contains 1 rows 
+[INFO]-[2022/10/14 13:14:13] DB Copy: Copy data from wp_wfhits to wpstg0_wfhits - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:14] DB Copy: Creating table wpstg0_wfhoover
+[INFO]-[2022/10/14 13:14:14] DB Copy: Table wp_wfhoover contains 0 rows 
+[INFO]-[2022/10/14 13:14:14] DB Copy: Creating table wpstg0_wfissues
+[INFO]-[2022/10/14 13:14:14] DB Copy: Table wp_wfissues contains 3 rows 
+[INFO]-[2022/10/14 13:14:14] DB Copy: Copy data from wp_wfissues to wpstg0_wfissues - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:15] DB Copy: Creating table wpstg0_wfknownfilelist
+[INFO]-[2022/10/14 13:14:15] DB Copy: Table wp_wfknownfilelist contains 28086 rows 
+[INFO]-[2022/10/14 13:14:15] DB Copy: Copy data from wp_wfknownfilelist to wpstg0_wfknownfilelist - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:16] DB Copy: Copy data from wp_wfknownfilelist to wpstg0_wfknownfilelist - 10000 to 20000 records
+[INFO]-[2022/10/14 13:14:16] DB Copy: Copy data from wp_wfknownfilelist to wpstg0_wfknownfilelist - 20000 to 30000 records
+[INFO]-[2022/10/14 13:14:17] DB Copy: Creating table wpstg0_wflivetraffichuman
+[INFO]-[2022/10/14 13:14:17] DB Copy: Table wp_wflivetraffichuman contains 0 rows 
+[INFO]-[2022/10/14 13:14:17] DB Copy: Creating table wpstg0_wflocs
+[INFO]-[2022/10/14 13:14:17] DB Copy: Table wp_wflocs contains 97 rows 
+[INFO]-[2022/10/14 13:14:17] DB Copy: Copy data from wp_wflocs to wpstg0_wflocs - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:18] DB Copy: Creating table wpstg0_wflogins
+[INFO]-[2022/10/14 13:14:18] DB Copy: Table wp_wflogins contains 268 rows 
+[INFO]-[2022/10/14 13:14:18] DB Copy: Copy data from wp_wflogins to wpstg0_wflogins - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:18] DB Copy: Creating table wpstg0_wfls_2fa_secrets
+[INFO]-[2022/10/14 13:14:18] DB Copy: Table wp_wfls_2fa_secrets contains 0 rows 
+[INFO]-[2022/10/14 13:14:19] DB Copy: Creating table wpstg0_wfls_settings
+[INFO]-[2022/10/14 13:14:19] DB Copy: Table wp_wfls_settings contains 24 rows 
+[INFO]-[2022/10/14 13:14:19] DB Copy: Copy data from wp_wfls_settings to wpstg0_wfls_settings - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:19] DB Copy: Creating table wpstg0_wfnotifications
+[INFO]-[2022/10/14 13:14:20] DB Copy: Table wp_wfnotifications contains 4 rows 
+[INFO]-[2022/10/14 13:14:20] DB Copy: Copy data from wp_wfnotifications to wpstg0_wfnotifications - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:20] DB Copy: Creating table wpstg0_wfpendingissues
+[INFO]-[2022/10/14 13:14:20] DB Copy: Table wp_wfpendingissues contains 1 rows 
+[INFO]-[2022/10/14 13:14:20] DB Copy: Copy data from wp_wfpendingissues to wpstg0_wfpendingissues - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:21] DB Copy: Creating table wpstg0_wfreversecache
+[INFO]-[2022/10/14 13:14:21] DB Copy: Table wp_wfreversecache contains 41 rows 
+[INFO]-[2022/10/14 13:14:21] DB Copy: Copy data from wp_wfreversecache to wpstg0_wfreversecache - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:21] DB Copy: Creating table wpstg0_wfsnipcache
+[INFO]-[2022/10/14 13:14:21] DB Copy: Table wp_wfsnipcache contains 0 rows 
+[INFO]-[2022/10/14 13:14:22] DB Copy: Creating table wpstg0_wfstatus
+[INFO]-[2022/10/14 13:14:22] DB Copy: Table wp_wfstatus contains 474 rows 
+[INFO]-[2022/10/14 13:14:22] DB Copy: Copy data from wp_wfstatus to wpstg0_wfstatus - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:22] DB Copy: Creating table wpstg0_wftrafficrates
+[INFO]-[2022/10/14 13:14:22] DB Copy: Table wp_wftrafficrates contains 0 rows 
+[INFO]-[2022/10/14 13:14:23] DB Copy: Creating table wpstg0_wlcc_contentarchiver
+[INFO]-[2022/10/14 13:14:23] DB Copy: Table wp_wlcc_contentarchiver contains 0 rows 
+[INFO]-[2022/10/14 13:14:23] DB Copy: Creating table wpstg0_wlcc_contentmanager_move
+[INFO]-[2022/10/14 13:14:23] DB Copy: Table wp_wlcc_contentmanager_move contains 0 rows 
+[INFO]-[2022/10/14 13:14:24] DB Copy: Creating table wpstg0_wlcc_contentmanager_repost
+[INFO]-[2022/10/14 13:14:24] DB Copy: Table wp_wlcc_contentmanager_repost contains 0 rows 
+[INFO]-[2022/10/14 13:14:24] DB Copy: Creating table wpstg0_wlcc_contentmanager_set
+[INFO]-[2022/10/14 13:14:24] DB Copy: Table wp_wlcc_contentmanager_set contains 0 rows 
+[INFO]-[2022/10/14 13:14:25] DB Copy: Creating table wpstg0_wlcc_contentsched
+[INFO]-[2022/10/14 13:14:25] DB Copy: Table wp_wlcc_contentsched contains 0 rows 
+[INFO]-[2022/10/14 13:14:25] DB Copy: Creating table wpstg0_wlm_api_queue
+[INFO]-[2022/10/14 13:14:25] DB Copy: Table wp_wlm_api_queue contains 0 rows 
+[INFO]-[2022/10/14 13:14:26] DB Copy: Creating table wpstg0_wlm_contentlevel_options
+[INFO]-[2022/10/14 13:14:26] DB Copy: Table wp_wlm_contentlevel_options contains 0 rows 
+[INFO]-[2022/10/14 13:14:26] DB Copy: Creating table wpstg0_wlm_contentlevels
+[INFO]-[2022/10/14 13:14:26] DB Copy: Table wp_wlm_contentlevels contains 39 rows 
+[INFO]-[2022/10/14 13:14:26] DB Copy: Copy data from wp_wlm_contentlevels to wpstg0_wlm_contentlevels - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:27] DB Copy: Creating table wpstg0_wlm_email_queue
+[INFO]-[2022/10/14 13:14:27] DB Copy: Table wp_wlm_email_queue contains 0 rows 
+[INFO]-[2022/10/14 13:14:27] DB Copy: Creating table wpstg0_wlm_emailbroadcast
+[INFO]-[2022/10/14 13:14:27] DB Copy: Table wp_wlm_emailbroadcast contains 0 rows 
+[INFO]-[2022/10/14 13:14:28] DB Copy: Creating table wpstg0_wlm_level_options
+[INFO]-[2022/10/14 13:14:28] DB Copy: Table wp_wlm_level_options contains 0 rows 
+[INFO]-[2022/10/14 13:14:28] DB Copy: Creating table wpstg0_wlm_logs
+[INFO]-[2022/10/14 13:14:29] DB Copy: Table wp_wlm_logs contains 0 rows 
+[INFO]-[2022/10/14 13:14:29] DB Copy: Creating table wpstg0_wlm_options
+[INFO]-[2022/10/14 13:14:29] DB Copy: Table wp_wlm_options contains 160 rows 
+[INFO]-[2022/10/14 13:14:29] DB Copy: Copy data from wp_wlm_options to wpstg0_wlm_options - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:30] DB Copy: Creating table wpstg0_wlm_presto_player_visits
+[INFO]-[2022/10/14 13:14:30] DB Copy: Table wp_wlm_presto_player_visits contains 0 rows 
+[INFO]-[2022/10/14 13:14:30] DB Copy: Creating table wpstg0_wlm_user_options
+[INFO]-[2022/10/14 13:14:30] DB Copy: Table wp_wlm_user_options contains 2 rows 
+[INFO]-[2022/10/14 13:14:30] DB Copy: Copy data from wp_wlm_user_options to wpstg0_wlm_user_options - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:31] DB Copy: Creating table wpstg0_wlm_userlevel_options
+[INFO]-[2022/10/14 13:14:31] DB Copy: Table wp_wlm_userlevel_options contains 0 rows 
+[INFO]-[2022/10/14 13:14:31] DB Copy: Creating table wpstg0_wlm_userlevels
+[INFO]-[2022/10/14 13:14:31] DB Copy: Table wp_wlm_userlevels contains 0 rows 
+[INFO]-[2022/10/14 13:14:32] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2022/10/14 13:14:32] DB Copy: Table wp_woocommerce_api_keys contains 0 rows 
+[INFO]-[2022/10/14 13:14:32] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2022/10/14 13:14:32] DB Copy: Table wp_woocommerce_attribute_taxonomies contains 2 rows 
+[INFO]-[2022/10/14 13:14:32] DB Copy: Copy data from wp_woocommerce_attribute_taxonomies to wpstg0_woocommerce_attribute_taxonomies - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:33] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2022/10/14 13:14:33] DB Copy: Table wp_woocommerce_downloadable_product_permissions contains 2 rows 
+[INFO]-[2022/10/14 13:14:33] DB Copy: Copy data from wp_woocommerce_downloadable_product_permissions to wpstg0_woocommerce_downloadable_product_permissions - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:33] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2022/10/14 13:14:33] DB Copy: Table wp_woocommerce_log contains 0 rows 
+[INFO]-[2022/10/14 13:14:34] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2022/10/14 13:14:34] DB Copy: Table wp_woocommerce_order_itemmeta contains 84 rows 
+[INFO]-[2022/10/14 13:14:34] DB Copy: Copy data from wp_woocommerce_order_itemmeta to wpstg0_woocommerce_order_itemmeta - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:34] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2022/10/14 13:14:34] DB Copy: Table wp_woocommerce_order_items contains 9 rows 
+[INFO]-[2022/10/14 13:14:34] DB Copy: Copy data from wp_woocommerce_order_items to wpstg0_woocommerce_order_items - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:35] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2022/10/14 13:14:35] DB Copy: Table wp_woocommerce_payment_tokenmeta contains 0 rows 
+[INFO]-[2022/10/14 13:14:35] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2022/10/14 13:14:35] DB Copy: Table wp_woocommerce_payment_tokens contains 0 rows 
+[INFO]-[2022/10/14 13:14:36] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2022/10/14 13:14:36] DB Copy: Table wp_woocommerce_sessions contains 11 rows 
+[INFO]-[2022/10/14 13:14:36] DB Copy: Copy data from wp_woocommerce_sessions to wpstg0_woocommerce_sessions - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:36] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2022/10/14 13:14:36] DB Copy: Table wp_woocommerce_shipping_zone_locations contains 0 rows 
+[INFO]-[2022/10/14 13:14:37] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2022/10/14 13:14:37] DB Copy: Table wp_woocommerce_shipping_zone_methods contains 0 rows 
+[INFO]-[2022/10/14 13:14:37] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2022/10/14 13:14:38] DB Copy: Table wp_woocommerce_shipping_zones contains 0 rows 
+[INFO]-[2022/10/14 13:14:38] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2022/10/14 13:14:38] DB Copy: Table wp_woocommerce_tax_rate_locations contains 0 rows 
+[INFO]-[2022/10/14 13:14:38] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2022/10/14 13:14:39] DB Copy: Table wp_woocommerce_tax_rates contains 0 rows 
+[INFO]-[2022/10/14 13:14:39] DB Copy: Creating table wpstg0_wp_phpmyadmin_extension__errors_log
+[INFO]-[2022/10/14 13:14:39] DB Copy: Table wp_wp_phpmyadmin_extension__errors_log contains 0 rows 
+[INFO]-[2022/10/14 13:14:40] DB Copy: Creating table wpstg0_wpfm_backup
+[INFO]-[2022/10/14 13:14:40] DB Copy: Table wp_wpfm_backup contains 0 rows 
+[INFO]-[2022/10/14 13:14:40] DB Copy: Creating table wpstg0_wpmailsmtp_debug_events
+[INFO]-[2022/10/14 13:14:40] DB Copy: Table wp_wpmailsmtp_debug_events contains 0 rows 
+[INFO]-[2022/10/14 13:14:41] DB Copy: Creating table wpstg0_wpmailsmtp_tasks_meta
+[INFO]-[2022/10/14 13:14:41] DB Copy: Table wp_wpmailsmtp_tasks_meta contains 2 rows 
+[INFO]-[2022/10/14 13:14:41] DB Copy: Copy data from wp_wpmailsmtp_tasks_meta to wpstg0_wpmailsmtp_tasks_meta - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:41] DB Copy: Creating table wpstg0_wpstg_queue
+[INFO]-[2022/10/14 13:14:41] DB Copy: Table wp_wpstg_queue contains 0 rows 
+[INFO]-[2022/10/14 13:14:42] DB Copy: Creating table wpstg0_wsal_metadata
+[INFO]-[2022/10/14 13:14:42] DB Copy: Table wp_wsal_metadata contains 847 rows 
+[INFO]-[2022/10/14 13:14:42] DB Copy: Copy data from wp_wsal_metadata to wpstg0_wsal_metadata - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:42] DB Copy: Creating table wpstg0_wsal_occurrences
+[INFO]-[2022/10/14 13:14:42] DB Copy: Table wp_wsal_occurrences contains 71 rows 
+[INFO]-[2022/10/14 13:14:42] DB Copy: Copy data from wp_wsal_occurrences to wpstg0_wsal_occurrences - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:43] DB Copy: Creating table wpstg0_yoast_indexable
+[INFO]-[2022/10/14 13:14:43] DB Copy: Table wp_yoast_indexable contains 156 rows 
+[INFO]-[2022/10/14 13:14:43] DB Copy: Copy data from wp_yoast_indexable to wpstg0_yoast_indexable - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:43] DB Copy: Creating table wpstg0_yoast_indexable_hierarchy
+[INFO]-[2022/10/14 13:14:43] DB Copy: Table wp_yoast_indexable_hierarchy contains 72 rows 
+[INFO]-[2022/10/14 13:14:43] DB Copy: Copy data from wp_yoast_indexable_hierarchy to wpstg0_yoast_indexable_hierarchy - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:44] DB Copy: Creating table wpstg0_yoast_migrations
+[INFO]-[2022/10/14 13:14:44] DB Copy: Table wp_yoast_migrations contains 23 rows 
+[INFO]-[2022/10/14 13:14:44] DB Copy: Copy data from wp_yoast_migrations to wpstg0_yoast_migrations - 0 to 10000 records
+[INFO]-[2022/10/14 13:14:45] DB Copy: Creating table wpstg0_yoast_primary_term
+[INFO]-[2022/10/14 13:14:45] DB Copy: Table wp_yoast_primary_term contains 0 rows 
+[INFO]-[2022/10/14 13:14:45] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2022/10/14 13:14:45] DB Copy: Table wp_yoast_seo_links contains 0 rows 
+[INFO]-[2022/10/14 13:14:46] DB Search & Replace:  Table wpstg0_actionscheduler_actions 0 to 20000 records
+[INFO]-[2022/10/14 13:14:47] DB Search & Replace:  Table wpstg0_actionscheduler_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:14:48] DB Search & Replace:  Table wpstg0_actionscheduler_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:14:48] DB Search & Replace:  Table wpstg0_aioseo_cache 0 to 20000 records
+[INFO]-[2022/10/14 13:14:49] DB Search & Replace:  Table wpstg0_aioseo_notifications 0 to 20000 records
+[INFO]-[2022/10/14 13:14:49] DB Search & Replace:  Table wpstg0_aioseo_posts 0 to 20000 records
+[INFO]-[2022/10/14 13:14:51] DB Search & Replace:  Table wpstg0_aiowps_failed_logins 0 to 20000 records
+[INFO]-[2022/10/14 13:14:55] DB Search & Replace:  Table wpstg0_bb_access_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:14:55] DB Search & Replace:  Table wpstg0_bb_access_groups_members 0 to 20000 records
+[INFO]-[2022/10/14 13:14:56] DB Search & Replace:  Table wpstg0_bb_access_rules 0 to 20000 records
+[INFO]-[2022/10/14 13:14:56] DB Search & Replace:  Table wpstg0_bb_access_rules_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:14:57] DB Search & Replace:  Table wpstg0_bb_performance_cache 0 to 20000 records
+[INFO]-[2022/10/14 13:14:57] DB Search & Replace:  Table wpstg0_bbapp_iap_ordermeta 0 to 20000 records
+[INFO]-[2022/10/14 13:14:58] DB Search & Replace:  Table wpstg0_bbapp_iap_orders 0 to 20000 records
+[INFO]-[2022/10/14 13:14:58] DB Search & Replace:  Table wpstg0_bbapp_iap_productmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:14:59] DB Search & Replace:  Table wpstg0_bbapp_iap_products 0 to 20000 records
+[INFO]-[2022/10/14 13:14:59] DB Search & Replace:  Table wpstg0_bbapp_itemmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:14:59] DB Search & Replace:  Table wpstg0_bbapp_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:15:01] DB Search & Replace:  Table wpstg0_bbapp_logs 20000 to 40000 records
+[INFO]-[2022/10/14 13:15:02] DB Search & Replace:  Table wpstg0_bbapp_logs 33208 to 53208 records
+[INFO]-[2022/10/14 13:15:03] DB Search & Replace:  Table wpstg0_bbapp_push_notifications 0 to 20000 records
+[INFO]-[2022/10/14 13:15:03] DB Search & Replace:  Table wpstg0_bbapp_push_notifications_history 0 to 20000 records
+[INFO]-[2022/10/14 13:15:04] DB Search & Replace:  Table wpstg0_bbapp_push_notifications_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:04] DB Search & Replace:  Table wpstg0_bbapp_push_queue 0 to 20000 records
+[INFO]-[2022/10/14 13:15:08] DB Search & Replace:  Table wpstg0_bbapp_user_devices 0 to 20000 records
+[INFO]-[2022/10/14 13:15:08] DB Search & Replace:  Table wpstg0_bp_activity 0 to 20000 records
+[INFO]-[2022/10/14 13:15:09] DB Search & Replace:  Table wpstg0_bp_activity_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:10] DB Search & Replace:  Table wpstg0_bp_document 0 to 20000 records
+[INFO]-[2022/10/14 13:15:10] DB Search & Replace:  Table wpstg0_bp_document_folder 0 to 20000 records
+[INFO]-[2022/10/14 13:15:11] DB Search & Replace:  Table wpstg0_bp_document_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:12] DB Search & Replace:  Table wpstg0_bp_follow 0 to 20000 records
+[INFO]-[2022/10/14 13:15:12] DB Search & Replace:  Table wpstg0_bp_friends 0 to 20000 records
+[INFO]-[2022/10/14 13:15:13] DB Search & Replace:  Table wpstg0_bp_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:15:13] DB Search & Replace:  Table wpstg0_bp_groups_groupmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:14] DB Search & Replace:  Table wpstg0_bp_groups_members 0 to 20000 records
+[INFO]-[2022/10/14 13:15:14] DB Search & Replace:  Table wpstg0_bp_invitations 0 to 20000 records
+[INFO]-[2022/10/14 13:15:15] DB Search & Replace:  Table wpstg0_bp_media 0 to 20000 records
+[INFO]-[2022/10/14 13:15:15] DB Search & Replace:  Table wpstg0_bp_media_albums 0 to 20000 records
+[INFO]-[2022/10/14 13:15:15] DB Search & Replace:  Table wpstg0_bp_messages_messages 0 to 20000 records
+[INFO]-[2022/10/14 13:15:16] DB Search & Replace:  Table wpstg0_bp_messages_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:16] DB Search & Replace:  Table wpstg0_bp_messages_notices 0 to 20000 records
+[INFO]-[2022/10/14 13:15:17] DB Search & Replace:  Table wpstg0_bp_messages_recipients 0 to 20000 records
+[INFO]-[2022/10/14 13:15:17] DB Search & Replace:  Table wpstg0_bp_moderation 0 to 20000 records
+[INFO]-[2022/10/14 13:15:18] DB Search & Replace:  Table wpstg0_bp_moderation_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:18] DB Search & Replace:  Table wpstg0_bp_notifications 0 to 20000 records
+[INFO]-[2022/10/14 13:15:19] DB Search & Replace:  Table wpstg0_bp_notifications_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:19] DB Search & Replace:  Table wpstg0_bp_suspend 0 to 20000 records
+[INFO]-[2022/10/14 13:15:20] DB Search & Replace:  Table wpstg0_bp_suspend_details 0 to 20000 records
+[INFO]-[2022/10/14 13:15:20] DB Search & Replace:  Table wpstg0_bp_user_blogs 0 to 20000 records
+[INFO]-[2022/10/14 13:15:21] DB Search & Replace:  Table wpstg0_bp_user_blogs_blogmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:21] DB Search & Replace:  Table wpstg0_bp_xprofile_data 0 to 20000 records
+[INFO]-[2022/10/14 13:15:21] DB Search & Replace:  Table wpstg0_bp_xprofile_fields 0 to 20000 records
+[INFO]-[2022/10/14 13:15:22] DB Search & Replace:  Table wpstg0_bp_xprofile_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:15:22] DB Search & Replace:  Table wpstg0_bp_xprofile_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:23] DB Search & Replace:  Table wpstg0_bp_zoom_meeting_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:23] DB Search & Replace:  Table wpstg0_bp_zoom_meetings 0 to 20000 records
+[INFO]-[2022/10/14 13:15:26] DB Search & Replace:  Table wpstg0_bpges_subscriptions 0 to 20000 records
+[INFO]-[2022/10/14 13:15:26] DB Search & Replace: Table wpstg0_cerber_files excluded by WP STAGING
+[INFO]-[2022/10/14 13:15:27] DB Search & Replace: Table wpstg0_cerber_sets excluded by WP STAGING
+[INFO]-[2022/10/14 13:15:27] DB Search & Replace:  Table wpstg0_cerber_uss 0 to 20000 records
+[INFO]-[2022/10/14 13:15:28] DB Search & Replace:  Table wpstg0_commentmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:29] DB Search & Replace:  Table wpstg0_comments 0 to 20000 records
+[INFO]-[2022/10/14 13:15:29] DB Search & Replace:  Table wpstg0_contact_list_log 0 to 20000 records
+[INFO]-[2022/10/14 13:15:30] DB Search & Replace:  Table wpstg0_countries 0 to 20000 records
+[INFO]-[2022/10/14 13:15:33] DB Search & Replace:  Table wpstg0_email_log 0 to 20000 records
+[INFO]-[2022/10/14 13:15:34] DB Search & Replace:  Table wpstg0_fluentform_entry_details 0 to 20000 records
+[INFO]-[2022/10/14 13:15:35] DB Search & Replace:  Table wpstg0_fluentform_form_analytics 0 to 20000 records
+[INFO]-[2022/10/14 13:15:35] DB Search & Replace:  Table wpstg0_fluentform_form_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:36] DB Search & Replace:  Table wpstg0_fluentform_forms 0 to 20000 records
+[INFO]-[2022/10/14 13:15:37] DB Search & Replace:  Table wpstg0_fluentform_submission_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:37] DB Search & Replace:  Table wpstg0_fluentform_submissions 0 to 20000 records
+[INFO]-[2022/10/14 13:15:40] DB Search & Replace:  Table wpstg0_gamipress_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:15:40] DB Search & Replace:  Table wpstg0_gamipress_logs_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:41] DB Search & Replace:  Table wpstg0_gamipress_user_earnings 0 to 20000 records
+[INFO]-[2022/10/14 13:15:41] DB Search & Replace:  Table wpstg0_gamipress_user_earnings_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:43] DB Search & Replace:  Table wpstg0_geodir_custom_fields 0 to 20000 records
+[INFO]-[2022/10/14 13:15:43] DB Search & Replace:  Table wpstg0_geodir_gd_place_detail 0 to 20000 records
+[INFO]-[2022/10/14 13:15:44] DB Search & Replace:  Table wpstg0_geodir_post_review 0 to 20000 records
+[INFO]-[2022/10/14 13:15:45] DB Search & Replace:  Table wpstg0_geodir_tabs_layout 0 to 20000 records
+[INFO]-[2022/10/14 13:15:45] DB Search & Replace:  Table wpstg0_gf_addon_feed 0 to 20000 records
+[INFO]-[2022/10/14 13:15:46] DB Search & Replace:  Table wpstg0_gf_entry 0 to 20000 records
+[INFO]-[2022/10/14 13:15:46] DB Search & Replace:  Table wpstg0_gf_entry_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:47] DB Search & Replace:  Table wpstg0_gf_entry_notes 0 to 20000 records
+[INFO]-[2022/10/14 13:15:47] DB Search & Replace:  Table wpstg0_gf_form 0 to 20000 records
+[INFO]-[2022/10/14 13:15:48] DB Search & Replace:  Table wpstg0_gf_form_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:49] DB Search & Replace:  Table wpstg0_gf_form_view 0 to 20000 records
+[INFO]-[2022/10/14 13:15:49] DB Search & Replace:  Table wpstg0_h5p_contents 0 to 20000 records
+[INFO]-[2022/10/14 13:15:50] DB Search & Replace:  Table wpstg0_h5p_contents_libraries 0 to 20000 records
+[INFO]-[2022/10/14 13:15:51] DB Search & Replace:  Table wpstg0_h5p_contents_user_data 0 to 20000 records
+[INFO]-[2022/10/14 13:15:51] DB Search & Replace:  Table wpstg0_h5p_counters 0 to 20000 records
+[INFO]-[2022/10/14 13:15:52] DB Search & Replace:  Table wpstg0_h5p_events 0 to 20000 records
+[INFO]-[2022/10/14 13:15:52] DB Search & Replace:  Table wpstg0_h5p_libraries 0 to 20000 records
+[INFO]-[2022/10/14 13:15:53] DB Search & Replace:  Table wpstg0_h5p_libraries_cachedassets 0 to 20000 records
+[INFO]-[2022/10/14 13:15:53] DB Search & Replace:  Table wpstg0_h5p_libraries_hub_cache 0 to 20000 records
+[INFO]-[2022/10/14 13:15:54] DB Search & Replace:  Table wpstg0_h5p_libraries_languages 0 to 20000 records
+[INFO]-[2022/10/14 13:15:55] DB Search & Replace:  Table wpstg0_h5p_libraries_libraries 0 to 20000 records
+[INFO]-[2022/10/14 13:15:56] DB Search & Replace:  Table wpstg0_icwp_wpsf_at_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:15:57] DB Search & Replace:  Table wpstg0_icwp_wpsf_at_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:15:57] DB Search & Replace:  Table wpstg0_icwp_wpsf_botsignal 0 to 20000 records
+[INFO]-[2022/10/14 13:15:58] DB Search & Replace:  Table wpstg0_icwp_wpsf_events 0 to 20000 records
+[INFO]-[2022/10/14 13:15:58] DB Search & Replace:  Table wpstg0_icwp_wpsf_ip_lists 0 to 20000 records
+[INFO]-[2022/10/14 13:15:58] DB Search & Replace:  Table wpstg0_icwp_wpsf_ips 0 to 20000 records
+[INFO]-[2022/10/14 13:16:00] DB Search & Replace:  Table wpstg0_icwp_wpsf_req_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:16:00] DB Search & Replace:  Table wpstg0_icwp_wpsf_resultitem_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:16:01] DB Search & Replace:  Table wpstg0_icwp_wpsf_resultitems 0 to 20000 records
+[INFO]-[2022/10/14 13:16:01] DB Search & Replace:  Table wpstg0_icwp_wpsf_scans 0 to 20000 records
+[INFO]-[2022/10/14 13:16:02] DB Search & Replace:  Table wpstg0_icwp_wpsf_user_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:16:02] DB Search & Replace:  Table wpstg0_ifso_local_user 0 to 20000 records
+[INFO]-[2022/10/14 13:16:04] DB Search & Replace:  Table wpstg0_itsec_dashboard_events 0 to 20000 records
+[INFO]-[2022/10/14 13:16:06] DB Search & Replace:  Table wpstg0_itsec_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:16:07] DB Search & Replace:  Table wpstg0_itsec_temp 0 to 20000 records
+[INFO]-[2022/10/14 13:16:07] DB Search & Replace:  Table wpstg0_itsec_user_groups 0 to 20000 records
+[INFO]-[2022/10/14 13:16:08] DB Search & Replace:  Table wpstg0_jet_post_types 0 to 20000 records
+[INFO]-[2022/10/14 13:16:10] DB Search & Replace:  Table wpstg0_learndash_pro_quiz_lock 0 to 20000 records
+[INFO]-[2022/10/14 13:16:10] DB Search & Replace:  Table wpstg0_learndash_pro_quiz_master 0 to 20000 records
+[INFO]-[2022/10/14 13:16:11] DB Search & Replace:  Table wpstg0_learndash_pro_quiz_question 0 to 20000 records
+[INFO]-[2022/10/14 13:16:12] DB Search & Replace:  Table wpstg0_learndash_pro_quiz_statistic 0 to 20000 records
+[INFO]-[2022/10/14 13:16:12] DB Search & Replace:  Table wpstg0_learndash_pro_quiz_statistic_ref 0 to 20000 records
+[INFO]-[2022/10/14 13:16:13] DB Search & Replace:  Table wpstg0_learndash_user_activity 0 to 20000 records
+[INFO]-[2022/10/14 13:16:14] DB Search & Replace:  Table wpstg0_learndash_user_activity_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:16:15] DB Search & Replace:  Table wpstg0_lifterlms_events 0 to 20000 records
+[INFO]-[2022/10/14 13:16:15] DB Search & Replace:  Table wpstg0_lifterlms_notifications 0 to 20000 records
+[INFO]-[2022/10/14 13:16:17] DB Search & Replace:  Table wpstg0_lifterlms_sessions 0 to 20000 records
+[INFO]-[2022/10/14 13:16:18] DB Search & Replace:  Table wpstg0_lifterlms_user_postmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:16:20] DB Search & Replace:  Table wpstg0_litespeed_img_optm 0 to 20000 records
+[INFO]-[2022/10/14 13:16:20] DB Search & Replace:  Table wpstg0_litespeed_img_optming 0 to 20000 records
+[INFO]-[2022/10/14 13:16:21] DB Search & Replace:  Table wpstg0_litespeed_url 0 to 20000 records
+[INFO]-[2022/10/14 13:16:21] DB Search & Replace:  Table wpstg0_litespeed_url_file 0 to 20000 records
+[INFO]-[2022/10/14 13:16:40] DB Search & Replace:  Table wpstg0_mailpoet_newsletter_option 0 to 20000 records
+[INFO]-[2022/10/14 13:16:40] DB Search & Replace:  Table wpstg0_mailpoet_newsletter_option_fields 0 to 20000 records
+[INFO]-[2022/10/14 13:16:41] DB Search & Replace:  Table wpstg0_mailpoet_newsletter_segment 0 to 20000 records
+[INFO]-[2022/10/14 13:16:41] DB Search & Replace:  Table wpstg0_mailpoet_newsletter_templates 0 to 20000 records
+[INFO]-[2022/10/14 13:16:42] DB Search & Replace:  Table wpstg0_mailpoet_newsletters 0 to 20000 records
+[INFO]-[2022/10/14 13:16:43] DB Search & Replace:  Table wpstg0_mailpoet_scheduled_tasks 0 to 20000 records
+[INFO]-[2022/10/14 13:16:43] DB Search & Replace:  Table wpstg0_mailpoet_segments 0 to 20000 records
+[INFO]-[2022/10/14 13:16:44] DB Search & Replace:  Table wpstg0_mailpoet_sending_queues 0 to 20000 records
+[INFO]-[2022/10/14 13:16:44] DB Search & Replace:  Table wpstg0_mailpoet_settings 0 to 20000 records
+[INFO]-[2022/10/14 13:16:48] DB Search & Replace:  Table wpstg0_mailpoet_subscriber_segment 0 to 20000 records
+[INFO]-[2022/10/14 13:16:49] DB Search & Replace:  Table wpstg0_mailpoet_subscribers 0 to 20000 records
+[INFO]-[2022/10/14 13:16:50] DB Search & Replace:  Table wpstg0_mailpoet_user_flags 0 to 20000 records
+[INFO]-[2022/10/14 13:16:50] DB Search & Replace:  Table wpstg0_memberium_words 0 to 20000 records
+[INFO]-[2022/10/14 13:16:51] DB Search & Replace:  Table wpstg0_mepr_events 0 to 20000 records
+[INFO]-[2022/10/14 13:16:52] DB Search & Replace:  Table wpstg0_mepr_members 0 to 20000 records
+[INFO]-[2022/10/14 13:16:52] DB Search & Replace:  Table wpstg0_mepr_rule_access_conditions 0 to 20000 records
+[INFO]-[2022/10/14 13:16:55] DB Search & Replace:  Table wpstg0_mepr_transactions 0 to 20000 records
+[INFO]-[2022/10/14 13:16:55] DB Search & Replace:  Table wpstg0_myCRED_log 0 to 20000 records
+[INFO]-[2022/10/14 13:16:56] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2022/10/14 13:16:59] DB Search & Replace:  Table wpstg0_pmpro_membership_levelmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:16:59] DB Search & Replace:  Table wpstg0_pmpro_membership_levels 0 to 20000 records
+[INFO]-[2022/10/14 13:17:00] DB Search & Replace:  Table wpstg0_pmpro_membership_orders 0 to 20000 records
+[INFO]-[2022/10/14 13:17:01] DB Search & Replace:  Table wpstg0_pmpro_memberships_pages 0 to 20000 records
+[INFO]-[2022/10/14 13:17:01] DB Search & Replace:  Table wpstg0_pmpro_memberships_users 0 to 20000 records
+[INFO]-[2022/10/14 13:17:01] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:17:03] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2022/10/14 13:17:09] DB Search & Replace:  Table wpstg0_presto_player_audio_presets 0 to 20000 records
+[INFO]-[2022/10/14 13:17:09] DB Search & Replace:  Table wpstg0_presto_player_presets 0 to 20000 records
+[INFO]-[2022/10/14 13:17:11] DB Search & Replace:  Table wpstg0_signups 0 to 20000 records
+[INFO]-[2022/10/14 13:17:11] DB Search & Replace:  Table wpstg0_spbc_auth_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:17:12] DB Search & Replace:  Table wpstg0_spbc_backuped_files 0 to 20000 records
+[INFO]-[2022/10/14 13:17:12] DB Search & Replace:  Table wpstg0_spbc_backups 0 to 20000 records
+[INFO]-[2022/10/14 13:17:13] DB Search & Replace:  Table wpstg0_spbc_firewall__personal_ips 0 to 20000 records
+[INFO]-[2022/10/14 13:17:14] DB Search & Replace:  Table wpstg0_spbc_firewall_data 0 to 20000 records
+[INFO]-[2022/10/14 13:17:16] DB Search & Replace:  Table wpstg0_spbc_firewall_data 20000 to 40000 records
+[INFO]-[2022/10/14 13:17:17] DB Search & Replace:  Table wpstg0_spbc_firewall_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:17:17] DB Search & Replace:  Table wpstg0_spbc_monitoring_users 0 to 20000 records
+[INFO]-[2022/10/14 13:17:18] DB Search & Replace:  Table wpstg0_spbc_scan_frontend 0 to 20000 records
+[INFO]-[2022/10/14 13:17:18] DB Search & Replace:  Table wpstg0_spbc_scan_results 0 to 20000 records
+[INFO]-[2022/10/14 13:17:19] DB Search & Replace:  Table wpstg0_spbc_scan_signatures 0 to 20000 records
+[INFO]-[2022/10/14 13:17:20] DB Search & Replace:  Table wpstg0_spbc_traffic_control_logs 0 to 20000 records
+[INFO]-[2022/10/14 13:17:20] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2022/10/14 13:17:21] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2022/10/14 13:17:21] DB Search & Replace:  Table wpstg0_termmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:17:21] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2022/10/14 13:17:23] DB Search & Replace:  Table wpstg0_trp_gettext_en_us 0 to 20000 records
+[INFO]-[2022/10/14 13:17:26] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2022/10/14 13:17:26] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2022/10/14 13:17:27] DB Search & Replace:  Table wpstg0_wc_admin_note_actions 0 to 20000 records
+[INFO]-[2022/10/14 13:17:27] DB Search & Replace:  Table wpstg0_wc_admin_notes 0 to 20000 records
+[INFO]-[2022/10/14 13:17:28] DB Search & Replace:  Table wpstg0_wc_category_lookup 0 to 20000 records
+[INFO]-[2022/10/14 13:17:28] DB Search & Replace:  Table wpstg0_wc_customer_lookup 0 to 20000 records
+[INFO]-[2022/10/14 13:17:29] DB Search & Replace:  Table wpstg0_wc_order_product_lookup 0 to 20000 records
+[INFO]-[2022/10/14 13:17:30] DB Search & Replace:  Table wpstg0_wc_order_stats 0 to 20000 records
+[INFO]-[2022/10/14 13:17:30] DB Search & Replace:  Table wpstg0_wc_product_attributes_lookup 0 to 20000 records
+[INFO]-[2022/10/14 13:17:31] DB Search & Replace:  Table wpstg0_wc_product_download_directories 0 to 20000 records
+[INFO]-[2022/10/14 13:17:31] DB Search & Replace:  Table wpstg0_wc_product_meta_lookup 0 to 20000 records
+[INFO]-[2022/10/14 13:17:33] DB Search & Replace:  Table wpstg0_wc_tax_rate_classes 0 to 20000 records
+[INFO]-[2022/10/14 13:17:34] DB Search & Replace:  Table wpstg0_wfblockediplog 0 to 20000 records
+[INFO]-[2022/10/14 13:17:35] DB Search & Replace:  Table wpstg0_wfblocks7 0 to 20000 records
+[INFO]-[2022/10/14 13:17:35] DB Search & Replace:  Table wpstg0_wfconfig 0 to 20000 records
+[INFO]-[2022/10/14 13:17:35] DB Search & Replace:  Table wpstg0_wfcrawlers 0 to 20000 records
+[INFO]-[2022/10/14 13:17:36] DB Search & Replace:  Table wpstg0_wffilemods 0 to 20000 records
+[INFO]-[2022/10/14 13:17:45] DB Search & Replace:  Table wpstg0_wfhits 0 to 20000 records
+[INFO]-[2022/10/14 13:17:46] DB Search & Replace:  Table wpstg0_wfissues 0 to 20000 records
+[INFO]-[2022/10/14 13:17:46] DB Search & Replace:  Table wpstg0_wfknownfilelist 0 to 20000 records
+[INFO]-[2022/10/14 13:17:53] DB Search & Replace:  Table wpstg0_wfknownfilelist 20000 to 40000 records
+[INFO]-[2022/10/14 13:17:57] DB Search & Replace:  Table wpstg0_wflocs 0 to 20000 records
+[INFO]-[2022/10/14 13:17:58] DB Search & Replace:  Table wpstg0_wflogins 0 to 20000 records
+[INFO]-[2022/10/14 13:17:58] DB Search & Replace:  Table wpstg0_wfls_settings 0 to 20000 records
+[INFO]-[2022/10/14 13:17:59] DB Search & Replace:  Table wpstg0_wfnotifications 0 to 20000 records
+[INFO]-[2022/10/14 13:17:59] DB Search & Replace:  Table wpstg0_wfpendingissues 0 to 20000 records
+[INFO]-[2022/10/14 13:18:00] DB Search & Replace:  Table wpstg0_wfreversecache 0 to 20000 records
+[INFO]-[2022/10/14 13:18:01] DB Search & Replace:  Table wpstg0_wfstatus 0 to 20000 records
+[INFO]-[2022/10/14 13:18:04] DB Search & Replace:  Table wpstg0_wlm_contentlevels 0 to 20000 records
+[INFO]-[2022/10/14 13:18:06] DB Search & Replace:  Table wpstg0_wlm_options 0 to 20000 records
+[INFO]-[2022/10/14 13:18:07] DB Search & Replace:  Table wpstg0_wlm_user_options 0 to 20000 records
+[INFO]-[2022/10/14 13:18:09] DB Search & Replace:  Table wpstg0_woocommerce_attribute_taxonomies 0 to 20000 records
+[INFO]-[2022/10/14 13:18:09] DB Search & Replace:  Table wpstg0_woocommerce_downloadable_product_permissions 0 to 20000 records
+[INFO]-[2022/10/14 13:18:10] DB Search & Replace:  Table wpstg0_woocommerce_order_itemmeta 0 to 20000 records
+[INFO]-[2022/10/14 13:18:10] DB Search & Replace:  Table wpstg0_woocommerce_order_items 0 to 20000 records
+[INFO]-[2022/10/14 13:18:12] DB Search & Replace:  Table wpstg0_woocommerce_sessions 0 to 20000 records
+[INFO]-[2022/10/14 13:18:15] DB Search & Replace:  Table wpstg0_wpmailsmtp_tasks_meta 0 to 20000 records
+[INFO]-[2022/10/14 13:18:16] DB Search & Replace:  Table wpstg0_wsal_metadata 0 to 20000 records
+[INFO]-[2022/10/14 13:18:16] DB Search & Replace:  Table wpstg0_wsal_occurrences 0 to 20000 records
+[INFO]-[2022/10/14 13:18:17] DB Search & Replace:  Table wpstg0_yoast_indexable 0 to 20000 records
+[INFO]-[2022/10/14 13:18:17] DB Search & Replace:  Table wpstg0_yoast_indexable_hierarchy 0 to 20000 records
+[INFO]-[2022/10/14 13:18:18] DB Search & Replace:  Table wpstg0_yoast_migrations 0 to 20000 records
+[INFO]-[2022/10/14 13:18:19] Scanning / for its files
+[INFO]-[2022/10/14 13:18:20] Scanning wp-content/plugins/ and its sub-directories and files
+[INFO]-[2022/10/14 13:18:31] Scanning wp-content/mu-plugins/ and its sub-directories and files
+[INFO]-[2022/10/14 13:18:31] Scanning wp-content/themes/ and its sub-directories and files
+[INFO]-[2022/10/14 13:18:32] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2022/10/14 13:18:34] Scanning wp-content/ for other directories and files
+[INFO]-[2022/10/14 13:18:34] Scanning wp-includes/ for its sub-directories and files
+[INFO]-[2022/10/14 13:18:35] Scanning wp-admin/ for its sub-directories and files
+[INFO]-[2022/10/14 13:18:36] Copying files...
+[INFO]-[2022/10/14 13:18:36] Total 50 files processed
+[INFO]-[2022/10/14 13:18:36] Total 100 files processed
+[INFO]-[2022/10/14 13:18:37] Total 150 files processed
+[INFO]-[2022/10/14 13:18:37] Total 200 files processed
+[INFO]-[2022/10/14 13:18:38] Total 250 files processed
+[INFO]-[2022/10/14 13:18:38] Total 300 files processed
+[INFO]-[2022/10/14 13:18:39] Total 350 files processed
+[INFO]-[2022/10/14 13:18:39] Total 400 files processed
+[INFO]-[2022/10/14 13:18:40] Total 450 files processed
+[INFO]-[2022/10/14 13:18:40] Total 500 files processed
+[INFO]-[2022/10/14 13:18:40] Total 550 files processed
+[INFO]-[2022/10/14 13:18:41] Total 600 files processed
+[INFO]-[2022/10/14 13:18:41] Total 650 files processed
+[INFO]-[2022/10/14 13:18:42] Total 700 files processed
+[INFO]-[2022/10/14 13:18:42] Total 750 files processed
+[INFO]-[2022/10/14 13:18:42] Total 800 files processed
+[INFO]-[2022/10/14 13:18:43] Total 850 files processed
+[INFO]-[2022/10/14 13:18:43] Total 900 files processed
+[INFO]-[2022/10/14 13:18:43] Total 950 files processed
+[INFO]-[2022/10/14 13:18:44] Total 1000 files processed
+[INFO]-[2022/10/14 13:18:44] Total 1050 files processed
+[INFO]-[2022/10/14 13:18:44] Total 1100 files processed
+[INFO]-[2022/10/14 13:18:44] Total 1150 files processed
+[INFO]-[2022/10/14 13:18:45] Total 1200 files processed
+[INFO]-[2022/10/14 13:18:45] Total 1250 files processed
+[INFO]-[2022/10/14 13:18:45] Total 1300 files processed
+[INFO]-[2022/10/14 13:18:45] Total 1350 files processed
+[INFO]-[2022/10/14 13:18:46] Total 1400 files processed
+[INFO]-[2022/10/14 13:18:46] Total 1450 files processed
+[INFO]-[2022/10/14 13:18:46] Total 1500 files processed
+[INFO]-[2022/10/14 13:18:47] Total 1550 files processed
+[INFO]-[2022/10/14 13:18:47] Total 1600 files processed
+[INFO]-[2022/10/14 13:18:48] Total 1650 files processed
+[INFO]-[2022/10/14 13:18:48] Total 1700 files processed
+[INFO]-[2022/10/14 13:18:48] Total 1750 files processed
+[INFO]-[2022/10/14 13:18:49] Total 1800 files processed
+[INFO]-[2022/10/14 13:18:49] Total 1850 files processed
+[INFO]-[2022/10/14 13:18:50] Total 1900 files processed
+[INFO]-[2022/10/14 13:18:50] Total 1950 files processed
+[INFO]-[2022/10/14 13:18:50] Total 2000 files processed
+[INFO]-[2022/10/14 13:18:51] Total 2050 files processed
+[INFO]-[2022/10/14 13:18:51] Total 2100 files processed
+[INFO]-[2022/10/14 13:18:52] Total 2150 files processed
+[INFO]-[2022/10/14 13:18:52] Total 2200 files processed
+[INFO]-[2022/10/14 13:18:53] Total 2250 files processed
+[INFO]-[2022/10/14 13:19:25] Total 2300 files processed
+[INFO]-[2022/10/14 13:19:25] Total 2350 files processed
+[INFO]-[2022/10/14 13:19:25] Total 2400 files processed
+[INFO]-[2022/10/14 13:19:25] Total 2450 files processed
+[INFO]-[2022/10/14 13:19:26] Total 2500 files processed
+[INFO]-[2022/10/14 13:19:26] Total 2550 files processed
+[INFO]-[2022/10/14 13:19:27] Total 2600 files processed
+[INFO]-[2022/10/14 13:19:28] Total 2650 files processed
+[INFO]-[2022/10/14 13:19:28] Total 2700 files processed
+[INFO]-[2022/10/14 13:19:28] Total 2750 files processed
+[INFO]-[2022/10/14 13:19:29] Total 2800 files processed
+[INFO]-[2022/10/14 13:19:30] Total 2850 files processed
+[INFO]-[2022/10/14 13:19:30] Total 2900 files processed
+[INFO]-[2022/10/14 13:19:31] Total 2950 files processed
+[INFO]-[2022/10/14 13:19:31] Total 3000 files processed
+[INFO]-[2022/10/14 13:19:31] Total 3050 files processed
+[INFO]-[2022/10/14 13:19:31] Total 3100 files processed
+[INFO]-[2022/10/14 13:19:32] Total 3150 files processed
+[INFO]-[2022/10/14 13:19:32] Total 3200 files processed
+[INFO]-[2022/10/14 13:19:33] Total 3250 files processed
+[INFO]-[2022/10/14 13:19:33] Total 3300 files processed
+[INFO]-[2022/10/14 13:19:33] Total 3350 files processed
+[INFO]-[2022/10/14 13:19:34] Total 3400 files processed
+[INFO]-[2022/10/14 13:19:34] Total 3450 files processed
+[INFO]-[2022/10/14 13:19:35] Total 3500 files processed
+[INFO]-[2022/10/14 13:19:35] Total 3550 files processed
+[INFO]-[2022/10/14 13:19:35] Total 3600 files processed
+[INFO]-[2022/10/14 13:19:36] Total 3650 files processed
+[INFO]-[2022/10/14 13:19:36] Total 3700 files processed
+[INFO]-[2022/10/14 13:19:37] Total 3750 files processed
+[INFO]-[2022/10/14 13:19:37] Total 3800 files processed
+[INFO]-[2022/10/14 13:19:37] Total 3850 files processed
+[INFO]-[2022/10/14 13:19:38] Total 3900 files processed
+[INFO]-[2022/10/14 13:19:38] Total 3950 files processed
+[INFO]-[2022/10/14 13:19:39] Total 4000 files processed
+[INFO]-[2022/10/14 13:19:39] Total 4050 files processed
+[INFO]-[2022/10/14 13:19:39] Total 4100 files processed
+[INFO]-[2022/10/14 13:19:40] Total 4150 files processed
+[INFO]-[2022/10/14 13:19:40] Total 4200 files processed
+[INFO]-[2022/10/14 13:19:41] Total 4250 files processed
+[INFO]-[2022/10/14 13:19:41] Total 4300 files processed
+[INFO]-[2022/10/14 13:19:41] Total 4350 files processed
+[INFO]-[2022/10/14 13:19:42] Total 4400 files processed
+[INFO]-[2022/10/14 13:19:42] Total 4450 files processed
+[INFO]-[2022/10/14 13:19:43] Total 4500 files processed
+[INFO]-[2022/10/14 13:19:44] Total 4550 files processed
+[INFO]-[2022/10/14 13:19:44] Total 4600 files processed
+[INFO]-[2022/10/14 13:19:44] Total 4650 files processed
+[INFO]-[2022/10/14 13:19:44] Total 4700 files processed
+[INFO]-[2022/10/14 13:19:45] Total 4750 files processed
+[INFO]-[2022/10/14 13:19:45] Total 4800 files processed
+[INFO]-[2022/10/14 13:19:46] Total 4850 files processed
+[INFO]-[2022/10/14 13:19:46] Total 4900 files processed
+[INFO]-[2022/10/14 13:19:46] Total 4950 files processed
+[INFO]-[2022/10/14 13:19:47] Total 5000 files processed
+[INFO]-[2022/10/14 13:19:47] Total 5050 files processed
+[INFO]-[2022/10/14 13:19:48] Total 5100 files processed
+[INFO]-[2022/10/14 13:19:48] Total 5150 files processed
+[INFO]-[2022/10/14 13:19:48] Total 5200 files processed
+[INFO]-[2022/10/14 13:19:49] Total 5250 files processed
+[INFO]-[2022/10/14 13:19:49] Total 5300 files processed
+[INFO]-[2022/10/14 13:19:49] Total 5350 files processed
+[INFO]-[2022/10/14 13:19:50] Total 5400 files processed
+[INFO]-[2022/10/14 13:19:50] Total 5450 files processed
+[INFO]-[2022/10/14 13:19:51] Total 5500 files processed
+[INFO]-[2022/10/14 13:19:51] Total 5550 files processed
+[INFO]-[2022/10/14 13:19:51] Total 5600 files processed
+[INFO]-[2022/10/14 13:19:52] Total 5650 files processed
+[INFO]-[2022/10/14 13:19:52] Total 5700 files processed
+[INFO]-[2022/10/14 13:19:53] Total 5750 files processed
+[INFO]-[2022/10/14 13:19:53] Total 5800 files processed
+[INFO]-[2022/10/14 13:19:53] Total 5850 files processed
+[INFO]-[2022/10/14 13:19:54] Total 5900 files processed
+[INFO]-[2022/10/14 13:19:54] Total 5950 files processed
+[INFO]-[2022/10/14 13:19:54] Total 6000 files processed
+[INFO]-[2022/10/14 13:19:55] Total 6050 files processed
+[INFO]-[2022/10/14 13:19:55] Total 6100 files processed
+[INFO]-[2022/10/14 13:19:56] Total 6150 files processed
+[INFO]-[2022/10/14 13:19:56] Total 6200 files processed
+[INFO]-[2022/10/14 13:19:56] Total 6250 files processed
+[INFO]-[2022/10/14 13:19:57] Total 6300 files processed
+[INFO]-[2022/10/14 13:19:57] Total 6350 files processed
+[INFO]-[2022/10/14 13:19:58] Total 6400 files processed
+[INFO]-[2022/10/14 13:19:58] Total 6450 files processed
+[INFO]-[2022/10/14 13:19:58] Total 6500 files processed
+[INFO]-[2022/10/14 13:19:59] Total 6550 files processed
+[INFO]-[2022/10/14 13:19:59] Total 6600 files processed
+[INFO]-[2022/10/14 13:20:00] Total 6650 files processed
+[INFO]-[2022/10/14 13:20:00] Total 6700 files processed
+[INFO]-[2022/10/14 13:20:00] Total 6750 files processed
+[INFO]-[2022/10/14 13:20:01] Total 6800 files processed
+[INFO]-[2022/10/14 13:20:01] Total 6850 files processed
+[INFO]-[2022/10/14 13:20:02] Total 6900 files processed
+[INFO]-[2022/10/14 13:20:02] Total 6950 files processed
+[INFO]-[2022/10/14 13:20:02] Total 7000 files processed
+[INFO]-[2022/10/14 13:20:03] Total 7050 files processed
+[INFO]-[2022/10/14 13:20:03] Total 7100 files processed
+[INFO]-[2022/10/14 13:20:04] Total 7150 files processed
+[INFO]-[2022/10/14 13:20:04] Total 7200 files processed
+[INFO]-[2022/10/14 13:20:04] Total 7250 files processed
+[INFO]-[2022/10/14 13:20:05] Total 7300 files processed
+[INFO]-[2022/10/14 13:20:05] Total 7350 files processed
+[INFO]-[2022/10/14 13:20:06] Total 7400 files processed
+[INFO]-[2022/10/14 13:20:06] Total 7450 files processed
+[INFO]-[2022/10/14 13:20:07] Total 7500 files processed
+[INFO]-[2022/10/14 13:20:07] Total 7550 files processed
+[INFO]-[2022/10/14 13:20:07] Total 7600 files processed
+[INFO]-[2022/10/14 13:20:08] Total 7650 files processed
+[INFO]-[2022/10/14 13:20:08] Total 7700 files processed
+[INFO]-[2022/10/14 13:20:09] Total 7750 files processed
+[INFO]-[2022/10/14 13:20:09] Total 7800 files processed
+[INFO]-[2022/10/14 13:20:09] Total 7850 files processed
+[INFO]-[2022/10/14 13:20:10] Total 7900 files processed
+[INFO]-[2022/10/14 13:20:10] Total 7950 files processed
+[INFO]-[2022/10/14 13:20:11] Total 8000 files processed
+[INFO]-[2022/10/14 13:20:11] Total 8050 files processed
+[INFO]-[2022/10/14 13:20:11] Total 8100 files processed
+[INFO]-[2022/10/14 13:20:12] Total 8150 files processed
+[INFO]-[2022/10/14 13:20:12] Total 8200 files processed
+[INFO]-[2022/10/14 13:20:13] Total 8250 files processed
+[INFO]-[2022/10/14 13:28:28] Total 8300 files processed
+[INFO]-[2022/10/14 13:28:28] Total 8350 files processed
+[INFO]-[2022/10/14 13:28:29] Total 8400 files processed
+[INFO]-[2022/10/14 13:28:29] Total 8450 files processed
+[INFO]-[2022/10/14 13:28:29] Total 8500 files processed
+[INFO]-[2022/10/14 13:28:30] Total 8550 files processed
+[INFO]-[2022/10/14 13:28:30] Total 8600 files processed
+[INFO]-[2022/10/14 13:28:31] Total 8650 files processed
+[INFO]-[2022/10/14 13:28:32] Total 8700 files processed
+[INFO]-[2022/10/14 13:28:32] Total 8750 files processed
+[INFO]-[2022/10/14 13:28:32] Total 8800 files processed
+[INFO]-[2022/10/14 13:28:33] Total 8850 files processed
+[INFO]-[2022/10/14 13:28:33] Total 8900 files processed
+[INFO]-[2022/10/14 13:28:34] Total 8950 files processed
+[INFO]-[2022/10/14 13:28:34] Total 9000 files processed
+[INFO]-[2022/10/14 13:28:34] Total 9050 files processed
+[INFO]-[2022/10/14 13:28:35] Total 9100 files processed
+[INFO]-[2022/10/14 13:28:35] Total 9150 files processed
+[INFO]-[2022/10/14 13:28:36] Total 9200 files processed
+[INFO]-[2022/10/14 13:28:36] Total 9250 files processed
+[INFO]-[2022/10/14 13:28:36] Total 9300 files processed
+[INFO]-[2022/10/14 13:28:37] Total 9350 files processed
+[INFO]-[2022/10/14 13:28:37] Total 9400 files processed
+[INFO]-[2022/10/14 13:28:38] Total 9450 files processed
+[INFO]-[2022/10/14 13:28:38] Total 9500 files processed
+[INFO]-[2022/10/14 13:28:38] Total 9550 files processed
+[INFO]-[2022/10/14 13:28:39] Total 9600 files processed
+[INFO]-[2022/10/14 13:28:39] Total 9650 files processed
+[INFO]-[2022/10/14 13:28:40] Total 9700 files processed
+[INFO]-[2022/10/14 13:28:40] Total 9750 files processed
+[INFO]-[2022/10/14 13:28:40] Total 9800 files processed
+[INFO]-[2022/10/14 13:28:41] Total 9850 files processed
+[INFO]-[2022/10/14 13:28:41] Total 9900 files processed
+[INFO]-[2022/10/14 13:28:42] Total 9950 files processed
+[INFO]-[2022/10/14 13:28:42] Total 10000 files processed
+[INFO]-[2022/10/14 13:28:42] Total 10050 files processed
+[INFO]-[2022/10/14 13:28:43] Total 10100 files processed
+[INFO]-[2022/10/14 13:28:43] Total 10150 files processed
+[INFO]-[2022/10/14 13:28:44] Total 10200 files processed
+[INFO]-[2022/10/14 13:28:44] Total 10250 files processed
+[INFO]-[2022/10/14 13:28:45] Total 10300 files processed
+[INFO]-[2022/10/14 13:28:45] Total 10350 files processed
+[INFO]-[2022/10/14 13:28:45] Total 10400 files processed
+[INFO]-[2022/10/14 13:28:46] Total 10450 files processed
+[INFO]-[2022/10/14 13:28:46] Total 10500 files processed
+[INFO]-[2022/10/14 13:28:47] Total 10550 files processed
+[INFO]-[2022/10/14 13:28:47] Total 10600 files processed
+[INFO]-[2022/10/14 13:28:47] Total 10650 files processed
+[INFO]-[2022/10/14 13:28:48] Total 10700 files processed
+[INFO]-[2022/10/14 13:28:48] Total 10750 files processed
+[INFO]-[2022/10/14 13:28:49] Total 10800 files processed
+[INFO]-[2022/10/14 13:28:49] Total 10850 files processed
+[INFO]-[2022/10/14 13:28:49] Total 10900 files processed
+[INFO]-[2022/10/14 13:28:50] Total 10950 files processed
+[INFO]-[2022/10/14 13:28:50] Total 11000 files processed
+[INFO]-[2022/10/14 13:28:51] Total 11050 files processed
+[INFO]-[2022/10/14 13:28:51] Total 11100 files processed
+[INFO]-[2022/10/14 13:28:51] Total 11150 files processed
+[INFO]-[2022/10/14 13:28:52] Total 11200 files processed
+[INFO]-[2022/10/14 13:28:52] Total 11250 files processed
+[INFO]-[2022/10/14 13:28:53] Total 11300 files processed
+[INFO]-[2022/10/14 13:28:53] Total 11350 files processed
+[INFO]-[2022/10/14 13:28:53] Total 11400 files processed
+[INFO]-[2022/10/14 13:28:54] Total 11450 files processed
+[INFO]-[2022/10/14 13:28:54] Total 11500 files processed
+[INFO]-[2022/10/14 13:28:55] Total 11550 files processed
+[INFO]-[2022/10/14 13:28:55] Total 11600 files processed
+[INFO]-[2022/10/14 13:28:55] Total 11650 files processed
+[INFO]-[2022/10/14 13:28:56] Total 11700 files processed
+[INFO]-[2022/10/14 13:28:56] Total 11750 files processed
+[INFO]-[2022/10/14 13:28:57] Total 11800 files processed
+[INFO]-[2022/10/14 13:28:58] Total 11850 files processed
+[INFO]-[2022/10/14 13:28:58] Total 11900 files processed
+[INFO]-[2022/10/14 13:28:58] Total 11950 files processed
+[INFO]-[2022/10/14 13:28:59] Total 12000 files processed
+[INFO]-[2022/10/14 13:28:59] Total 12050 files processed
+[INFO]-[2022/10/14 13:28:59] Total 12100 files processed
+[INFO]-[2022/10/14 13:29:00] Total 12150 files processed
+[INFO]-[2022/10/14 13:29:00] Total 12200 files processed
+[INFO]-[2022/10/14 13:29:00] Total 12250 files processed
+[INFO]-[2022/10/14 13:29:01] Total 12300 files processed
+[INFO]-[2022/10/14 13:29:01] Total 12350 files processed
+[INFO]-[2022/10/14 13:29:02] Total 12400 files processed
+[INFO]-[2022/10/14 13:29:02] Total 12450 files processed
+[INFO]-[2022/10/14 13:29:02] Total 12500 files processed
+[INFO]-[2022/10/14 13:29:03] Total 12550 files processed
+[INFO]-[2022/10/14 13:29:03] Total 12600 files processed
+[INFO]-[2022/10/14 13:29:04] Total 12650 files processed
+[INFO]-[2022/10/14 13:29:04] Total 12700 files processed
+[INFO]-[2022/10/14 13:29:04] Total 12750 files processed
+[INFO]-[2022/10/14 13:29:05] Total 12800 files processed
+[INFO]-[2022/10/14 13:29:05] Total 12850 files processed
+[INFO]-[2022/10/14 13:29:06] Total 12900 files processed
+[INFO]-[2022/10/14 13:29:06] Total 12950 files processed
+[INFO]-[2022/10/14 13:29:07] Total 13000 files processed
+[INFO]-[2022/10/14 13:29:07] Total 13050 files processed
+[INFO]-[2022/10/14 13:29:07] Total 13100 files processed
+[INFO]-[2022/10/14 13:29:08] Total 13150 files processed
+[INFO]-[2022/10/14 13:29:08] Total 13200 files processed
+[INFO]-[2022/10/14 13:29:09] Total 13250 files processed
+[INFO]-[2022/10/14 13:29:09] Total 13300 files processed
+[INFO]-[2022/10/14 13:29:09] Total 13350 files processed
+[INFO]-[2022/10/14 13:29:10] Total 13400 files processed
+[INFO]-[2022/10/14 13:29:10] Total 13450 files processed
+[INFO]-[2022/10/14 13:29:11] Total 13500 files processed
+[INFO]-[2022/10/14 13:29:11] Total 13550 files processed
+[INFO]-[2022/10/14 13:29:11] Total 13600 files processed
+[INFO]-[2022/10/14 13:29:12] Total 13650 files processed
+[INFO]-[2022/10/14 13:29:12] Total 13700 files processed
+[INFO]-[2022/10/14 13:29:13] Total 13750 files processed
+[INFO]-[2022/10/14 13:29:13] Total 13800 files processed
+[INFO]-[2022/10/14 13:29:13] Total 13850 files processed
+[INFO]-[2022/10/14 13:29:14] Total 13900 files processed
+[INFO]-[2022/10/14 13:29:14] Total 13950 files processed
+[INFO]-[2022/10/14 13:29:14] Total 14000 files processed
+[INFO]-[2022/10/14 13:29:15] Total 14050 files processed
+[INFO]-[2022/10/14 13:29:15] Total 14100 files processed
+[INFO]-[2022/10/14 13:29:16] Total 14150 files processed
+[INFO]-[2022/10/14 13:29:16] Total 14200 files processed
+[INFO]-[2022/10/14 13:29:16] Total 14250 files processed
+[INFO]-[2022/10/14 13:29:17] Total 14300 files processed
+[INFO]-[2022/10/14 13:29:17] Total 14350 files processed
+[INFO]-[2022/10/14 13:29:18] Total 14400 files processed
+[INFO]-[2022/10/14 13:29:18] Total 14450 files processed
+[INFO]-[2022/10/14 13:29:18] Total 14500 files processed
+[INFO]-[2022/10/14 13:29:19] Total 14550 files processed
+[INFO]-[2022/10/14 13:29:19] Total 14600 files processed
+[INFO]-[2022/10/14 13:29:20] Total 14650 files processed
+[INFO]-[2022/10/14 13:29:20] Total 14700 files processed
+[INFO]-[2022/10/14 13:29:20] Total 14750 files processed
+[INFO]-[2022/10/14 13:29:21] Total 14800 files processed
+[INFO]-[2022/10/14 13:29:21] Total 14850 files processed
+[INFO]-[2022/10/14 13:29:22] Total 14900 files processed
+[INFO]-[2022/10/14 13:29:23] Total 14950 files processed
+[INFO]-[2022/10/14 13:29:23] Total 15000 files processed
+[INFO]-[2022/10/14 13:29:23] Total 15050 files processed
+[INFO]-[2022/10/14 13:29:24] Total 15100 files processed
+[INFO]-[2022/10/14 13:29:24] Total 15150 files processed
+[INFO]-[2022/10/14 13:29:24] Total 15200 files processed
+[INFO]-[2022/10/14 13:29:25] Total 15250 files processed
+[INFO]-[2022/10/14 13:29:25] Total 15300 files processed
+[INFO]-[2022/10/14 13:29:25] Total 15350 files processed
+[INFO]-[2022/10/14 13:29:26] Total 15400 files processed
+[INFO]-[2022/10/14 13:29:26] Total 15450 files processed
+[INFO]-[2022/10/14 13:29:27] Total 15500 files processed
+[INFO]-[2022/10/14 13:29:27] Total 15550 files processed
+[INFO]-[2022/10/14 13:29:27] Total 15600 files processed
+[INFO]-[2022/10/14 13:29:28] Total 15650 files processed
+[INFO]-[2022/10/14 13:29:28] Total 15700 files processed
+[INFO]-[2022/10/14 13:29:29] Total 15750 files processed
+[INFO]-[2022/10/14 13:29:29] Total 15800 files processed
+[INFO]-[2022/10/14 13:29:30] Total 15850 files processed
+[INFO]-[2022/10/14 13:29:30] Total 15900 files processed
+[INFO]-[2022/10/14 13:29:30] Total 15950 files processed
+[INFO]-[2022/10/14 13:29:31] Total 16000 files processed
+[INFO]-[2022/10/14 13:29:31] Total 16050 files processed
+[INFO]-[2022/10/14 13:29:32] Total 16100 files processed
+[INFO]-[2022/10/14 13:29:32] Total 16150 files processed
+[INFO]-[2022/10/14 13:29:32] Total 16200 files processed
+[INFO]-[2022/10/14 13:29:33] Total 16250 files processed
+[INFO]-[2022/10/14 13:29:33] Total 16300 files processed
+[INFO]-[2022/10/14 13:29:33] Total 16350 files processed
+[INFO]-[2022/10/14 13:29:34] Total 16400 files processed
+[INFO]-[2022/10/14 13:29:34] Total 16450 files processed
+[INFO]-[2022/10/14 13:29:35] Total 16500 files processed
+[INFO]-[2022/10/14 13:29:35] Total 16550 files processed
+[INFO]-[2022/10/14 13:29:35] Total 16600 files processed
+[INFO]-[2022/10/14 13:29:36] Total 16650 files processed
+[INFO]-[2022/10/14 13:29:36] Total 16700 files processed
+[INFO]-[2022/10/14 13:29:37] Total 16750 files processed
+[INFO]-[2022/10/14 13:29:37] Total 16800 files processed
+[INFO]-[2022/10/14 13:29:37] Total 16850 files processed
+[INFO]-[2022/10/14 13:29:38] Total 16900 files processed
+[INFO]-[2022/10/14 13:29:38] Total 16950 files processed
+[INFO]-[2022/10/14 13:29:39] Total 17000 files processed
+[INFO]-[2022/10/14 13:29:39] Total 17050 files processed
+[INFO]-[2022/10/14 13:29:40] Total 17100 files processed
+[INFO]-[2022/10/14 13:29:40] Total 17150 files processed
+[INFO]-[2022/10/14 13:29:40] Total 17200 files processed
+[INFO]-[2022/10/14 13:29:41] Total 17250 files processed
+[INFO]-[2022/10/14 13:29:41] Total 17300 files processed
+[INFO]-[2022/10/14 13:29:42] Total 17350 files processed
+[INFO]-[2022/10/14 13:29:42] Total 17400 files processed
+[INFO]-[2022/10/14 13:29:42] Total 17450 files processed
+[INFO]-[2022/10/14 13:29:43] Total 17500 files processed
+[INFO]-[2022/10/14 13:29:43] Total 17550 files processed
+[INFO]-[2022/10/14 13:29:44] Total 17600 files processed
+[INFO]-[2022/10/14 13:29:44] Total 17650 files processed
+[INFO]-[2022/10/14 13:29:45] Total 17700 files processed
+[INFO]-[2022/10/14 13:29:45] Total 17750 files processed
+[INFO]-[2022/10/14 13:29:45] Total 17800 files processed
+[INFO]-[2022/10/14 13:29:46] Total 17850 files processed
+[INFO]-[2022/10/14 13:29:46] Total 17900 files processed
+[INFO]-[2022/10/14 13:29:46] Total 17950 files processed
+[INFO]-[2022/10/14 13:29:47] Total 18000 files processed
+[INFO]-[2022/10/14 13:29:47] Total 18050 files processed
+[INFO]-[2022/10/14 13:29:48] Total 18100 files processed
+[INFO]-[2022/10/14 13:29:48] Total 18150 files processed
+[INFO]-[2022/10/14 13:29:48] Total 18200 files processed
+[INFO]-[2022/10/14 13:29:49] Total 18250 files processed
+[INFO]-[2022/10/14 13:29:49] Total 18300 files processed
+[INFO]-[2022/10/14 13:29:50] Total 18350 files processed
+[INFO]-[2022/10/14 13:29:50] Total 18400 files processed
+[INFO]-[2022/10/14 13:29:50] Total 18450 files processed
+[INFO]-[2022/10/14 13:29:51] Total 18500 files processed
+[INFO]-[2022/10/14 13:29:51] Total 18550 files processed
+[INFO]-[2022/10/14 13:29:52] Total 18600 files processed
+[INFO]-[2022/10/14 13:29:52] Total 18650 files processed
+[INFO]-[2022/10/14 13:29:52] Total 18700 files processed
+[INFO]-[2022/10/14 13:29:53] Total 18750 files processed
+[INFO]-[2022/10/14 13:29:53] Total 18800 files processed
+[INFO]-[2022/10/14 13:29:54] Total 18850 files processed
+[INFO]-[2022/10/14 13:29:54] Total 18900 files processed
+[INFO]-[2022/10/14 13:29:54] Total 18950 files processed
+[INFO]-[2022/10/14 13:29:55] Total 19000 files processed
+[INFO]-[2022/10/14 13:29:55] Total 19050 files processed
+[INFO]-[2022/10/14 13:29:56] Total 19100 files processed
+[INFO]-[2022/10/14 13:29:56] Total 19150 files processed
+[INFO]-[2022/10/14 13:29:56] Total 19200 files processed
+[INFO]-[2022/10/14 13:29:57] Total 19250 files processed
+[INFO]-[2022/10/14 13:29:57] Total 19300 files processed
+[INFO]-[2022/10/14 13:29:58] Total 19350 files processed
+[INFO]-[2022/10/14 13:29:58] Total 19400 files processed
+[INFO]-[2022/10/14 13:29:58] Total 19450 files processed
+[INFO]-[2022/10/14 13:29:59] Total 19500 files processed
+[INFO]-[2022/10/14 13:29:59] Total 19550 files processed
+[INFO]-[2022/10/14 13:30:00] Total 19600 files processed
+[INFO]-[2022/10/14 13:30:00] Total 19650 files processed
+[INFO]-[2022/10/14 13:30:00] Total 19700 files processed
+[INFO]-[2022/10/14 13:30:01] Total 19750 files processed
+[INFO]-[2022/10/14 13:30:01] Total 19800 files processed
+[INFO]-[2022/10/14 13:30:02] Total 19850 files processed
+[INFO]-[2022/10/14 13:30:02] Total 19900 files processed
+[INFO]-[2022/10/14 13:30:02] Total 19950 files processed
+[INFO]-[2022/10/14 13:30:03] Total 20000 files processed
+[INFO]-[2022/10/14 13:30:03] Total 20050 files processed
+[INFO]-[2022/10/14 13:30:04] Total 20100 files processed
+[INFO]-[2022/10/14 13:30:04] Total 20150 files processed
+[INFO]-[2022/10/14 13:30:04] Total 20200 files processed
+[INFO]-[2022/10/14 13:30:05] Total 20250 files processed
+[INFO]-[2022/10/14 13:30:05] Total 20300 files processed
+[INFO]-[2022/10/14 13:30:06] Total 20350 files processed
+[INFO]-[2022/10/14 13:30:06] Total 20400 files processed
+[INFO]-[2022/10/14 13:30:06] Total 20450 files processed
+[INFO]-[2022/10/14 13:30:07] Total 20500 files processed
+[INFO]-[2022/10/14 13:30:07] Total 20550 files processed
+[INFO]-[2022/10/14 13:30:08] Total 20600 files processed
+[INFO]-[2022/10/14 13:30:08] Total 20650 files processed
+[INFO]-[2022/10/14 13:30:09] Total 20700 files processed
+[INFO]-[2022/10/14 13:30:09] Total 20750 files processed
+[INFO]-[2022/10/14 13:30:10] Total 20800 files processed
+[INFO]-[2022/10/14 13:30:10] Total 20850 files processed
+[INFO]-[2022/10/14 13:30:10] Total 20900 files processed
+[INFO]-[2022/10/14 13:30:11] Total 20950 files processed
+[INFO]-[2022/10/14 13:30:11] Total 21000 files processed
+[INFO]-[2022/10/14 13:30:12] Total 21050 files processed
+[INFO]-[2022/10/14 13:30:12] Total 21100 files processed
+[INFO]-[2022/10/14 13:30:12] Total 21150 files processed
+[INFO]-[2022/10/14 13:30:13] Total 21200 files processed
+[INFO]-[2022/10/14 13:30:13] Total 21250 files processed
+[INFO]-[2022/10/14 13:30:14] Total 21300 files processed
+[INFO]-[2022/10/14 13:30:14] Total 21350 files processed
+[INFO]-[2022/10/14 13:30:14] Total 21400 files processed
+[INFO]-[2022/10/14 13:30:15] Total 21450 files processed
+[INFO]-[2022/10/14 13:30:15] Total 21500 files processed
+[INFO]-[2022/10/14 13:30:16] Total 21550 files processed
+[INFO]-[2022/10/14 13:30:16] Total 21600 files processed
+[INFO]-[2022/10/14 13:30:16] Total 21650 files processed
+[INFO]-[2022/10/14 13:30:17] Total 21700 files processed
+[INFO]-[2022/10/14 13:30:17] Total 21750 files processed
+[INFO]-[2022/10/14 13:30:18] Total 21800 files processed
+[INFO]-[2022/10/14 13:30:18] Total 21850 files processed
+[INFO]-[2022/10/14 13:30:18] Total 21900 files processed
+[INFO]-[2022/10/14 13:30:19] Total 21950 files processed
+[INFO]-[2022/10/14 13:30:19] Total 22000 files processed
+[INFO]-[2022/10/14 13:30:20] Total 22050 files processed
+[INFO]-[2022/10/14 13:30:20] Total 22100 files processed
+[INFO]-[2022/10/14 13:30:20] Total 22150 files processed
+[INFO]-[2022/10/14 13:30:21] Total 22200 files processed
+[INFO]-[2022/10/14 13:30:21] Total 22250 files processed
+[INFO]-[2022/10/14 13:30:22] Total 22300 files processed
+[INFO]-[2022/10/14 13:30:22] Total 22350 files processed
+[INFO]-[2022/10/14 13:30:23] Total 22400 files processed
+[INFO]-[2022/10/14 13:30:23] Total 22450 files processed
+[INFO]-[2022/10/14 13:30:23] Total 22500 files processed
+[INFO]-[2022/10/14 13:30:24] Total 22550 files processed
+[INFO]-[2022/10/14 13:30:24] Total 22600 files processed
+[INFO]-[2022/10/14 13:30:24] Total 22650 files processed
+[INFO]-[2022/10/14 13:30:25] Total 22700 files processed
+[INFO]-[2022/10/14 13:30:25] Total 22750 files processed
+[INFO]-[2022/10/14 13:30:26] Total 22800 files processed
+[INFO]-[2022/10/14 13:30:26] Total 22850 files processed
+[INFO]-[2022/10/14 13:30:27] Total 22900 files processed
+[INFO]-[2022/10/14 13:30:27] Total 22950 files processed
+[INFO]-[2022/10/14 13:30:27] Total 23000 files processed
+[INFO]-[2022/10/14 13:30:28] Total 23050 files processed
+[INFO]-[2022/10/14 13:30:28] Total 23100 files processed
+[INFO]-[2022/10/14 13:30:29] Total 23150 files processed
+[INFO]-[2022/10/14 13:30:29] Total 23200 files processed
+[INFO]-[2022/10/14 13:30:30] Total 23250 files processed
+[INFO]-[2022/10/14 13:30:30] Total 23300 files processed
+[INFO]-[2022/10/14 13:30:30] Total 23350 files processed
+[INFO]-[2022/10/14 13:30:31] Total 23400 files processed
+[INFO]-[2022/10/14 13:30:31] Total 23450 files processed
+[INFO]-[2022/10/14 13:30:32] Total 23500 files processed
+[INFO]-[2022/10/14 13:30:32] Total 23550 files processed
+[INFO]-[2022/10/14 13:30:32] Total 23600 files processed
+[INFO]-[2022/10/14 13:30:33] Total 23650 files processed
+[INFO]-[2022/10/14 13:30:33] Total 23700 files processed
+[INFO]-[2022/10/14 13:30:34] Total 23750 files processed
+[INFO]-[2022/10/14 13:30:34] Total 23800 files processed
+[INFO]-[2022/10/14 13:30:35] Total 23850 files processed
+[INFO]-[2022/10/14 13:30:35] Total 23900 files processed
+[INFO]-[2022/10/14 13:30:35] Total 23950 files processed
+[INFO]-[2022/10/14 13:30:36] Total 24000 files processed
+[INFO]-[2022/10/14 13:30:36] Total 24050 files processed
+[INFO]-[2022/10/14 13:30:37] Total 24100 files processed
+[INFO]-[2022/10/14 13:30:37] Total 24150 files processed
+[INFO]-[2022/10/14 13:30:37] Total 24200 files processed
+[INFO]-[2022/10/14 13:30:38] Total 24250 files processed
+[INFO]-[2022/10/14 13:30:38] Total 24300 files processed
+[INFO]-[2022/10/14 13:30:39] Total 24350 files processed
+[INFO]-[2022/10/14 13:30:39] Total 24400 files processed
+[INFO]-[2022/10/14 13:30:39] Total 24450 files processed
+[INFO]-[2022/10/14 13:30:40] Total 24500 files processed
+[INFO]-[2022/10/14 13:30:40] Total 24550 files processed
+[INFO]-[2022/10/14 13:30:41] Total 24600 files processed
+[INFO]-[2022/10/14 13:30:41] Total 24650 files processed
+[INFO]-[2022/10/14 13:30:41] Total 24700 files processed
+[INFO]-[2022/10/14 13:30:42] Total 24750 files processed
+[INFO]-[2022/10/14 13:30:42] Total 24800 files processed
+[INFO]-[2022/10/14 13:30:42] Total 24850 files processed
+[INFO]-[2022/10/14 13:30:43] Total 24900 files processed
+[INFO]-[2022/10/14 13:30:43] Total 24950 files processed
+[INFO]-[2022/10/14 13:30:44] Total 25000 files processed
+[INFO]-[2022/10/14 13:30:44] Total 25050 files processed
+[INFO]-[2022/10/14 13:30:44] Total 25100 files processed
+[INFO]-[2022/10/14 13:30:45] Total 25150 files processed
+[INFO]-[2022/10/14 13:30:45] Total 25200 files processed
+[INFO]-[2022/10/14 13:30:46] Total 25250 files processed
+[INFO]-[2022/10/14 13:30:46] Total 25300 files processed
+[INFO]-[2022/10/14 13:30:47] Total 25350 files processed
+[INFO]-[2022/10/14 13:30:47] Total 25400 files processed
+[INFO]-[2022/10/14 13:30:47] Total 25450 files processed
+[INFO]-[2022/10/14 13:30:48] Total 25500 files processed
+[INFO]-[2022/10/14 13:30:48] Total 25550 files processed
+[INFO]-[2022/10/14 13:30:49] Total 25600 files processed
+[INFO]-[2022/10/14 13:30:49] Total 25650 files processed
+[INFO]-[2022/10/14 13:30:49] Total 25700 files processed
+[INFO]-[2022/10/14 13:30:50] Total 25750 files processed
+[INFO]-[2022/10/14 13:30:50] Total 25800 files processed
+[INFO]-[2022/10/14 13:30:51] Total 25850 files processed
+[INFO]-[2022/10/14 13:30:51] Total 25900 files processed
+[INFO]-[2022/10/14 13:30:51] Total 25950 files processed
+[INFO]-[2022/10/14 13:30:52] Total 26000 files processed
+[INFO]-[2022/10/14 13:30:52] Total 26050 files processed
+[INFO]-[2022/10/14 13:30:53] Total 26100 files processed
+[INFO]-[2022/10/14 13:30:53] Total 26150 files processed
+[INFO]-[2022/10/14 13:30:53] Total 26200 files processed
+[INFO]-[2022/10/14 13:30:54] Total 26250 files processed
+[INFO]-[2022/10/14 13:30:54] Total 26300 files processed
+[INFO]-[2022/10/14 13:30:55] Total 26350 files processed
+[INFO]-[2022/10/14 13:30:55] Total 26400 files processed
+[INFO]-[2022/10/14 13:30:55] Total 26450 files processed
+[INFO]-[2022/10/14 13:30:56] Total 26500 files processed
+[INFO]-[2022/10/14 13:30:56] Total 26550 files processed
+[INFO]-[2022/10/14 13:30:56] Total 26600 files processed
+[INFO]-[2022/10/14 13:30:57] Total 26650 files processed
+[INFO]-[2022/10/14 13:30:57] Total 26700 files processed
+[INFO]-[2022/10/14 13:30:58] Total 26750 files processed
+[INFO]-[2022/10/14 13:30:58] Total 26800 files processed
+[INFO]-[2022/10/14 13:30:58] Total 26850 files processed
+[INFO]-[2022/10/14 13:30:59] Total 26900 files processed
+[INFO]-[2022/10/14 13:30:59] Total 26950 files processed
+[INFO]-[2022/10/14 13:31:00] Total 27000 files processed
+[INFO]-[2022/10/14 13:31:00] Total 27050 files processed
+[INFO]-[2022/10/14 13:31:00] Total 27100 files processed
+[INFO]-[2022/10/14 13:31:02] Total 27150 files processed
+[INFO]-[2022/10/14 13:31:02] Total 27200 files processed
+[INFO]-[2022/10/14 13:31:03] Total 27250 files processed
+[INFO]-[2022/10/14 13:31:03] Total 27300 files processed
+[INFO]-[2022/10/14 13:31:03] Total 27350 files processed
+[INFO]-[2022/10/14 13:31:04] Total 27400 files processed
+[INFO]-[2022/10/14 13:31:04] Total 27450 files processed
+[INFO]-[2022/10/14 13:31:05] Total 27500 files processed
+[INFO]-[2022/10/14 13:31:05] Total 27550 files processed
+[INFO]-[2022/10/14 13:31:06] Total 27600 files processed
+[INFO]-[2022/10/14 13:31:06] Total 27650 files processed
+[INFO]-[2022/10/14 13:31:06] Total 27700 files processed
+[INFO]-[2022/10/14 13:31:07] Total 27750 files processed
+[INFO]-[2022/10/14 13:31:07] Total 27800 files processed
+[INFO]-[2022/10/14 13:31:08] Total 27850 files processed
+[INFO]-[2022/10/14 13:31:08] Total 27900 files processed
+[INFO]-[2022/10/14 13:31:08] Total 27950 files processed
+[INFO]-[2022/10/14 13:31:09] Total 28000 files processed
+[INFO]-[2022/10/14 13:31:09] Total 28050 files processed
+[INFO]-[2022/10/14 13:31:10] Total 28100 files processed
+[INFO]-[2022/10/14 13:31:10] Total 28150 files processed
+[INFO]-[2022/10/14 13:31:10] Total 28200 files processed
+[INFO]-[2022/10/14 13:31:11] Total 28250 files processed
+[INFO]-[2022/10/14 13:31:11] Total 28300 files processed
+[INFO]-[2022/10/14 13:31:12] Total 28350 files processed
+[INFO]-[2022/10/14 13:31:12] Total 28400 files processed
+[INFO]-[2022/10/14 13:31:12] Total 28450 files processed
+[INFO]-[2022/10/14 13:31:13] Total 28500 files processed
+[INFO]-[2022/10/14 13:31:13] Total 28550 files processed
+[INFO]-[2022/10/14 13:31:13] Total 28600 files processed
+[INFO]-[2022/10/14 13:31:14] Total 28650 files processed
+[INFO]-[2022/10/14 13:31:14] Total 28700 files processed
+[INFO]-[2022/10/14 13:31:15] Total 28750 files processed
+[INFO]-[2022/10/14 13:31:15] Total 28800 files processed
+[INFO]-[2022/10/14 13:31:15] Total 28850 files processed
+[INFO]-[2022/10/14 13:31:16] Total 28900 files processed
+[INFO]-[2022/10/14 13:31:16] Total 28950 files processed
+[INFO]-[2022/10/14 13:31:17] Total 29000 files processed
+[INFO]-[2022/10/14 13:31:17] Total 29050 files processed
+[INFO]-[2022/10/14 13:31:17] Total 29100 files processed
+[INFO]-[2022/10/14 13:31:18] Total 29150 files processed
+[INFO]-[2022/10/14 13:31:18] Total 29200 files processed
+[INFO]-[2022/10/14 13:31:19] Total 29250 files processed
+[INFO]-[2022/10/14 13:31:19] Total 29300 files processed
+[INFO]-[2022/10/14 13:31:19] Total 29350 files processed
+[INFO]-[2022/10/14 13:31:20] Total 29400 files processed
+[INFO]-[2022/10/14 13:31:20] Total 29450 files processed
+[INFO]-[2022/10/14 13:31:21] Total 29500 files processed
+[INFO]-[2022/10/14 13:31:21] Total 29550 files processed
+[INFO]-[2022/10/14 13:31:21] Total 29600 files processed
+[INFO]-[2022/10/14 13:31:22] Total 29650 files processed
+[INFO]-[2022/10/14 13:31:22] Total 29700 files processed
+[INFO]-[2022/10/14 13:31:23] Total 29750 files processed
+[INFO]-[2022/10/14 13:31:23] Total 29800 files processed
+[INFO]-[2022/10/14 13:31:23] Total 29850 files processed
+[INFO]-[2022/10/14 13:31:24] Total 29900 files processed
+[INFO]-[2022/10/14 13:31:24] Total 29950 files processed
+[INFO]-[2022/10/14 13:31:25] Total 30000 files processed
+[INFO]-[2022/10/14 13:31:25] Total 30050 files processed
+[INFO]-[2022/10/14 13:31:25] Total 30100 files processed
+[INFO]-[2022/10/14 13:31:26] Total 30150 files processed
+[INFO]-[2022/10/14 13:31:26] Total 30200 files processed
+[INFO]-[2022/10/14 13:31:27] Total 30250 files processed
+[INFO]-[2022/10/14 13:31:27] Total 30300 files processed
+[INFO]-[2022/10/14 13:31:27] Total 30350 files processed
+[INFO]-[2022/10/14 13:31:28] Total 30400 files processed
+[INFO]-[2022/10/14 13:31:28] Total 30450 files processed
+[INFO]-[2022/10/14 13:31:29] Total 30500 files processed
+[INFO]-[2022/10/14 13:31:29] Total 30550 files processed
+[INFO]-[2022/10/14 13:31:29] Total 30600 files processed
+[INFO]-[2022/10/14 13:31:30] Total 30650 files processed
+[INFO]-[2022/10/14 13:31:30] Total 30700 files processed
+[INFO]-[2022/10/14 13:31:30] Total 30750 files processed
+[INFO]-[2022/10/14 13:31:31] Total 30800 files processed
+[INFO]-[2022/10/14 13:31:31] Total 30850 files processed
+[INFO]-[2022/10/14 13:31:32] Total 30900 files processed
+[INFO]-[2022/10/14 13:31:32] Total 30950 files processed
+[INFO]-[2022/10/14 13:31:33] Total 31000 files processed
+[INFO]-[2022/10/14 13:31:33] Total 31050 files processed
+[INFO]-[2022/10/14 13:31:33] Total 31100 files processed
+[INFO]-[2022/10/14 13:31:34] Total 31150 files processed
+[INFO]-[2022/10/14 13:31:34] Total 31200 files processed
+[INFO]-[2022/10/14 13:31:35] Total 31250 files processed
+[INFO]-[2022/10/14 13:31:35] Total 31300 files processed
+[INFO]-[2022/10/14 13:31:35] Total 31350 files processed
+[INFO]-[2022/10/14 13:31:36] Total 31400 files processed
+[INFO]-[2022/10/14 13:31:36] Total 31450 files processed
+[INFO]-[2022/10/14 13:31:37] Total 31500 files processed
+[INFO]-[2022/10/14 13:31:37] Total 31550 files processed
+[INFO]-[2022/10/14 13:31:37] Total 31600 files processed
+[INFO]-[2022/10/14 13:31:38] Total 31650 files processed
+[INFO]-[2022/10/14 13:31:38] Total 31700 files processed
+[INFO]-[2022/10/14 13:31:39] Total 31750 files processed
+[INFO]-[2022/10/14 13:31:39] Total 31800 files processed
+[INFO]-[2022/10/14 13:31:39] Total 31850 files processed
+[INFO]-[2022/10/14 13:31:40] Total 31900 files processed
+[INFO]-[2022/10/14 13:31:40] Total 31950 files processed
+[INFO]-[2022/10/14 13:31:41] Total 32000 files processed
+[INFO]-[2022/10/14 13:31:41] Total 32050 files processed
+[INFO]-[2022/10/14 13:31:41] Total 32100 files processed
+[INFO]-[2022/10/14 13:31:42] Total 32150 files processed
+[INFO]-[2022/10/14 13:31:42] Total 32200 files processed
+[INFO]-[2022/10/14 13:31:43] Total 32250 files processed
+[INFO]-[2022/10/14 13:31:43] Total 32300 files processed
+[INFO]-[2022/10/14 13:31:43] Total 32350 files processed
+[INFO]-[2022/10/14 13:31:44] Total 32400 files processed
+[INFO]-[2022/10/14 13:31:44] Total 32450 files processed
+[INFO]-[2022/10/14 13:31:47] Total 32500 files processed
+[INFO]-[2022/10/14 13:31:47] Total 32550 files processed
+[INFO]-[2022/10/14 13:31:47] Total 32600 files processed
+[INFO]-[2022/10/14 13:31:47] Total 32650 files processed
+[INFO]-[2022/10/14 13:31:48] Total 32700 files processed
+[INFO]-[2022/10/14 13:31:48] Total 32750 files processed
+[INFO]-[2022/10/14 13:31:49] Total 32800 files processed
+[INFO]-[2022/10/14 13:31:50] Total 32850 files processed
+[INFO]-[2022/10/14 13:31:51] Total 32900 files processed
+[INFO]-[2022/10/14 13:31:52] Total 32950 files processed
+[INFO]-[2022/10/14 13:31:52] Total 33000 files processed
+[INFO]-[2022/10/14 13:31:53] Total 33050 files processed
+[INFO]-[2022/10/14 13:31:54] Total 33100 files processed
+[INFO]-[2022/10/14 13:31:54] Total 33150 files processed
+[INFO]-[2022/10/14 13:31:55] Total 33200 files processed
+[INFO]-[2022/10/14 13:31:55] Total 33250 files processed
+[INFO]-[2022/10/14 13:31:57] Total 33300 files processed
+[INFO]-[2022/10/14 13:31:57] Total 33350 files processed
+[INFO]-[2022/10/14 13:31:57] Total 33400 files processed
+[INFO]-[2022/10/14 13:31:58] Total 33450 files processed
+[INFO]-[2022/10/14 13:31:58] Total 33500 files processed
+[INFO]-[2022/10/14 13:31:58] Total 33550 files processed
+[INFO]-[2022/10/14 13:31:58] Total 33600 files processed
+[INFO]-[2022/10/14 13:31:59] Total 33650 files processed
+[INFO]-[2022/10/14 13:31:59] Total 33700 files processed
+[INFO]-[2022/10/14 13:32:00] Total 33750 files processed
+[INFO]-[2022/10/14 13:32:00] Total 33800 files processed
+[INFO]-[2022/10/14 13:32:00] Total 33850 files processed
+[INFO]-[2022/10/14 13:32:01] Total 33900 files processed
+[INFO]-[2022/10/14 13:32:01] Total 33950 files processed
+[INFO]-[2022/10/14 13:32:02] Total 34000 files processed
+[INFO]-[2022/10/14 13:32:02] Total 34050 files processed
+[INFO]-[2022/10/14 13:32:02] Total 34100 files processed
+[INFO]-[2022/10/14 13:32:03] Total 34150 files processed
+[INFO]-[2022/10/14 13:32:03] Total 34200 files processed
+[INFO]-[2022/10/14 13:32:04] Total 34250 files processed
+[INFO]-[2022/10/14 13:32:04] Total 34300 files processed
+[INFO]-[2022/10/14 13:32:05] Total 34350 files processed
+[INFO]-[2022/10/14 13:32:05] Total 34400 files processed
+[INFO]-[2022/10/14 13:32:05] Total 34450 files processed
+[INFO]-[2022/10/14 13:32:06] Total 34500 files processed
+[INFO]-[2022/10/14 13:32:06] Total 34550 files processed
+[INFO]-[2022/10/14 13:32:07] Total 34600 files processed
+[INFO]-[2022/10/14 13:32:07] Total 34650 files processed
+[INFO]-[2022/10/14 13:32:07] Total 34700 files processed
+[INFO]-[2022/10/14 13:32:08] Total 34750 files processed
+[INFO]-[2022/10/14 13:32:08] Total 34800 files processed
+[INFO]-[2022/10/14 13:32:09] Total 34850 files processed
+[INFO]-[2022/10/14 13:32:09] Total 34900 files processed
+[INFO]-[2022/10/14 13:32:09] Total 34950 files processed
+[INFO]-[2022/10/14 13:32:10] Total 35000 files processed
+[INFO]-[2022/10/14 13:32:10] Total 35050 files processed
+[INFO]-[2022/10/14 13:32:11] Total 35100 files processed
+[INFO]-[2022/10/14 13:32:11] Total 35150 files processed
+[INFO]-[2022/10/14 13:32:11] Total 35200 files processed
+[INFO]-[2022/10/14 13:32:12] Total 35250 files processed
+[INFO]-[2022/10/14 13:32:12] Total 35300 files processed
+[INFO]-[2022/10/14 13:32:13] Total 35350 files processed
+[INFO]-[2022/10/14 13:32:13] Total 35400 files processed
+[INFO]-[2022/10/14 13:32:13] Total 35450 files processed
+[INFO]-[2022/10/14 13:32:14] Total 35500 files processed
+[INFO]-[2022/10/14 13:32:14] Total 35550 files processed
+[INFO]-[2022/10/14 13:32:15] Total 35600 files processed
+[INFO]-[2022/10/14 13:32:15] Total 35650 files processed
+[INFO]-[2022/10/14 13:32:15] Total 35700 files processed
+[INFO]-[2022/10/14 13:32:16] Total 35750 files processed
+[INFO]-[2022/10/14 13:32:16] Total 35800 files processed
+[INFO]-[2022/10/14 13:32:17] Total 35850 files processed
+[INFO]-[2022/10/14 13:32:17] Total 35900 files processed
+[INFO]-[2022/10/14 13:32:17] Total 35950 files processed
+[INFO]-[2022/10/14 13:32:18] Total 36000 files processed
+[INFO]-[2022/10/14 13:32:18] Total 36050 files processed
+[INFO]-[2022/10/14 13:32:19] Total 36100 files processed
+[INFO]-[2022/10/14 13:32:19] Total 36150 files processed
+[INFO]-[2022/10/14 13:32:19] Total 36200 files processed
+[INFO]-[2022/10/14 13:32:20] Total 36250 files processed
+[INFO]-[2022/10/14 13:32:20] Total 36300 files processed
+[INFO]-[2022/10/14 13:32:21] Total 36350 files processed
+[INFO]-[2022/10/14 13:32:21] Total 36400 files processed
+[INFO]-[2022/10/14 13:32:22] Total 36450 files processed
+[INFO]-[2022/10/14 13:32:22] Total 36500 files processed
+[INFO]-[2022/10/14 13:32:22] Total 36550 files processed
+[INFO]-[2022/10/14 13:32:23] Total 36600 files processed
+[INFO]-[2022/10/14 13:32:23] Total 36650 files processed
+[INFO]-[2022/10/14 13:32:24] Total 36700 files processed
+[INFO]-[2022/10/14 13:32:24] Total 36750 files processed
+[INFO]-[2022/10/14 13:32:24] Total 36800 files processed
+[INFO]-[2022/10/14 13:32:25] Total 36850 files processed
+[INFO]-[2022/10/14 13:32:25] Total 36900 files processed
+[INFO]-[2022/10/14 13:32:26] Total 36950 files processed
+[INFO]-[2022/10/14 13:32:26] Total 37000 files processed
+[INFO]-[2022/10/14 13:32:26] Total 37050 files processed
+[INFO]-[2022/10/14 13:32:27] Total 37100 files processed
+[INFO]-[2022/10/14 13:32:27] Total 37150 files processed
+[INFO]-[2022/10/14 13:32:28] Total 37200 files processed
+[INFO]-[2022/10/14 13:32:28] Total 37250 files processed
+[INFO]-[2022/10/14 13:32:28] Total 37300 files processed
+[INFO]-[2022/10/14 13:32:29] Total 37350 files processed
+[INFO]-[2022/10/14 13:32:29] Total 37400 files processed
+[INFO]-[2022/10/14 13:32:29] Total 37450 files processed
+[INFO]-[2022/10/14 13:32:30] Total 37500 files processed
+[INFO]-[2022/10/14 13:32:30] Total 37550 files processed
+[INFO]-[2022/10/14 13:32:31] Total 37600 files processed
+[INFO]-[2022/10/14 13:32:31] Total 37650 files processed
+[INFO]-[2022/10/14 13:32:32] Total 37700 files processed
+[INFO]-[2022/10/14 13:32:34] Total 37750 files processed
+[INFO]-[2022/10/14 13:32:35] Total 37800 files processed
+[INFO]-[2022/10/14 13:32:36] Total 37850 files processed
+[INFO]-[2022/10/14 13:32:38] Total 37900 files processed
+[INFO]-[2022/10/14 13:32:39] Total 37950 files processed
+[INFO]-[2022/10/14 13:32:41] Total 38000 files processed
+[INFO]-[2022/10/14 13:32:42] Total 38050 files processed
+[INFO]-[2022/10/14 13:32:44] Total 38100 files processed
+[INFO]-[2022/10/14 13:32:45] Total 38150 files processed
+[INFO]-[2022/10/14 13:32:46] Total 38200 files processed
+[INFO]-[2022/10/14 13:32:48] Total 38250 files processed
+[INFO]-[2022/10/14 13:32:49] Total 38300 files processed
+[INFO]-[2022/10/14 13:32:49] Total 38350 files processed
+[INFO]-[2022/10/14 13:32:50] Total 38400 files processed
+[INFO]-[2022/10/14 13:32:50] Total 38450 files processed
+[INFO]-[2022/10/14 13:32:50] Total 38500 files processed
+[INFO]-[2022/10/14 13:32:51] Total 38550 files processed
+[INFO]-[2022/10/14 13:32:51] Total 38600 files processed
+[INFO]-[2022/10/14 13:32:52] Total 38650 files processed
+[INFO]-[2022/10/14 13:32:53] Total 38700 files processed
+[INFO]-[2022/10/14 13:32:53] Total 38750 files processed
+[INFO]-[2022/10/14 13:32:54] Total 38800 files processed
+[INFO]-[2022/10/14 13:32:54] Total 38850 files processed
+[INFO]-[2022/10/14 13:32:55] Total 38900 files processed
+[INFO]-[2022/10/14 13:32:55] Total 38950 files processed
+[INFO]-[2022/10/14 13:32:55] Total 39000 files processed
+[INFO]-[2022/10/14 13:32:56] Total 39050 files processed
+[INFO]-[2022/10/14 13:32:56] Total 39100 files processed
+[INFO]-[2022/10/14 13:32:56] Total 39150 files processed
+[INFO]-[2022/10/14 13:32:57] Total 39200 files processed
+[INFO]-[2022/10/14 13:32:57] Total 39250 files processed
+[INFO]-[2022/10/14 13:32:58] Total 39300 files processed
+[INFO]-[2022/10/14 13:32:58] Total 39350 files processed
+[INFO]-[2022/10/14 13:32:58] Total 39400 files processed
+[INFO]-[2022/10/14 13:32:59] Total 39450 files processed
+[INFO]-[2022/10/14 13:32:59] Total 39500 files processed
+[INFO]-[2022/10/14 13:32:59] Total 39550 files processed
+[INFO]-[2022/10/14 13:33:00] Total 39600 files processed
+[INFO]-[2022/10/14 13:33:00] Total 39650 files processed
+[INFO]-[2022/10/14 13:33:00] Total 39700 files processed
+[INFO]-[2022/10/14 13:33:01] Total 39750 files processed
+[INFO]-[2022/10/14 13:33:01] Total 39800 files processed
+[INFO]-[2022/10/14 13:33:02] Total 39850 files processed
+[INFO]-[2022/10/14 13:33:02] Total 39900 files processed
+[INFO]-[2022/10/14 13:33:02] Total 39950 files processed
+[INFO]-[2022/10/14 13:33:03] Total 40000 files processed
+[INFO]-[2022/10/14 13:33:03] Total 40050 files processed
+[INFO]-[2022/10/14 13:33:04] Total 40100 files processed
+[INFO]-[2022/10/14 13:33:04] Total 40150 files processed
+[INFO]-[2022/10/14 13:33:05] Total 40200 files processed
+[INFO]-[2022/10/14 13:33:05] Total 40250 files processed
+[INFO]-[2022/10/14 13:33:05] Total 40300 files processed
+[INFO]-[2022/10/14 13:33:06] Total 40350 files processed
+[INFO]-[2022/10/14 13:33:06] Total 40400 files processed
+[INFO]-[2022/10/14 13:33:07] Total 40450 files processed
+[INFO]-[2022/10/14 13:33:07] Total 40500 files processed
+[INFO]-[2022/10/14 13:33:07] Total 40550 files processed
+[INFO]-[2022/10/14 13:33:08] Total 40600 files processed
+[INFO]-[2022/10/14 13:33:08] Total 40650 files processed
+[INFO]-[2022/10/14 13:33:08] Total 40700 files processed
+[INFO]-[2022/10/14 13:33:09] Total 40750 files processed
+[INFO]-[2022/10/14 13:33:09] Total 40800 files processed
+[INFO]-[2022/10/14 13:33:10] Total 40850 files processed
+[INFO]-[2022/10/14 13:33:10] Total 40900 files processed
+[INFO]-[2022/10/14 13:33:10] Total 40950 files processed
+[INFO]-[2022/10/14 13:33:11] Total 41000 files processed
+[INFO]-[2022/10/14 13:33:11] Total 41050 files processed
+[INFO]-[2022/10/14 13:33:12] Total 41100 files processed
+[INFO]-[2022/10/14 13:33:12] Total 41150 files processed
+[INFO]-[2022/10/14 13:33:12] Total 41200 files processed
+[INFO]-[2022/10/14 13:33:13] Total 41250 files processed
+[INFO]-[2022/10/14 13:33:13] Total 41300 files processed
+[INFO]-[2022/10/14 13:33:14] Total 41350 files processed
+[INFO]-[2022/10/14 13:33:14] Total 41400 files processed
+[INFO]-[2022/10/14 13:33:14] Total 41450 files processed
+[INFO]-[2022/10/14 13:33:15] Total 41500 files processed
+[INFO]-[2022/10/14 13:33:15] Total 41550 files processed
+[INFO]-[2022/10/14 13:33:16] Total 41600 files processed
+[INFO]-[2022/10/14 13:33:16] Total 41650 files processed
+[INFO]-[2022/10/14 13:33:16] Total 41700 files processed
+[INFO]-[2022/10/14 13:33:17] Total 41750 files processed
+[INFO]-[2022/10/14 13:33:17] Total 41800 files processed
+[INFO]-[2022/10/14 13:33:18] Total 41850 files processed
+[INFO]-[2022/10/14 13:33:18] Total 41900 files processed
+[INFO]-[2022/10/14 13:33:18] Total 41950 files processed
+[INFO]-[2022/10/14 13:33:19] Total 42000 files processed
+[INFO]-[2022/10/14 13:33:19] Total 42050 files processed
+[INFO]-[2022/10/14 13:33:20] Total 42100 files processed
+[INFO]-[2022/10/14 13:33:20] Total 42150 files processed
+[INFO]-[2022/10/14 13:33:20] Total 42200 files processed
+[INFO]-[2022/10/14 13:33:21] Total 42250 files processed
+[INFO]-[2022/10/14 13:33:21] Total 42300 files processed
+[INFO]-[2022/10/14 13:33:22] Total 42350 files processed
+[INFO]-[2022/10/14 13:33:22] Total 42400 files processed
+[INFO]-[2022/10/14 13:33:23] Total 42450 files processed
+[INFO]-[2022/10/14 13:33:23] Total 42500 files processed
+[INFO]-[2022/10/14 13:33:23] Total 42550 files processed
+[INFO]-[2022/10/14 13:33:24] Total 42600 files processed
+[INFO]-[2022/10/14 13:33:24] Total 42650 files processed
+[INFO]-[2022/10/14 13:33:24] Total 42700 files processed
+[INFO]-[2022/10/14 13:33:24] Total 42750 files processed
+[INFO]-[2022/10/14 13:33:25] Total 42800 files processed
+[INFO]-[2022/10/14 13:33:25] Total 42850 files processed
+[INFO]-[2022/10/14 13:33:25] Total 42900 files processed
+[INFO]-[2022/10/14 13:33:26] Total 42950 files processed
+[INFO]-[2022/10/14 13:33:26] Total 43000 files processed
+[INFO]-[2022/10/14 13:33:26] Total 43050 files processed
+[INFO]-[2022/10/14 13:33:27] Total 43100 files processed
+[INFO]-[2022/10/14 13:33:27] Total 43150 files processed
+[INFO]-[2022/10/14 13:33:28] Total 43200 files processed
+[INFO]-[2022/10/14 13:33:28] Total 43250 files processed
+[INFO]-[2022/10/14 13:33:28] Total 43300 files processed
+[INFO]-[2022/10/14 13:33:29] Total 43350 files processed
+[INFO]-[2022/10/14 13:33:29] Total 43400 files processed
+[INFO]-[2022/10/14 13:33:30] Total 43450 files processed
+[INFO]-[2022/10/14 13:33:30] Total 43500 files processed
+[INFO]-[2022/10/14 13:33:30] Total 43550 files processed
+[INFO]-[2022/10/14 13:33:31] Total 43600 files processed
+[INFO]-[2022/10/14 13:33:31] Total 43650 files processed
+[INFO]-[2022/10/14 13:33:31] Total 43700 files processed
+[INFO]-[2022/10/14 13:33:32] Total 43750 files processed
+[INFO]-[2022/10/14 13:33:32] Total 43800 files processed
+[INFO]-[2022/10/14 13:33:33] Total 43850 files processed
+[INFO]-[2022/10/14 13:33:33] Total 43900 files processed
+[INFO]-[2022/10/14 13:33:34] Total 43950 files processed
+[INFO]-[2022/10/14 13:33:34] Total 44000 files processed
+[INFO]-[2022/10/14 13:33:34] Total 44050 files processed
+[INFO]-[2022/10/14 13:33:36] Total 44100 files processed
+[INFO]-[2022/10/14 13:33:37] Total 44150 files processed
+[INFO]-[2022/10/14 13:33:39] Total 44200 files processed
+[INFO]-[2022/10/14 13:33:40] Total 44250 files processed
+[INFO]-[2022/10/14 13:33:40] Total 44300 files processed
+[INFO]-[2022/10/14 13:33:40] Total 44350 files processed
+[INFO]-[2022/10/14 13:33:41] Total 44400 files processed
+[INFO]-[2022/10/14 13:33:41] Total 44450 files processed
+[INFO]-[2022/10/14 13:33:41] Total 44500 files processed
+[INFO]-[2022/10/14 13:33:42] Total 44550 files processed
+[INFO]-[2022/10/14 13:33:42] Total 44600 files processed
+[INFO]-[2022/10/14 13:33:42] Total 44650 files processed
+[INFO]-[2022/10/14 13:33:43] Total 44700 files processed
+[INFO]-[2022/10/14 13:33:43] Total 44750 files processed
+[INFO]-[2022/10/14 13:33:44] Total 44800 files processed
+[INFO]-[2022/10/14 13:33:44] Total 44850 files processed
+[INFO]-[2022/10/14 13:33:44] Total 44900 files processed
+[INFO]-[2022/10/14 13:33:45] Total 44950 files processed
+[INFO]-[2022/10/14 13:33:45] Total 45000 files processed
+[INFO]-[2022/10/14 13:33:46] Total 45050 files processed
+[INFO]-[2022/10/14 13:33:46] Total 45100 files processed
+[INFO]-[2022/10/14 13:33:47] Total 45150 files processed
+[INFO]-[2022/10/14 13:33:47] Total 45200 files processed
+[INFO]-[2022/10/14 13:33:47] Total 45250 files processed
+[INFO]-[2022/10/14 13:33:48] Total 45300 files processed
+[INFO]-[2022/10/14 13:33:48] Total 45350 files processed
+[INFO]-[2022/10/14 13:33:49] Total 45400 files processed
+[INFO]-[2022/10/14 13:33:49] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_medias/2022/04/andrew-bui-z7rzbFHXym0-unsplash.jpg
+[INFO]-[2022/10/14 13:33:49] Total 45450 files processed
+[INFO]-[2022/10/14 13:33:50] Total 45500 files processed
+[INFO]-[2022/10/14 13:33:51] Total 45550 files processed
+[INFO]-[2022/10/14 13:33:51] Total 45600 files processed
+[INFO]-[2022/10/14 13:33:52] Total 45650 files processed
+[INFO]-[2022/10/14 13:33:52] Total 45700 files processed
+[INFO]-[2022/10/14 13:33:52] Total 45750 files processed
+[INFO]-[2022/10/14 13:33:52] Total 45800 files processed
+[INFO]-[2022/10/14 13:33:53] Total 45850 files processed
+[INFO]-[2022/10/14 13:33:53] Total 45900 files processed
+[INFO]-[2022/10/14 13:33:53] Total 45950 files processed
+[INFO]-[2022/10/14 13:33:54] Total 46000 files processed
+[INFO]-[2022/10/14 13:33:54] Total 46050 files processed
+[INFO]-[2022/10/14 13:33:55] Total 46100 files processed
+[INFO]-[2022/10/14 13:33:56] Total 46150 files processed
+[INFO]-[2022/10/14 13:33:57] Total 46200 files processed
+[INFO]-[2022/10/14 13:33:59] Total 46250 files processed
+[INFO]-[2022/10/14 13:34:02] Total 46300 files processed
+[INFO]-[2022/10/14 13:34:02] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/buddyboss-app-export.zip
+[INFO]-[2022/10/14 13:34:03] Total 46350 files processed
+[INFO]-[2022/10/14 13:34:03] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/h5p/exports/course-presentation-2.h5p
+[INFO]-[2022/10/14 13:34:03] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/h5p/exports/interactive-video-3.h5p
+[INFO]-[2022/10/14 13:34:06] Total 46400 files processed
+[INFO]-[2022/10/14 13:34:06] Total 46450 files processed
+[INFO]-[2022/10/14 13:34:07] Total 46500 files processed
+[INFO]-[2022/10/14 13:34:07] Total 46550 files processed
+[INFO]-[2022/10/14 13:34:07] Total 46600 files processed
+[INFO]-[2022/10/14 13:34:07] Total 46650 files processed
+[INFO]-[2022/10/14 13:34:08] Total 46700 files processed
+[INFO]-[2022/10/14 13:34:08] Total 46750 files processed
+[INFO]-[2022/10/14 13:34:08] Total 46800 files processed
+[INFO]-[2022/10/14 13:34:09] Total 46850 files processed
+[INFO]-[2022/10/14 13:34:09] Total 46900 files processed
+[INFO]-[2022/10/14 13:34:10] Total 46950 files processed
+[INFO]-[2022/10/14 13:34:10] Total 47000 files processed
+[INFO]-[2022/10/14 13:34:10] Total 47050 files processed
+[INFO]-[2022/10/14 13:34:11] Total 47100 files processed
+[INFO]-[2022/10/14 13:34:11] Total 47150 files processed
+[INFO]-[2022/10/14 13:34:12] Total 47200 files processed
+[INFO]-[2022/10/14 13:34:12] Total 47250 files processed
+[INFO]-[2022/10/14 13:34:12] Total 47300 files processed
+[INFO]-[2022/10/14 13:34:13] Total 47350 files processed
+[INFO]-[2022/10/14 13:34:13] Total 47400 files processed
+[INFO]-[2022/10/14 13:34:14] Total 47450 files processed
+[INFO]-[2022/10/14 13:34:14] Total 47500 files processed
+[INFO]-[2022/10/14 13:34:14] Total 47550 files processed
+[INFO]-[2022/10/14 13:34:15] Total 47600 files processed
+[INFO]-[2022/10/14 13:34:15] Total 47650 files processed
+[INFO]-[2022/10/14 13:34:16] Total 47700 files processed
+[INFO]-[2022/10/14 13:34:16] Total 47750 files processed
+[INFO]-[2022/10/14 13:34:16] Total 47800 files processed
+[INFO]-[2022/10/14 13:34:17] Total 47850 files processed
+[INFO]-[2022/10/14 13:34:17] Total 47900 files processed
+[INFO]-[2022/10/14 13:34:18] Total 47950 files processed
+[INFO]-[2022/10/14 13:34:18] Total 48000 files processed
+[INFO]-[2022/10/14 13:34:18] Total 48050 files processed
+[INFO]-[2022/10/14 13:34:19] Total 48100 files processed
+[INFO]-[2022/10/14 13:34:19] Total 48150 files processed
+[INFO]-[2022/10/14 13:34:20] Total 48200 files processed
+[INFO]-[2022/10/14 13:34:20] Total 48250 files processed
+[INFO]-[2022/10/14 13:34:20] Total 48300 files processed
+[INFO]-[2022/10/14 13:34:21] Total 48350 files processed
+[INFO]-[2022/10/14 13:34:21] Total 48400 files processed
+[INFO]-[2022/10/14 13:34:22] Total 48450 files processed
+[INFO]-[2022/10/14 13:34:23] Total 48500 files processed
+[INFO]-[2022/10/14 13:34:23] Total 48550 files processed
+[INFO]-[2022/10/14 13:34:23] Total 48600 files processed
+[INFO]-[2022/10/14 13:34:23] Total 48650 files processed
+[INFO]-[2022/10/14 13:34:24] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_documents/2022/09/sample3.wav
+[INFO]-[2022/10/14 13:34:24] Total 48700 files processed
+[INFO]-[2022/10/14 13:34:24] Total 48750 files processed
+[INFO]-[2022/10/14 13:34:25] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_documents/2022/03/minimizing_resistance-540p.mp4
+[INFO]-[2022/10/14 13:34:25] Total 48800 files processed
+[INFO]-[2022/10/14 13:34:25] Total 48850 files processed
+[INFO]-[2022/10/14 13:34:26] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/09/pexels-krivec-ales-552779.jpg
+[INFO]-[2022/10/14 13:34:27] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/03/sample-mp4-file.mp4
+[INFO]-[2022/10/14 13:34:27] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/07/problematic-video.mp4
+[INFO]-[2022/10/14 13:34:27] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/07/20220701_200058-1.mp4
+[INFO]-[2022/10/14 13:34:27] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/07/problematic-video-1-1.mp4
+[INFO]-[2022/10/14 13:34:28] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/07/20220701_190224.mp4
+[INFO]-[2022/10/14 13:34:29] Total 48900 files processed
+[INFO]-[2022/10/14 13:34:29] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/bb_videos/2022/07/problematic-video-1.mp4
+[INFO]-[2022/10/14 13:34:30] Total 48950 files processed
+[INFO]-[2022/10/14 13:34:31] Total 49000 files processed
+[INFO]-[2022/10/14 13:34:31] Total 49050 files processed
+[INFO]-[2022/10/14 13:34:32] Total 49100 files processed
+[INFO]-[2022/10/14 13:34:33] Total 49150 files processed
+[INFO]-[2022/10/14 13:34:33] Total 49200 files processed
+[INFO]-[2022/10/14 13:34:34] Total 49250 files processed
+[INFO]-[2022/10/14 13:34:34] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/2022/04/sample-mp4-file.mp4
+[INFO]-[2022/10/14 13:34:35] Total 49300 files processed
+[INFO]-[2022/10/14 13:34:35] Total 49350 files processed
+[INFO]-[2022/10/14 13:34:35] Total 49400 files processed
+[INFO]-[2022/10/14 13:34:36] Total 49450 files processed
+[INFO]-[2022/10/14 13:34:36] Total 49500 files processed
+[INFO]-[2022/10/14 13:34:36] Total 49550 files processed
+[INFO]-[2022/10/14 13:34:37] Total 49600 files processed
+[INFO]-[2022/10/14 13:34:37] Total 49650 files processed
+[INFO]-[2022/10/14 13:34:37] Total 49700 files processed
+[INFO]-[2022/10/14 13:34:38] Total 49750 files processed
+[INFO]-[2022/10/14 13:34:38] Total 49800 files processed
+[INFO]-[2022/10/14 13:34:39] Total 49850 files processed
+[INFO]-[2022/10/14 13:34:39] Total 49900 files processed
+[INFO]-[2022/10/14 13:34:39] Total 49950 files processed
+[INFO]-[2022/10/14 13:34:40] Total 50000 files processed
+[INFO]-[2022/10/14 13:34:40] Total 50050 files processed
+[INFO]-[2022/10/14 13:34:41] Total 50100 files processed
+[INFO]-[2022/10/14 13:34:43] Total 50150 files processed
+[INFO]-[2022/10/14 13:34:45] Total 50200 files processed
+[INFO]-[2022/10/14 13:34:47] Total 50250 files processed
+[INFO]-[2022/10/14 13:34:47] Total 50300 files processed
+[INFO]-[2022/10/14 13:34:47] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/uploads/learndash/export/zips/learndash-export-20220818-62fdfcf293dba.zip
+[INFO]-[2022/10/14 13:34:47] Total 50350 files processed
+[INFO]-[2022/10/14 13:34:49] Total 50400 files processed
+[INFO]-[2022/10/14 13:34:49] Total 50450 files processed
+[INFO]-[2022/10/14 13:34:49] Total 50500 files processed
+[INFO]-[2022/10/14 13:34:50] Total 50550 files processed
+[INFO]-[2022/10/14 13:34:50] Total 50600 files processed
+[INFO]-[2022/10/14 13:34:50] Total 50650 files processed
+[INFO]-[2022/10/14 13:34:51] Total 50700 files processed
+[INFO]-[2022/10/14 13:34:51] Total 50750 files processed
+[INFO]-[2022/10/14 13:34:51] Total 50800 files processed
+[INFO]-[2022/10/14 13:34:52] Total 50850 files processed
+[INFO]-[2022/10/14 13:34:52] Total 50900 files processed
+[INFO]-[2022/10/14 13:34:53] Total 50950 files processed
+[INFO]-[2022/10/14 13:34:53] Total 51000 files processed
+[INFO]-[2022/10/14 13:34:53] Total 51050 files processed
+[INFO]-[2022/10/14 13:34:54] Total 51100 files processed
+[INFO]-[2022/10/14 13:34:54] Total 51150 files processed
+[INFO]-[2022/10/14 13:34:55] Total 51200 files processed
+[INFO]-[2022/10/14 13:34:55] Total 51250 files processed
+[INFO]-[2022/10/14 13:34:55] Total 51300 files processed
+[INFO]-[2022/10/14 13:34:56] Total 51350 files processed
+[INFO]-[2022/10/14 13:34:56] Total 51400 files processed
+[INFO]-[2022/10/14 13:34:57] Total 51450 files processed
+[INFO]-[2022/10/14 13:34:57] Total 51500 files processed
+[INFO]-[2022/10/14 13:34:58] Total 51550 files processed
+[INFO]-[2022/10/14 13:34:58] Total 51600 files processed
+[INFO]-[2022/10/14 13:34:58] Total 51650 files processed
+[INFO]-[2022/10/14 13:34:59] Total 51700 files processed
+[INFO]-[2022/10/14 13:35:00] Total 51750 files processed
+[INFO]-[2022/10/14 13:35:01] Total 51800 files processed
+[INFO]-[2022/10/14 13:35:01] Total 51850 files processed
+[INFO]-[2022/10/14 13:35:01] Total 51900 files processed
+[INFO]-[2022/10/14 13:35:02] Total 51950 files processed
+[INFO]-[2022/10/14 13:35:02] Total 52000 files processed
+[INFO]-[2022/10/14 13:35:02] Total 52050 files processed
+[INFO]-[2022/10/14 13:35:03] Total 52100 files processed
+[INFO]-[2022/10/14 13:35:03] Total 52150 files processed
+[INFO]-[2022/10/14 13:35:04] Total 52200 files processed
+[INFO]-[2022/10/14 13:35:04] Total 52250 files processed
+[INFO]-[2022/10/14 13:35:04] Total 52300 files processed
+[INFO]-[2022/10/14 13:35:05] Total 52350 files processed
+[INFO]-[2022/10/14 13:35:05] Total 52400 files processed
+[INFO]-[2022/10/14 13:35:06] Total 52450 files processed
+[INFO]-[2022/10/14 13:35:06] Total 52500 files processed
+[INFO]-[2022/10/14 13:35:07] Total 52550 files processed
+[INFO]-[2022/10/14 13:35:07] Total 52600 files processed
+[INFO]-[2022/10/14 13:35:08] Total 52650 files processed
+[INFO]-[2022/10/14 13:35:08] Total 52700 files processed
+[INFO]-[2022/10/14 13:35:08] Total 52750 files processed
+[INFO]-[2022/10/14 13:35:09] Total 52800 files processed
+[INFO]-[2022/10/14 13:35:09] Total 52850 files processed
+[INFO]-[2022/10/14 13:35:10] Total 52900 files processed
+[INFO]-[2022/10/14 13:35:10] Total 52950 files processed
+[INFO]-[2022/10/14 13:35:10] Total 53000 files processed
+[INFO]-[2022/10/14 13:35:11] Total 53050 files processed
+[INFO]-[2022/10/14 13:35:11] Total 53100 files processed
+[INFO]-[2022/10/14 13:35:12] Total 53150 files processed
+[INFO]-[2022/10/14 13:35:12] Total 53200 files processed
+[INFO]-[2022/10/14 13:35:13] Total 53250 files processed
+[INFO]-[2022/10/14 13:35:13] Total 53300 files processed
+[INFO]-[2022/10/14 13:35:13] Total 53350 files processed
+[INFO]-[2022/10/14 13:35:14] Total 53400 files processed
+[INFO]-[2022/10/14 13:35:14] Total 53450 files processed
+[INFO]-[2022/10/14 13:35:15] Total 53500 files processed
+[INFO]-[2022/10/14 13:35:15] Total 53550 files processed
+[INFO]-[2022/10/14 13:35:16] Total 53600 files processed
+[INFO]-[2022/10/14 13:35:16] Total 53650 files processed
+[INFO]-[2022/10/14 13:35:16] Total 53700 files processed
+[INFO]-[2022/10/14 13:35:17] Total 53750 files processed
+[INFO]-[2022/10/14 13:35:17] Total 53800 files processed
+[INFO]-[2022/10/14 13:35:18] Total 53850 files processed
+[INFO]-[2022/10/14 13:35:18] Total 53900 files processed
+[INFO]-[2022/10/14 13:35:18] Total 53950 files processed
+[INFO]-[2022/10/14 13:35:19] Total 54000 files processed
+[INFO]-[2022/10/14 13:35:19] Total 54050 files processed
+[INFO]-[2022/10/14 13:35:20] Total 54100 files processed
+[INFO]-[2022/10/14 13:35:20] Total 54150 files processed
+[INFO]-[2022/10/14 13:35:21] Total 54200 files processed
+[INFO]-[2022/10/14 13:35:21] Total 54250 files processed
+[INFO]-[2022/10/14 13:35:22] Total 54300 files processed
+[INFO]-[2022/10/14 13:35:22] Total 54350 files processed
+[INFO]-[2022/10/14 13:35:23] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/ai1wm-backups/staging.ayronpaul.com-20220828-030620-xttnih.wpress
+[INFO]-[2022/10/14 13:35:23] Skipping big file: /home/u504941068/domains/ayronpaul.com/public_html/staging/wp-content/ai1wm-backups/staging.ayronpaul.com-20220822-071233-tqt8ba.wpress
+[INFO]-[2022/10/14 13:35:23] Total 54400 files processed
+[INFO]-[2022/10/14 13:35:23] Total 54450 files processed
+[INFO]-[2022/10/14 13:35:24] Total 54500 files processed
+[INFO]-[2022/10/14 13:35:25] Total 54550 files processed
+[INFO]-[2022/10/14 13:35:26] Total 54600 files processed
+[INFO]-[2022/10/14 13:35:27] Total 54650 files processed
+[INFO]-[2022/10/14 13:35:28] Total 54700 files processed
+[INFO]-[2022/10/14 13:35:30] Total 54750 files processed
+[INFO]-[2022/10/14 13:35:31] Total 54800 files processed
+[INFO]-[2022/10/14 13:35:32] Total 54850 files processed
+[INFO]-[2022/10/14 13:35:32] Total 54900 files processed
+[INFO]-[2022/10/14 13:35:32] Total 54950 files processed
+[INFO]-[2022/10/14 13:35:33] Total 55000 files processed
+[INFO]-[2022/10/14 13:35:33] Total 55050 files processed
+[INFO]-[2022/10/14 13:35:34] Total 55100 files processed
+[INFO]-[2022/10/14 13:35:34] Total 55150 files processed
+[INFO]-[2022/10/14 13:35:34] Total 55200 files processed
+[INFO]-[2022/10/14 13:35:35] Total 55250 files processed
+[INFO]-[2022/10/14 13:35:35] Total 55300 files processed
+[INFO]-[2022/10/14 13:35:35] Total 55350 files processed
+[INFO]-[2022/10/14 13:35:36] Total 55400 files processed
+[INFO]-[2022/10/14 13:35:36] Total 55450 files processed
+[INFO]-[2022/10/14 13:35:37] Total 55500 files processed
+[INFO]-[2022/10/14 13:35:37] Total 55550 files processed
+[INFO]-[2022/10/14 13:35:37] Total 55600 files processed
+[INFO]-[2022/10/14 13:35:38] Total 55650 files processed
+[INFO]-[2022/10/14 13:35:38] Total 55700 files processed
+[INFO]-[2022/10/14 13:35:39] Total 55750 files processed
+[INFO]-[2022/10/14 13:35:40] Total 55800 files processed
+[INFO]-[2022/10/14 13:35:40] Total 55850 files processed
+[INFO]-[2022/10/14 13:35:41] Total 55900 files processed
+[INFO]-[2022/10/14 13:35:41] Total 55950 files processed
+[INFO]-[2022/10/14 13:35:42] Total 56000 files processed
+[INFO]-[2022/10/14 13:35:42] Total 56050 files processed
+[INFO]-[2022/10/14 13:35:43] Total 56100 files processed
+[INFO]-[2022/10/14 13:35:43] Total 56150 files processed
+[INFO]-[2022/10/14 13:35:44] Total 56200 files processed
+[INFO]-[2022/10/14 13:35:44] Total 56250 files processed
+[INFO]-[2022/10/14 13:35:45] Total 56300 files processed
+[INFO]-[2022/10/14 13:35:45] Total 56350 files processed
+[INFO]-[2022/10/14 13:35:46] Total 56400 files processed
+[INFO]-[2022/10/14 13:35:46] Total 56450 files processed
+[INFO]-[2022/10/14 13:35:46] Total 56500 files processed
+[INFO]-[2022/10/14 13:35:47] Total 56550 files processed
+[INFO]-[2022/10/14 13:35:47] Total 56600 files processed
+[INFO]-[2022/10/14 13:35:47] Total 56650 files processed
+[INFO]-[2022/10/14 13:35:48] Total 56700 files processed
+[INFO]-[2022/10/14 13:35:48] Total 56750 files processed
+[INFO]-[2022/10/14 13:35:49] Total 56800 files processed
+[INFO]-[2022/10/14 13:35:49] Skipped symlinking Wp Uploads Folder
+[INFO]-[2022/10/14 13:35:49] Copying files finished
+[INFO]-[2022/10/14 13:35:49] DB Data Step 0: Copy wp-config.php file
+[INFO]-[2022/10/14 13:35:49] DB Data Step 0: Skipping: wp-config.php already exists in /home/u504941068/domains/ayronpaul.com/public_html/staging/1665753098543/wp-config.php
+[INFO]-[2022/10/14 13:35:50] DB Data Step 1: Updating siteurl and homeurl in wpstg0_options to https://staging.ayronpaul.com/1665753098543
+[INFO]-[2022/10/14 13:35:50] DB Data Step 3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2022/10/14 13:35:51] DB Data Step 4: Updating table_prefix in /home/u504941068/domains/ayronpaul.com/public_html/staging/1665753098543/wp-config.php to wpstg0_
+[INFO]-[2022/10/14 13:35:51] DB Data Step 5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2022/10/14 13:35:52] DB Data Step 6: Updating db prefix in wpstg0_options.
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Updating constants in wp-config.php
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:UPLOADS
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_PLUGIN_DIR
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_PLUGIN_URL
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_LANG_DIR
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_HOME
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_SITEURL
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_CACHE
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Added:WP_ENVIRONMENT_TYPE
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2022/10/14 13:35:52] DB Data Step 7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2022/10/14 13:35:52] Finish: Deleting clone job's cache files...
+[INFO]-[2022/10/14 13:35:52] Finish: Clone job's cache files have been deleted!
+[INFO]-[2022/10/14 13:35:52] Finish: Verifying existing clones...
+[INFO]-[2022/10/14 13:35:52] Finish: The job finished!
