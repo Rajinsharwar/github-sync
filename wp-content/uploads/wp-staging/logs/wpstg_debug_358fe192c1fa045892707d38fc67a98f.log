@@ -1,0 +1,82 @@
+[WP STAGING Manual Logging][info][2022-10-14 13:08:43] Starting from a clean state...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:43] Sending request to: https://staging.ayronpaul.com/wp-admin/admin-ajax.php?action=wpstg_ajax_test_action&_ajax_nonce=29cc5e03dd
+[WP STAGING Manual Logging][info][2022-10-14 13:08:43] {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null}
+[WP STAGING Manual Logging][info][2022-10-14 13:08:43] runAjaxFeatureTest waited 0.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] runAjaxFeatureTest waited 0.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:44] runAjaxFeatureTest waited 1.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] runAjaxFeatureTest waited 1.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:45] runAjaxFeatureTest waited 2.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] runAjaxFeatureTest waited 2.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:46] runAjaxFeatureTest waited 3.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] runAjaxFeatureTest waited 3.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:47] runAjaxFeatureTest waited 4.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] runAjaxFeatureTest waited 4.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:48] runAjaxFeatureTest waited 5.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] runAjaxFeatureTest waited 5.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:49] runAjaxFeatureTest waited 6.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] runAjaxFeatureTest waited 6.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:50] runAjaxFeatureTest waited 7.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] runAjaxFeatureTest waited 7.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:51] runAjaxFeatureTest waited 8.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] runAjaxFeatureTest waited 8.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:52] runAjaxFeatureTest waited 9.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] runAjaxFeatureTest waited 9.5 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:53] runAjaxFeatureTest waited 10.0 seconds...
+[WP STAGING Manual Logging][info][2022-10-14 13:08:54] Fetched is equal to: 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:54] Fetched is equal to (get_option): 
+[WP STAGING Manual Logging][info][2022-10-14 13:08:54] runAjaxFeatureTest did not work
+[WP STAGING Manual Logging][info][2022-10-14 13:08:54] Running Queue Maintenance.
+[WP STAGING Manual Logging][info][2022-10-14 13:08:54] Removed 0 actions that were last updated before 2022-10-07 13:08:54.
+[WP STAGING Manual Logging][info][2022-10-15 13:11:21] Running Queue Maintenance.
+[WP STAGING Manual Logging][info][2022-10-15 13:11:21] Removed 0 actions that were last updated before 2022-10-08 13:11:21.
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] Starting from a clean state...
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] Sending request to: https://staging.ayronpaul.com/wp-admin/admin-ajax.php?action=wpstg_ajax_test_action&_ajax_nonce=f85a81898b
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] Running updateAjaxTestOption
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] Complete updateAjaxTestOption. New value: y
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null}
+[WP STAGING Manual Logging][info][2022-11-18 13:15:51] runAjaxFeatureTest waited 0.0 seconds...
+[WP STAGING Manual Logging][info][2022-11-18 13:15:52] Fetched is equal to: y
+[WP STAGING Manual Logging][info][2022-11-18 13:15:52] Fetched is equal to (get_option): y
+[WP STAGING Manual Logging][info][2022-11-18 13:15:52] runAjaxFeatureTest worked
+[WP STAGING Manual Logging][info][2022-11-18 13:15:52] Running Queue Maintenance.
+[WP STAGING Manual Logging][info][2022-11-18 13:15:52] Removed 0 actions that were last updated before 2022-11-11 13:15:52.
